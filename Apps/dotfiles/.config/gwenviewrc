@@ -1,0 +1,31 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+SideBarPage=operations
+
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpapers/Screen0001.jpg
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot_S02E06.mkv - VLC media player2.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot1.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot_~ : bash_001.jpeg
+File5[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - uvr-idje-spe - Brave_001.jpeg
+File6[$e]=$HOME/Downloads/WhatsApp Image 2021-07-09 at 2.19.01 PM.jpeg
+Name1[$e]=Screen0001.jpg
+Name2[$e]=Screenshot_S02E06.mkv - VLC media player2.png
+Name3[$e]=Screenshot1.png
+Name4[$e]=Screenshot_~ : bash_001.jpeg
+Name5[$e]=Screenshot_Meet - uvr-idje-spe - Brave_001.jpeg
+Name6[$e]=WhatsApp Image 2021-07-09 at 2.19.01 PM.jpeg
+
+[SideBar]
+IsVisible ViewMode=false
+SideBarSplitterSizes=242,1121

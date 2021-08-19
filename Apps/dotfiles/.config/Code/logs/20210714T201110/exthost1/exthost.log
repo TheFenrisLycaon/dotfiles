@@ -1,0 +1,405 @@
+[2021-07-14 20:11:13.876] [exthost] [info] extension host started
+[2021-07-14 20:11:13.991] [exthost] [info] Lock '/home/fenris/.config/Code/User/workspaceStorage/a90a6c562093348d5d0d947905cb5b9e/vscode.lock': Lock acquired.
+[2021-07-14 20:11:14.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-14 20:11:14.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-14 20:11:14.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-14 20:11:14.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-07-14 20:11:14.064] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2021-07-14 20:11:14.065] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/alefragnani.project-manager-12.3.0/dist/extension
+[2021-07-14 20:11:14.080] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-07-14 20:11:14.081] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-07-14 20:11:14.102] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2021-07-14 20:11:14.102] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-07-14 20:11:14.123] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":true,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"*"}
+[2021-07-14 20:11:14.123] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/github.vscode-pull-request-github-0.28.0/dist/extension
+[2021-07-14 20:11:14.155] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-07-14 20:11:14.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/pkief.material-icon-theme-4.8.0/dist/extension
+[2021-07-14 20:11:14.172] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-07-14 20:11:14.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-07-14 20:11:14.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-14 20:11:14.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-07-14 20:11:14.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-14 20:11:14.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-14 20:11:14.915] [exthost] [info] eager extensions activated
+[2021-07-14 20:11:14.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-14 20:11:14.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-14 20:11:14.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-14 20:11:14.987] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-14 20:11:14.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-14 20:11:14.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-14 20:11:15.354] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:python"}
+[2021-07-14 20:11:15.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-07-14 20:11:15.358] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-14 20:11:15.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension
+[2021-07-14 20:11:15.554] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-07-14 20:11:15.554] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/ms-toolsai.jupyter-2021.8.1013163132/out/client/extension
+[2021-07-14 20:11:17.061] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-07-14 20:11:17.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/extension.bundle.js
+[2021-07-14 20:13:13.624] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:13:13.624] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 20:14:14.150] [exthost] [info] ExtensionService#_doActivateExtension plibither8.remove-comments {"startup":false,"extensionId":{"value":"plibither8.remove-comments","_lower":"plibither8.remove-comments"},"activationEvent":"onCommand:extension.removeAllComments"}
+[2021-07-14 20:14:14.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/plibither8.remove-comments-1.2.2/out/extension
+[2021-07-14 20:14:14.452] [exthost] [info] ExtensionService#_doActivateExtension usernamehw.remove-empty-lines {"startup":false,"extensionId":{"value":"usernamehw.remove-empty-lines","_lower":"usernamehw.remove-empty-lines"},"activationEvent":"onCommand:remove-empty-lines.inDocument"}
+[2021-07-14 20:14:14.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/usernamehw.remove-empty-lines-0.0.7/dist/extension
+[2021-07-14 20:17:24.310] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:17:24.310] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 20:18:53.156] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:18:53.156] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 20:18:54.146] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:18:54.146] [exthost] [error] TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:446132)
+	at p (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:448795)
+	at async M.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:183488)
+[2021-07-14 20:18:57.279] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:18:57.279] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 20:23:13.022] [exthost] [info] ExtensionService#_doActivateExtension foxundermoon.shell-format {"startup":false,"extensionId":{"value":"foxundermoon.shell-format","_lower":"foxundermoon.shell-format"},"activationEvent":"onLanguage:shellscript"}
+[2021-07-14 20:23:13.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/foxundermoon.shell-format-7.1.0/dist/extension
+[2021-07-14 20:23:13.074] [exthost] [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode {"startup":false,"extensionId":{"value":"mads-hartmann.bash-ide-vscode","_lower":"mads-hartmann.bash-ide-vscode"},"activationEvent":"onLanguage:shellscript"}
+[2021-07-14 20:23:13.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/mads-hartmann.bash-ide-vscode-1.11.0/out/extension
+[2021-07-14 20:23:13.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-14 20:23:13.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-07-14 20:23:13.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-07-14 20:23:13.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-14 20:23:13.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-07-14 20:23:13.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-07-14 20:23:13.560] [exthost] [info] ExtensionService#_doActivateExtension lonefy.vscode-JS-CSS-HTML-formatter {"startup":false,"extensionId":{"value":"lonefy.vscode-JS-CSS-HTML-formatter","_lower":"lonefy.vscode-js-css-html-formatter"},"activationEvent":"onLanguage:json"}
+[2021-07-14 20:23:13.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/lonefy.vscode-js-css-html-formatter-0.2.3/out/src/extension
+[2021-07-14 20:32:01.092] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:32:01.092] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 20:32:40.647] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:32:40.647] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 20:33:55.357] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 20:33:55.357] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143141
+	at async M.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:183488)
+[2021-07-14 21:06:36.197] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:06:36.197] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:06:45.418] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:06:45.418] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:06:58.950] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:06:58.950] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:07:45.181] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:07:45.182] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:07:48.452] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:07:48.452] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:08:29.096] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:08:29.096] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:08:29.960] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:08:29.960] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:09:15.871] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:09:15.871] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:09:42.260] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:09:42.260] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:10:41.479] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:10:41.480] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:10:42.633] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:10:42.633] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:13:16.367] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:13:16.367] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:13:32.392] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:13:32.392] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:14:47.648] [exthost] [info] ExtensionService#_doActivateExtension sashaweiss.block-travel {"startup":false,"extensionId":{"value":"sashaweiss.block-travel","_lower":"sashaweiss.block-travel"},"activationEvent":"onCommand:block-travel.jumpDown"}
+[2021-07-14 21:14:47.649] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/sashaweiss.block-travel-0.0.2/src/extension
+[2021-07-14 21:17:00.184] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:17:00.184] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:17:44.889] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:17:44.889] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:17:45.292] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:17:45.292] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:19:01.950] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:19:01.950] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:27:13.153] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:27:13.153] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:27:14.215] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:27:14.215] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:28:03.835] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:28:03.835] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:28:30.293] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:28:30.293] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:29:51.555] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:29:51.555] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:31:03.902] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:31:03.903] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:38:06.244] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:38:06.244] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:40:52.374] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:40:52.374] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:45:10.631] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:45:10.631] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:45:35.290] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:45:35.290] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:45:49.524] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:45:49.524] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:46:02.991] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:46:02.991] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:47:17.702] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:47:17.702] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:47:40.993] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:47:40.994] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:47:41.378] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:47:41.378] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:47:41.870] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:47:41.870] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:47:42.439] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:47:42.439] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:48:29.567] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:48:29.567] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:48:41.851] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:48:41.851] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:48:46.118] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:48:46.118] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:49:01.539] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:49:01.539] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:50:26.209] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:50:26.209] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:50:26.479] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:50:26.480] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:50:55.925] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:50:55.925] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:51:31.685] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:51:31.685] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:54:27.912] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:54:27.912] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:56:44.862] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:56:44.862] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:57:23.505] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:57:23.505] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:57:23.783] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:57:23.783] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:57:24.238] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:57:24.238] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:57:25.381] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:57:25.381] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:58:08.897] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:58:08.897] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 21:58:51.750] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:58:51.750] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 21:59:04.559] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:59:04.560] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-14 21:59:04.602] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 21:59:04.602] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-14 22:00:03.498] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:00:03.498] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-14 22:00:03.633] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:00:03.633] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async M.resolveCompletionItem (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184223)
+[2021-07-14 22:09:17.787] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:09:17.788] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 22:09:23.067] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:09:23.067] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 22:09:23.440] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:09:23.440] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+[2021-07-14 22:18:40.024] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:18:40.025] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 22:18:40.719] [exthost] [error] [ms-python.python] provider FAILED
+[2021-07-14 22:18:40.719] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+[2021-07-14 22:29:51.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-07-14 22:29:51.674] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-07-14 22:29:51.827] [exthost] [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint {"startup":false,"extensionId":{"value":"DavidAnson.vscode-markdownlint","_lower":"davidanson.vscode-markdownlint"},"activationEvent":"onLanguage:markdown"}
+[2021-07-14 22:29:51.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fenris/.vscode/extensions/davidanson.vscode-markdownlint-0.42.1/bundle
+[2021-07-14 22:29:52.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"api"}
+[2021-07-14 22:29:52.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-math/dist/extension
+[2021-07-14 22:30:16.003] [exthost] [warning] DavidAnson.vscode-markdownlint - Code actions of kind 'quickfix 'requested but returned code action is of kind 'source.fixAll.markdownlint'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-07-14 22:42:40.915] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-14 22:42:40.935] [exthost] [info] Lock '/home/fenris/.config/Code/User/workspaceStorage/a90a6c562093348d5d0d947905cb5b9e/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-07-14 22:42:41.995] [exthost] [info] exiting with code 0

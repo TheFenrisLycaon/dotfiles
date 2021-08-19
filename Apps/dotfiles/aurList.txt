@@ -1,0 +1,5 @@
+adbfs-git r41.b687e00-1
+brave-bin 1:1.26.74-1
+laptop-mode-tools 1.74-1
+visual-studio-code-bin 1.58.0-1
+yay 10.2.3-1

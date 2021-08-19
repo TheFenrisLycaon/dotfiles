@@ -1,0 +1,26 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.config/Code/User/sync/settings/20210710T125454.json
+File2[$e]=$HOME/.config/Code/User/sync/settings/preview/settings.json
+File3[$e]=$HOME/.config/Code/User/sync/settings/lastSyncsettings.json
+File4[$e]=$HOME/.config/Code/User/sync/globalState/preview/globalState.json
+File5[$e]=$HOME/.config/Code/settings.json
+File6[$e]=$HOME/Videos/.directory
+File7[$e]=$HOME/Videos/S01E06.srt
+Name1[$e]=20210710T125454.json
+Name2[$e]=settings.json
+Name3[$e]=lastSyncsettings.json
+Name4[$e]=globalState.json
+Name5[$e]=settings.json
+Name6[$e]=.directory
+Name7[$e]=S01E06.srt

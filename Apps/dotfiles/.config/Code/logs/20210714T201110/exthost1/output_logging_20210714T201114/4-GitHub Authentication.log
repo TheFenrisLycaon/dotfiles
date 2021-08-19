@@ -1,0 +1,10 @@
+[Error  - 14:11:16.627] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Error  - 14:11:16.627] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Info  - 15:37:22.681] Logging in for the following scopes: read:user user:email repo
+[Trace  - 15:37:33.613] Handling Uri...
+[Info  - 15:37:33.613] Exchanging code for token...
+[Info  - 15:37:35.36] Token exchange success!
+[Info  - 15:37:35.38] Getting user info...
+[Info  - 15:37:35.690] Got account info!
+[Error  - 15:37:36.381] Setting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Info  - 15:37:43.223] Login success!

@@ -1,0 +1,58 @@
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+EditableUrl=true
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowZoomSlider=false
+SortingChoice=CaseInsensitiveSorting
+Version=200
+ViewPropsTimestamp=2021,7,10,12,0,55.348
+
+[IconsMode]
+FontWeight=50
+PreviewSize=112
+
+[KPropertiesDialog]
+LVDS1 Height 1366x768=486
+LVDS1 Width 1366x768=471
+
+[MainWindow]
+LVDS1 Height 1366x768=768
+LVDS1 Width 1366x768=683
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=0
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAB/AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE1gAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=vlc,mkv,code,VLC
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=audiothumbnail,ebookthumbnail,imagethumbnail,jpegthumbnail
+
+[SettingsDialog]
+LVDS1 Height 1366x768=440
+LVDS1 Width 1366x768=589
+
+[ViewPropertiesDialog]
+LVDS1 Height 1366x768=436
+LVDS1 Width 1366x768=375

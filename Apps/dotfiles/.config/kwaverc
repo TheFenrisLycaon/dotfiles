@@ -1,0 +1,27 @@
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=26
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJlAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAAMD/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAaL/////AAAAAAAAAAA=
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[plugin record]
+defaults=2,0,20,0,300,0,2021-07-17T19:55:00,0,30,alsa_input.pci-0000_00_1b.0.analog-stereo|sound_note,2,44100,0,16,401,32,13
+last_device_2=alsa_input.pci-0000_00_1b.0.analog-stereo|sound_note
+version=2.6

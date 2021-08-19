@@ -1,0 +1,10 @@
+[2021-07-14 20:18:54.150] [renderer1] [error] Cannot read property 'items' of undefined: TypeError: Cannot read property 'items' of undefined
+	at completionLengthMeasure (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:446132)
+	at p (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:448795)
+	at async M.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:183488)
+[2021-07-14 22:29:58.948] [renderer1] [error] Unable to read file '/home/fenris/work/Projects/Document-Station/README.md' (Error: File not modified since): Error: Unable to read file '/home/fenris/work/Projects/Document-Station/README.md' (Error: File not modified since)
+    at li.doReadFileStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:634:16898)
+    at async v.doRead (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2411:39796)
+    at async v.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2411:39524)
+    at async Kr.resolveFromFile (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2403:101904)
+    at async Object.factory (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2411:33682)

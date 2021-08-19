@@ -1,0 +1,27 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Apps/Telegram/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Apps,file:$HOME/Apps
+Recent URLs[$e]=file:$HOME/Apps/Telegram/
+iconViewIconSize=43
+
+[MainWindow]
+LVDS1 Height 1366x768=221
+LVDS1 Width 1366x768=404
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=26
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=911,454
+
+[Recent Files]
+File1[$e]=$HOME/work/Kamtech/BidFast-Main/Bugs.pptx
+File2[$e]=$HOME/Downloads/api.exe_extracted/base_library.zip
+File3[$e]=$HOME/Documents/Written/India 2025.docx
+Name1[$e]=Bugs.pptx
+Name2[$e]=base_library.zip
+Name3[$e]=India 2025.docx

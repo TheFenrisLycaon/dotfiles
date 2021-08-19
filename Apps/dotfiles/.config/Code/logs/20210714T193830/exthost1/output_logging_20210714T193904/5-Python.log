@@ -1,0 +1,32 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+Python interpreter path: ~/Apps/anaconda3/bin/python
+Error 2021-07-14 19:39:06: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/fenris/work/Projects/Document-Station/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/fenris/work/Projects/Document-Station/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+> ~/Apps/anaconda3/bin/python -m autopep8 --diff --line-range 1 9 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/bin/python -m autopep8 --diff --line-range 1 9 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/bin/python -m autopep8 --diff --line-range 1 4 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/bin/python -m autopep8 --diff --line-range 1 4 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> conda --version
+> conda --version
+Error 2021-07-14 20:08:20: Error while running worker[Worker 2]. undefined
+Error 2021-07-14 20:08:20: Error while running worker[Worker 1]. undefined

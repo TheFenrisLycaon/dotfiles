@@ -1,0 +1,10 @@
+[ConfigFile]
+use=XF86Config
+
+[Screen 0]
+bgamma=0.80
+ggamma=0.80
+rgamma=0.80
+
+[SyncBox]
+sync=no

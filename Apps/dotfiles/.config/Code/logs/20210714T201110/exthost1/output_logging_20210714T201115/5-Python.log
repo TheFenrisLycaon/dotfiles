@@ -1,0 +1,290 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+Python interpreter path: ~/Apps/anaconda3/bin/python
+Error 2021-07-14 20:11:17: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/fenris/work/Projects/Document-Station/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/fenris/work/Projects/Document-Station/.vscode/settings.json')
+	at _handleError (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:167834)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/home/fenris/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+Python interpreter path: ~/Apps/anaconda3/envs/webapp/bin/python
+Python interpreter path: ~/Apps/anaconda3/envs/ML/bin/python
+Python interpreter path: ~/Apps/anaconda3/envs/ML/bin/python3
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 103 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 103 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+
+Formatting with autopep8 failed.
+You could either install the 'autopep8' formatter, turn it off or use another formatter.
+Error: Module 'autopep8' not installed.
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import pip"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import pip"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -c "import autopep8"
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/contarst.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 9 9 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 9 9 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 16 23 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 16 23 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 25 55 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 25 55 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 63 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 63 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 17 17 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 17 17 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 9 15 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 9 15 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 3 36 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 3 36 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 46 47 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 58 58 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 60 60 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 60 60 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 8 8 ~/work/Projects/Document-Station/contarst.py.a908f81bbe6cfe3f89f3b161d534f82a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/bundled/native-stubs/cv2/cv2.pyi
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/bundled/native-stubs/cv2/cv2.pyi
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/bundled/native-stubs/cv2/cv2.pyi.7caa8fe9a4ad8de78ba4cd27af95b1b1.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/.vscode/extensions/ms-python.vscode-pylance-2021.7.2/dist/bundled/native-stubs/cv2/cv2.pyi.7caa8fe9a4ad8de78ba4cd27af95b1b1.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 62 64 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 62 64 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 67 91 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 67 91 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 100 104 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 100 104 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 1 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 1 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 37 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 1 37 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 70 110 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 70 110 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 113 153 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 113 153 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 6 12 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 6 12 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 12 13 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 12 13 ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 60 64 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 60 64 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 69 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 69 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 71 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 71 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/tilt.py.395205e969b4ed5515bf5714350cc06a.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 66 93 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 66 93 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 100 106 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 100 106 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 4 5 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 4 5 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 4 4 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 4 4 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 73 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 69 73 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 99 111 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 99 111 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 115 115 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 115 115 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 118 118 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 118 118 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 119 119 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 119 119 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 119 132 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 119 132 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/Scanner.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/Scanner.py
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 118 129 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff --line-range 118 129 ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+> ~/Apps/anaconda3/envs/ML/bin/python3 -m autopep8 --diff ~/work/Projects/Document-Station/main.py.158ef28dd940ccb22ccc724933b62c05.tmp
+cwd: ~/work/Projects/Document-Station
+Error 2021-07-14 22:42:40: Error while running worker[Worker 1]. undefined
+Error 2021-07-14 22:42:40: Error while running worker[Worker 2]. undefined

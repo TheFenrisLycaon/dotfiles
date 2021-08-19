@@ -1,0 +1,47 @@
+{
+   "checksum": "05c4cc47cf5de0150b3a0fbbfce5990d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13270541924568900",
+            "guid": "e7984c3b-8a7e-43b8-8181-0fc8ad93a3fa",
+            "id": "5",
+            "name": "Meet - zdp-dzmp-kgh",
+            "type": "url",
+            "url": "https://meet.google.com/_meet/zdp-dzmp-kgh?authuser=1&ijlm=1626067645823&hs=186"
+         }, {
+            "date_added": "13270673949560939",
+            "guid": "a1dabac8-5af0-4b7f-9f04-c93cec6886a0",
+            "id": "7",
+            "name": "Poop",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         } ],
+         "date_added": "13270381603275422",
+         "date_modified": "13270673949560939",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13270381603275426",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13270381603275429",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

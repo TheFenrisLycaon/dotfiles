@@ -1,0 +1,60 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "python.pythonPath": "/home/fenris/Apps/anaconda3/bin/python",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.suggestSelection": "first",
+    "python.languageServer": "Pylance",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.showStartPage": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Pitch Black",
+    "jupyter.sendSelectionToInteractiveWindow": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.scrollbar.horizontalScrollbarSize": 1,
+    "editor.scrollbar.verticalScrollbarSize": 1,
+    "editor.cursorStyle": "block",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.preferredDarkColorTheme": "Pitch Black",
+    "workbench.preferredLightColorTheme": "Pitch Black",
+    "workbench.editor.closeOnFileDelete": true,
+    "window.newWindowDimensions": "fullscreen",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "projectManager.git.baseFolders": [
+        "/home/fenris/work/"
+    ],
+    "python.defaultInterpreterPath": "/home/fenris/Apps/anaconda3/bin/python",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.inheritEnv": false,
+    "editor.renderControlCharacters": true,
+    "git.enableSmartCommit": true,
+    "window.menuBarVisibility": "toggle",
+    "git.autofetch": true,
+}

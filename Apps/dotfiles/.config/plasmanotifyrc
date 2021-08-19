@@ -1,0 +1,14 @@
+[Applications][appimagekit_a7b23981ca24dd89d4f1bb8adf897005-telegram_desktop]
+Seen=true
+
+[Applications][org.kde.spectacle]
+ShowBadges=false
+ShowInHistory=false
+ShowPopupsInDndMode=false
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
+
+[Services][kdeconnect]
+ShowInHistory=false
+ShowPopups=false
