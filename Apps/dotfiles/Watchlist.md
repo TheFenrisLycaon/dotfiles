@@ -1,5 +1,4 @@
 ## Anime
-
 Nagatoro (Ep12 onw)  
 Tokyo Revengers (Ep11 onw)  
 
@@ -10,26 +9,13 @@ Tokyo Revengers (Ep11 onw)
 - tommorow never dies
 - world not enough
 
-### Madagascar
-- I 
-- II
-- IV
-- Penguins
-
-Sherlock ( S01 E01 and E02 )
-
 ### STAR WARS
 - Clone Wars
 
 ### Transformers
-- Revenge
-- Dark
-- Last
-- Bumblebee
-
+- 2007
 
 ## Series
-
 Mentalist  
 How tty Dragon movie series ( 8 seasons )  
 
@@ -46,7 +32,6 @@ How tty Dragon movie series ( 8 seasons )
 - slingshot
 
 ## Star Trek
-
 - Motion Picture
 - Wrath of Khan (M)
 - Search for Spock (M)
