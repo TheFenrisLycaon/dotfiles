@@ -91,6 +91,12 @@ alias ga='git add '
 alias gc='git commit -m '
 alias gd='git push'
 
+# Dotfiles Git
+alias dg='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris'
+alias dga='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris add'
+alias dgc='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris commit -m '
+alias dgp='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris push'
+
 # python
 alias python='python3'
 alias pip='pip3'
@@ -162,4 +168,3 @@ timer() {
 # Utility commands to boost performance
 killall pdflatex
 c
-alias config='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris'
