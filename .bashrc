@@ -31,7 +31,8 @@ unset __conda_setup
 alias scraper='conda activate scraper;export PATH="/home/fenris/Apps/anaconda3/envs/scraper/bin/:$PATH"'
 alias ML='conda activate ML;export PATH="/home/fenris/Apps/anaconda3/envs/ML/bin/:$PATH"'
 alias web='conda activate webapp;export PATH="/home/fenris/Apps/anaconda3/envs/webapp/bin/:$PATH"'
- 
+alias gui='conda activate gui;export PATH="/home/fenris/Apps/anaconda3/envs/gui/bin/:$PATH"'
+
 # basic commands
 shopt -s autocd
 shopt -s cdspell # autocorrects cd misspellings
@@ -145,7 +146,7 @@ alias rr='curl -s -L https://bit.ly/2VRgukx | bash'
 # shortcuts
 alias cleanup='sudo bash /etc/init.d/cleanup.sh'
 alias r='clear;sudo -s'
-alias dark='cd ~/Apps/tools'
+alias dark='cd ~/Apps/tools; conda activate xxx;export PATH="/home/fenris/Apps/anaconda3/envs/xxx/bin/:$PATH"'
 alias jyp='jupyter notebook'
 alias bye='shutdown now'
 alias nf='c;neofetch'
@@ -165,6 +166,8 @@ timer() {
         (sleep $N && mpg123 -q /home/fenris/Apps/dotfiles/monkey.mp3) &&
         echo "timer set for $N"
 }
-# Utility commands to boost performance
-killall pdflatex
-c
+
+# ESP-IDF for ESP32 
+alias idfBegin='idf.py set-target esp32;idf.py menuconfig --style monochrome'
+alias idfBuild='idf.py build;idf.py -p /dev/ttyUSB0 -b 460800 flash'
+alias idfMonitor='idf.py -p /dev/ttyUSB0 monitor'
