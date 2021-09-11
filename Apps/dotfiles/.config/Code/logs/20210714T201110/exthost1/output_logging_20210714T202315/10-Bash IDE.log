@@ -1,5 +1,0 @@
-[Info  - 8:23:15 PM] BashLanguageServer initializing...
-Analyzing files matching glob "**/*@(.sh|.inc|.bash|.command)" inside /home/fenris/work/Projects/Document-Station
-Glob resolved with 0 files after 0.01 seconds
-Analyzer finished after 0.01 seconds
-[Info  - 8:23:16 PM] BashLanguageServer initialized

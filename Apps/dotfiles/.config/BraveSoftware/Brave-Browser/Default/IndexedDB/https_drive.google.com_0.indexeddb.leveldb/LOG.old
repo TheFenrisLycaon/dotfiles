@@ -1,6 +1,0 @@
-2021/07/13-23:49:07.408 2397 Creating DB /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
-2021/07/13-23:49:07.489 2397 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/13-23:52:56.032 2408 Level-0 table #5: started
-2021/07/13-23:52:56.082 2408 Level-0 table #5: 763194 bytes OK
-2021/07/13-23:52:56.116 2408 Delete type=0 #3
-2021/07/13-23:52:56.116 2408 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

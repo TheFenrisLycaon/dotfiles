@@ -1,9 +1,0 @@
-{
-  "segments": [
-    "virtual_env",
-    "ssh",
-    "git",
-    "jobs",
-    "root"
-  ]
-}
