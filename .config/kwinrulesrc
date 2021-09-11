@@ -1,0 +1,100 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum
+
+[1]
+Description=Application settings for telegramdesktop
+noborder=true
+noborderrule=4
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[10]
+Description=Application settings for processing-app-base
+maximizehoriz=true
+maximizehorizrule=4
+maximizevert=true
+maximizevertrule=4
+noborder=true
+noborderrule=4
+wmclass=sun-awt-x11-xframepeer processing-app-base
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
+Description=Application settings for notion-app
+maximizehoriz=true
+maximizehorizrule=4
+maximizevert=true
+maximizevertrule=4
+noborder=true
+noborderrule=4
+wmclass=notion-app
+wmclassmatch=1
+
+[3]
+Description=Application settings for okular
+noborder=true
+noborderrule=4
+wmclass=okular
+wmclassmatch=1
+
+[4]
+Description=Application settings for emacs
+minsize=1366,768
+minsizerule=2
+noborder=true
+noborderrule=4
+wmclass=emacs
+wmclassmatch=2
+
+[5]
+Description=Application settings for discord
+noborder=true
+noborderrule=4
+opacityactive=98
+opacityactiverule=2
+opacityinactive=95
+opacityinactiverule=2
+wmclass=discord
+wmclassmatch=1
+
+[6]
+Description=Application settings for code
+noborder=true
+noborderrule=4
+wmclass=code
+wmclassmatch=1
+
+[7]
+Description=Application settings for vlc
+noborder=true
+noborderrule=4
+wmclass=vlc
+wmclassmatch=1
+
+[8]
+Description=Application settings for brave-browser
+noborder=true
+noborderrule=4
+opacityactive=100
+opacityactiverule=2
+wmclass=brave-browser
+wmclassmatch=2
+
+[9]
+Description=Window settings for dolphin
+noborder=true
+noborderrule=4
+opacityactive=95
+opacityactiverule=2
+opacityinactive=50
+opacityinactiverule=2
+types=1
+windowrole=dolphin#1
+windowrolematch=1
+wmclass=dolphin
+wmclassmatch=1
+
+[General]
+count=10

@@ -1,0 +1,8 @@
+[General]
+char=33
+rtl=false
+selectedFont=Noto Sans,10,-1,0,50,0,0,0,0,0
+
+[MainWindow]
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=29

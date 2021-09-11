@@ -1,0 +1,57 @@
+[FileDialog]
+dialog_height=560
+dialog_width=884
+
+[KFileDialog Settings]
+Recent Files[$e]=audio.aac,file:$HOME/Downloads/main.wav,file:$HOME/Videos/audio.aac
+Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/Downloads/
+iconViewIconSize=43
+
+[KwaveFileDialog-kwave_open_dir]
+last_ext=*.wav
+last_url=file:///home/fenris/Downloads/
+
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=26
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJlAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALb/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAZj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+toolbars=3
+
+[MainWindow][Toolbar MainWidget Edit]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget File]
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Record/Playback]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[MainWindow][Toolbar MainWidget Zoom]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Recent Dirs]
+kwave_open_dir[$e]=file:$HOME/Downloads/,file:$HOME/Videos/,$HOME/Documents
+
+[Recent Files]
+0=/home/fenris/Downloads/main.wav
+1=/home/fenris/Videos/audio.aac
+2=/home/fenris/Music/Contention.mp3
+3=/home/fenris/Music/Moving on.flac
+
+[plugin noise]
+defaults=0.01,0
+version=2.3
+
+[plugin record]
+defaults=2,0,20,0,300,0,2021-08-16T19:55:00,0,30,default|sound_note,2,44100,0,16,401,32,13
+last_device_2=default|sound_note
+last_device_3=bluez5 device|sound_card||Rockerz 550|sound_device
+last_device_4=DSNOOP plugin|sound_note
+last_device_5=
+version=2.6

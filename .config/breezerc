@@ -1,0 +1,6 @@
+[Style]
+SliderDrawTickMarks=false
+TabBarDrawCenteredTabs=true
+ToolBarDrawItemSeparator=false
+ViewDrawFocusIndicator=false
+WindowDragMode=WD_NONE

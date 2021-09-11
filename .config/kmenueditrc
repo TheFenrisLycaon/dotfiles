@@ -1,0 +1,15 @@
+[General]
+SplitterSizes=240,1115
+
+[KFileDialog Settings]
+Recent Files[$e]=WebTorrent.png,file:$HOME/Apps/WebTorrent/WebTorrent,file:$HOME/Apps/WebTorrent/resources/app.asar.unpacked/static/WebTorrent.png
+Recent URLs[$e]=file:$HOME/Apps/WebTorrent/resources/app.asar.unpacked/static/,file:$HOME/Apps/WebTorrent/
+iconViewIconSize=43
+
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=245
+LVDS1 YPosition 1366x768=120
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

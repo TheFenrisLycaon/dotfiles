@@ -1,0 +1,4 @@
+[SynPS/2 Synaptics TouchPad]
+enabled=false
+naturalScroll=true
+tapToClick=true

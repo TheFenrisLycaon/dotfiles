@@ -1,0 +1,52 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[Crop]
+CropAdvancedSettingsEnabled=true
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[ImageView]
+ThumbnailSplitterSizes=505,144
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Important/Pic_SQ.jpg,file:$HOME/Pictures/Screenshots/Screenshot_~ _ bash_002_C.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Important/,file:$HOME/Pictures/Screenshots/
+detailViewIconSize=16
+iconViewIconSize=43
+
+[MainWindow]
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpapers/Screen0666.png
+File10[$e]=$HOME/Pictures/Wallpapers/Screen0738.png
+File2[$e]=$HOME/Pictures/Wallpapers/Screen0667.jpg
+File3[$e]=$HOME/Pictures/Wallpapers/Screen0668.png
+File4[$e]=$HOME/Pictures/Wallpapers/Screen0669.jpg
+File5[$e]=$HOME/Pictures/Wallpapers/Screen0670.png
+File6[$e]=$HOME/Pictures/Wallpapers/Screen0671.png
+File7[$e]=$HOME/Pictures/Wallpapers/Screen0672.png
+File8[$e]=$HOME/Pictures/Wallpapers/Screen0673.png
+File9[$e]=$HOME/Pictures/Wallpapers/Screen0674.png
+Name1[$e]=Screen0666.png
+Name10[$e]=Screen0738.png
+Name2[$e]=Screen0667.jpg
+Name3[$e]=Screen0668.png
+Name4[$e]=Screen0669.jpg
+Name5[$e]=Screen0670.png
+Name6[$e]=Screen0671.png
+Name7[$e]=Screen0672.png
+Name8[$e]=Screen0673.png
+Name9[$e]=Screen0674.png
+
+[SideBar]
+IsVisible ViewMode=false
+SideBarSplitterSizes=242,1121

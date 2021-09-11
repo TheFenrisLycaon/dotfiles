@@ -1,0 +1,4 @@
+[Event/lowbattery]
+Execute=
+Logfile=
+TTS=

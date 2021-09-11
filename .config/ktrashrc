@@ -1,0 +1,6 @@
+[/home/fenris/.local/share/Trash]
+Days=1
+LimitReachedAction=2
+Percent=10
+UseSizeLimit=true
+UseTimeLimit=true

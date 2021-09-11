@@ -1,0 +1,74 @@
+LVDS1 Window-Maximized 1366x768=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAB/AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAALgAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE1gAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+
+[CompactMode]
+FontWeight=50
+PreviewSize=64
+
+[Desktop Entry]
+DefaultProfile=coolsvile.profile
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+GlobalViewProps=false
+OpenExternallyCalledFolderInNewTab=false
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+ShowZoomSlider=false
+SortingChoice=CaseInsensitiveSorting
+UseTabForSwitchingSplitView=true
+Version=201
+ViewPropsTimestamp=2021,7,10,12,0,55.348
+
+[IconsMode]
+FontWeight=50
+PreviewSize=112
+
+[KPropertiesDialog]
+LVDS1 Height 1366x768=606
+LVDS1 Width 1366x768=483
+
+[MainWindow]
+LVDS1 Height 1366x768=768
+LVDS1 Width 1366x768=1366
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=0
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAB1AAACE/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAlgAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACEwAAAF0BAAADAAAAAQAAAMQAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAFVgAAAJEBAAADAAAE4AAAAhMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ConfirmEmptyTrash=true
+ShowVcsRestartInformation=false
+
+[Open-with settings]
+CompletionMode=1
+History=mkv,vlc,oku,gwe,neov,vim,neo,code,mk,VLC
+
+[PlacesPanel]
+IconSize=16
+
+[PreviewSettings]
+Plugins=audiothumbnail,imagethumbnail,jpegthumbnail,svgthumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+LVDS1 Height 1366x768=440
+LVDS1 Width 1366x768=589
+
+[VersionControl]
+enabledPlugins=Git
+
+[ViewPropertiesDialog]
+LVDS1 Height 1366x768=436
+LVDS1 Width 1366x768=375

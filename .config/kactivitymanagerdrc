@@ -1,0 +1,11 @@
+[activities]
+1cbaf04c-ff1c-4c50-8fc3-2b4550101a48=Work
+4b90b019-4540-41db-b846-8866c6e5863a=Default
+
+[activities-icons]
+1cbaf04c-ff1c-4c50-8fc3-2b4550101a48=activities
+
+[main]
+currentActivity=1cbaf04c-ff1c-4c50-8fc3-2b4550101a48
+runningActivities=4b90b019-4540-41db-b846-8866c6e5863a
+stoppedActivities=

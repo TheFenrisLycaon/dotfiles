@@ -1,0 +1,35 @@
+LVDS1 Window-Maximized 1366x768=true
+State=AAAA/wAAAAD9AAAAAAAABVYAAALiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=coolsvile.profile
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+FocusFollowsMouse=true
+RemoveWindowTitleBarAndFrame=true
+ShowMenuBarByDefault=false
+
+[MainWindow]
+LVDS1 Height 1366x768=768
+LVDS1 Width 1366x768=683
+LVDS1 Window-Maximized 1366x768=true
+LVDS1 XPosition 1366x768=683
+LVDS1 YPosition 1366x768=0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAqsAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+
+[Notification Messages]
+ShowPasteHugeTextWarning=false
+
+[SearchSettings]
+SearchRegExpression=true
+
+[SplitView]
+SplitViewVisibility=AlwaysHideSplitHeader
+
+[TabBar]
+TabBarVisibility=AlwaysHideTabBar
