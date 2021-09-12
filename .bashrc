@@ -99,8 +99,8 @@ alias dgc='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris co
 alias dgp='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris push'
 
 # python
-alias python='python3'
-alias pip='pip3'
+alias pp='python3'
+alias pins='pip3 install '
 
 # easy edits
 alias vimrc='nvim ~/.vimrc'
@@ -140,7 +140,7 @@ alias ytall="youtube-dl --extract-audio --audio-format flac "
 alias ytam="youtube-dl --extract-audio --audio-format mp3 "
 alias ytv="youtube-dl -f bestvideo+bestaudio "
 
-# the terminal rickroll
+# Useful curls.
 alias rr='curl -s -L https://bit.ly/2VRgukx | bash'
 
 # shortcuts
