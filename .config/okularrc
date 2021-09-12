@@ -1,6 +1,6 @@
 LVDS1 Window-Maximized 1366x768=true
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 
 [Desktop Entry]
 FullScreen=false
@@ -15,9 +15,12 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
+[Notification Messages]
+presentationInfo=false
+
 [Recent Files]
 File1[$e]=$HOME/Documents/Books/CS/BlackHatPy.pdf
-File10[$e]=$HOME/Downloads/2ec49157-4b60-4061-9633-8d839c914baf.pdf
+File10[$e]=$HOME/Documents/Resume.pdf
 File2[$e]=gdrive:/Work/Gov Docs/Adhaar Card.pdf?id=1O8z5UIgNxTmwyQ_9r8g4x773hG4HlGHh
 File3[$e]=gdrive:/Work/Gov Docs/PAN.pdf?id=1ZWoQId8YqatfJ13Z9dahI_P7eP_3gDXi
 File4[$e]=gdrive:/Work/Gov Docs/Dose_One_Certificate.pdf?id=13oiEiaLbZJ2tqx3ZbcxcWWw4nB1IDAxO
@@ -25,9 +28,9 @@ File5[$e]=$HOME/Documents/Declamation Speeches.pdf
 File6[$e]=$HOME/Documents/Books/CSE/PyWorkBook.pdf
 File7[$e]=$HOME/Documents/Books/CSE/PythonNotesForProfessionals.pdf
 File8[$e]=$HOME/Documents/Books/CSE/ML-Py (Wiley).pdf
-File9[$e]=$HOME/Documents/Resume.pdf
+File9[$e]=$HOME/work/dead/Music with Faces/README.md
 Name1[$e]=BlackHatPy.pdf
-Name10[$e]=2ec49157-4b60-4061-9633-8d839c914baf.pdf
+Name10[$e]=Resume.pdf
 Name2[$e]=Adhaar Card.pdf
 Name3[$e]=PAN.pdf
 Name4[$e]=Dose_One_Certificate.pdf
@@ -35,4 +38,4 @@ Name5[$e]=Declamation Speeches.pdf
 Name6[$e]=PyWorkBook.pdf
 Name7[$e]=PythonNotesForProfessionals.pdf
 Name8[$e]=ML-Py (Wiley).pdf
-Name9[$e]=Resume.pdf
+Name9[$e]=README.md

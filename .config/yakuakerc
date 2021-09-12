@@ -1,0 +1,17 @@
+[Appearance]
+Skin=legacy
+
+[Desktop Entry]
+DefaultProfile=coolsvile.profile
+
+[Dialogs]
+FirstRun=false
+
+[Notification Messages]
+hinding_title_bar=false
+
+[Window]
+ShowSystrayIcon=false
+ShowTabBar=false
+ShowTitleBar=false
+Width=75
