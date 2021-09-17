@@ -169,5 +169,6 @@ timer() {
 
 # ESP-IDF for ESP32 
 alias idfBegin='idf.py set-target esp32;idf.py menuconfig --style monochrome'
-alias idfBuild='idf.py build;idf.py -p /dev/ttyUSB0 -b 460800 flash'
+alias idfBuild='idf.py build'
+alias idfFlash='idf.py -p /dev/ttyUSB0 -b 460800 flash'
 alias idfMonitor='idf.py -p /dev/ttyUSB0 monitor'
