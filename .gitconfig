@@ -1,0 +1,10 @@
+[user]
+	name = TheFenrisLycaon
+	email = thefenrislycaon@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[init]
+	defaultBranch = main
+[mergetool]
+	keepBackup = false

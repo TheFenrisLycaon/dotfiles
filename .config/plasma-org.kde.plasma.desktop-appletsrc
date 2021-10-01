@@ -54,7 +54,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][28][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0632.png
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0459.jpg
 SlidePaths=/home/fenris/Pictures/Wallpapers
 
 [Containments][47]
@@ -112,7 +112,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][47][Applets][72][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][47][Applets][72][Configuration][Appearance]
 customDateFormat=dd
@@ -123,36 +123,6 @@ use24hFormat=2
 [Containments][47][Applets][72][Configuration][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
-
-[Containments][47][Applets][76]
-immutability=1
-plugin=org.kde.plasma.icon
-
-[Containments][47][Applets][76][Configuration]
-PreloadWeight=0
-localPath=/home/fenris/.local/share/plasma_icons/brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop
-url=file:///home/fenris/.local/share/applications/brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop
-
-[Containments][47][Applets][83]
-immutability=1
-plugin=org.kde.plasma.bigSur-inlineBattery
-
-[Containments][47][Applets][83][Configuration]
-PreloadWeight=62
-
-[Containments][47][Applets][83][Configuration][ConfigDialog]
-DialogHeight=558
-DialogWidth=720
-
-[Containments][47][Applets][83][Configuration][General]
-alignLeft=false
-chargingColor=#0713ee
-fontSize=12
-iconHeight=13
-lowBatteryColor=#ee0000
-lowBatteryPercent=15
-padding=5
-showPercentage=false
 
 [Containments][47][Applets][85]
 immutability=1
@@ -180,7 +150,7 @@ plugin=org.kde.plasma.icontasks
 PreloadWeight=0
 
 [Containments][47][Applets][86][Configuration][General]
-launchers=preferred://browser
+launchers=applications:chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-Profile_1.desktop,applications:chrome-pkjmikhjfekbpecnijapbekepjdoieci-Profile_1.desktop,preferred://browser,applications:chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop,applications:vlc.desktop
 
 [Containments][47][Applets][87]
 immutability=1
@@ -192,30 +162,12 @@ PreloadWeight=0
 [Containments][47][Applets][87][Configuration][General]
 length=583
 
-[Containments][47][Applets][90]
+[Containments][47][Applets][95]
 immutability=1
 plugin=org.kde.plasma.icon
 
-[Containments][47][Applets][90][Configuration]
-PreloadWeight=0
-localPath=/home/fenris/.local/share/plasma_icons/brave-pfoifhpmcaljblpdilcoagphmkgeccgd-Default.desktop
-url=file:///home/fenris/.local/share/applications/brave-pfoifhpmcaljblpdilcoagphmkgeccgd-Default.desktop
-
-[Containments][47][Applets][91]
-immutability=1
-plugin=org.kde.plasma.icon
-
-[Containments][47][Applets][91][Configuration]
-PreloadWeight=0
-localPath=/home/fenris/.local/share/plasma_icons/brave-pkjmikhjfekbpecnijapbekepjdoieci-Default.desktop
-url=file:///home/fenris/.local/share/applications/brave-pkjmikhjfekbpecnijapbekepjdoieci-Default.desktop
-
-[Containments][47][Applets][94]
-immutability=1
-plugin=org.kde.plasma.icon
-
-[Containments][47][Applets][94][Configuration]
-PreloadWeight=18
+[Containments][47][Applets][95][Configuration]
+PreloadWeight=10
 localPath=/home/fenris/.local/share/plasma_icons/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
 url=file:///home/fenris/.local/share/applications/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
 
@@ -227,7 +179,7 @@ DialogWidth=1366
 PreloadWeight=0
 
 [Containments][47][General]
-AppletOrder=85;68;70;71;90;94;86;76;91;87;52;72;83
+AppletOrder=85;68;70;71;95;86;87;52;72
 
 [Containments][53]
 activityId=
@@ -238,6 +190,28 @@ location=3
 plugin=org.kde.plasma.private.systemtray
 wallpaperplugin=org.kde.image
 
+[Containments][53][Applets][100]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Containments][53][Applets][100][Configuration]
+PreloadWeight=65
+showHumidityInTooltip=true
+showPressureInTooltip=true
+showTemperatureInCompactMode=false
+showTemperatureInTooltip=true
+showWindInTooltip=true
+source=bbcukmet|weather|Patna, India, IN|1260086
+updateInterval=30
+weatherServiceProviders=bbcukmet
+
+[Containments][53][Applets][100][Configuration][ConfigDialog]
+DialogHeight=558
+DialogWidth=720
+
+[Containments][53][Applets][101][Configuration]
+PreloadWeight=42
+
 [Containments][53][Applets][54][Configuration]
 PreloadWeight=42
 
@@ -246,14 +220,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=96
+PreloadWeight=22
 
 [Containments][53][Applets][56]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][53][Applets][56][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][53][Applets][57][Configuration]
 PreloadWeight=42
@@ -266,7 +240,10 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][53][Applets][59][Configuration]
-PreloadWeight=100
+PreloadWeight=96
+
+[Containments][53][Applets][59][Shortcuts]
+global=Meta+K
 
 [Containments][53][Applets][60][Configuration]
 PreloadWeight=42
@@ -276,7 +253,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=89
+PreloadWeight=27
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
@@ -293,7 +270,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=100
+PreloadWeight=78
 
 [Containments][53][Applets][66][Configuration]
 PreloadWeight=42
@@ -303,14 +280,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][53][Applets][67][Configuration]
-PreloadWeight=100
+PreloadWeight=73
 
 [Containments][53][Applets][73]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][53][Applets][73][Configuration]
-PreloadWeight=0
+PreloadWeight=15
 
 [Containments][53][Applets][73][Configuration][ConfigDialog]
 DialogHeight=558
@@ -321,7 +298,19 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=69
+PreloadWeight=12
+
+[Containments][53][Applets][96][Configuration]
+PreloadWeight=42
+
+[Containments][53][Applets][97][Configuration]
+PreloadWeight=42
+
+[Containments][53][Applets][98][Configuration]
+PreloadWeight=42
+
+[Containments][53][Applets][99][Configuration]
+PreloadWeight=42
 
 [Containments][53][ConfigDialog]
 DialogHeight=558
@@ -331,10 +320,10 @@ DialogWidth=720
 PreloadWeight=0
 
 [Containments][53][General]
-extraItems=org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.notifications
-hiddenItems=org.kde.kdeconnect,org.kde.plasma.networkmanagement,Plasma_microphone,org.kde.plasma.devicenotifier,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.bluetooth,TelegramDesktop,Discord,notion-app-enhanced1
-knownItems=org.kde.plasma.bluetooth,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.notifications
-shownItems=org.kde.plasma.clipboard,org.kde.plasma.volume
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.kdeconnect,org.kde.plasma.weather
+hiddenItems=org.kde.kdeconnect,Plasma_microphone,org.kde.plasma.devicenotifier,Discover Notifier_org.kde.DiscoverNotifier,TelegramDesktop,Discord,notion-app-enhanced1,com.github.whatsapp-for-linux.tray,whatsapp-nativefier-d402111,KTorrent,org.kde.plasma.weather
+knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect
+shownItems=org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
 
 [Containments][53][Shortcuts]
 global=Ctrl+`
@@ -357,12 +346,16 @@ DialogWidth=720
 [Containments][93][Configuration]
 PreloadWeight=0
 
+[Containments][93][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=300
+
 [Containments][93][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][93][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1398.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0566.jpg
 SlidePaths=/home/fenris/Pictures/Wallpapers
 
 [Containments47Appletsts][97][Configuration][Appearance]

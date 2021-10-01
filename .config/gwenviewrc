@@ -12,7 +12,7 @@ SideBarPage=operations
 ThumbnailSplitterSizes=505,144
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/Important/Pic_SQ.jpg,file:$HOME/Pictures/Screenshots/Screenshot_~ _ bash_002_C.jpg
+Recent Files[$e]=file:$HOME/Pictures/Important/Pic_SQ.jpg,file:$HOME/Pictures/Screenshots/Adhar_Front.jpeg
 Recent URLs[$e]=file:$HOME/Pictures/Important/,file:$HOME/Pictures/Screenshots/
 detailViewIconSize=16
 iconViewIconSize=43
@@ -26,27 +26,30 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Wallpapers/Screen0668.png
-File10[$e]=$HOME/Pictures/Wallpapers/Screen0731.png
-File2[$e]=$HOME/Pictures/Wallpapers/Screen0669.jpg
-File3[$e]=$HOME/Pictures/Wallpapers/Screen0670.png
-File4[$e]=$HOME/Pictures/Wallpapers/Screen0671.png
-File5[$e]=$HOME/Pictures/Wallpapers/Screen0672.png
-File6[$e]=$HOME/Pictures/Wallpapers/Screen0673.png
-File7[$e]=$HOME/Pictures/Wallpapers/Screen0674.png
-File8[$e]=$HOME/Pictures/Wallpapers/Screen0738.png
-File9[$e]=$HOME/work/dead/Patent/data/0.jpeg
-Name1[$e]=Screen0668.png
-Name10[$e]=Screen0731.png
-Name2[$e]=Screen0669.jpg
-Name3[$e]=Screen0670.png
-Name4[$e]=Screen0671.png
-Name5[$e]=Screen0672.png
-Name6[$e]=Screen0673.png
-Name7[$e]=Screen0674.png
-Name8[$e]=Screen0738.png
-Name9[$e]=0.jpeg
+File1[$e]=$HOME/Pictures/Wallpapers/Screen1346.jpg
+File10[$e]=$HOME/Downloads/5.png
+File2[$e]=$HOME/Pictures/Wallpapers/Screen1345.jpg
+File3[$e]=$HOME/Pictures/Wallpapers/Screen1344.jpg
+File4[$e]=$HOME/Pictures/Important/Peti.jpg
+File5[$e]=$HOME/Pictures/Important/#DevFestIndia_badge.png
+File6[$e]=$HOME/Downloads/1.png
+File7[$e]=$HOME/Downloads/2.png
+File8[$e]=$HOME/Downloads/3.png
+File9[$e]=$HOME/Downloads/4.png
+Name1[$e]=Screen1346.jpg
+Name10[$e]=5.png
+Name2[$e]=Screen1345.jpg
+Name3[$e]=Screen1344.jpg
+Name4[$e]=Peti.jpg
+Name5[$e]=#DevFestIndia_badge.png
+Name6[$e]=1.png
+Name7[$e]=2.png
+Name8[$e]=3.png
+Name9[$e]=4.png
 
 [SideBar]
 IsVisible ViewMode=false
 SideBarSplitterSizes=242,1121
+
+[ThumbnailView]
+ThumbnailSize=512

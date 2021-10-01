@@ -1,0 +1,67 @@
+15/07/21 (13:51:25) | ERROR: <urlopen error [Errno -3] Temporary failure in name resolution>
+Traceback (most recent call last):
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 1354, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 950, in send
+    self.connect()
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 1417, in connect
+    super().connect()
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/http/client.py", line 921, in connect
+    self.sock = self._create_connection(
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5009, in _checker
+    with urllib.request.urlopen("https://github.com/aristocratos/bpytop/raw/master/bpytop.py", timeout=5) as source: # type: ignore
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 1397, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/home/fenris/Apps/anaconda3/lib/python3.8/urllib/request.py", line 1357, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+25/08/21 (10:23:27) | ERROR: Exception when sending signal 9 to pid 399
+25/08/21 (10:23:27) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+25/08/21 (10:23:35) | ERROR: Input thread failed with exception: (5, 'Input/output error')
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 985, in _get_key
+    input_key = ""
+  File "/usr/bin/bpytop", line 778, in __exit__
+    termios.tcsetattr(self.stream, termios.TCSANOW, self.original_stty)
+termios.error: (5, 'Input/output error')
+25/08/21 (14:01:02) | ERROR: Exception when sending signal 9 to pid 371
+25/08/21 (14:01:02) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+25/08/21 (14:01:05) | ERROR: Exception when sending signal 9 to pid 384
+25/08/21 (14:01:05) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted

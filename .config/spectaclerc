@@ -8,11 +8,11 @@ clipboardGroup=PostScreenshotCopyImage
 [GuiConfig]
 includePointer=true
 quitAfterSaveCopyExport=true
-window-position=430,17
+window-position=404,0
 
 [Save]
 compressionQuality=100
 defaultSaveImageFormat=JPEG
 defaultSaveLocation=file:///home/fenris/Pictures/Screenshots/
-lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_MPLAB X IDE v5.50 - Exp_2_4662 : default_003.jpeg
+lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_MPLAB X IDE v5.50 - MST-1_4525 : default_003.jpeg
 saveFilenameFormat=Screenshot_%T_%3d

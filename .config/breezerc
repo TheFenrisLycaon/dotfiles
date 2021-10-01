@@ -1,4 +1,5 @@
 [Style]
+MenuOpacity=80
 SliderDrawTickMarks=false
 TabBarDrawCenteredTabs=true
 ToolBarDrawItemSeparator=false

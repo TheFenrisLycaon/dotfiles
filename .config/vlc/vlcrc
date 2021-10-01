@@ -1169,6 +1169,11 @@
 # Auto re-connect (boolean)
 #http-reconnect=0
 
+[nfs] # NFS input
+
+# Set NFS uid/guid automatically (boolean)
+#nfs-auto-guid=1
+
 [shm] # Shared memory framebuffer
 
 # Frame rate (float)

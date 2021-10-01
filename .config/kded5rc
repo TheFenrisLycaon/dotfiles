@@ -11,13 +11,13 @@ autoload=true
 autoload=false
 
 [Module-colorcorrectlocationupdater]
-autoload=true
+autoload=false
 
 [Module-device_automounter]
 autoload=true
 
 [Module-freespacenotifier]
-autoload=true
+autoload=false
 
 [Module-gtkconfig]
 autoload=true

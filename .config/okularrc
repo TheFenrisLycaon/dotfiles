@@ -7,9 +7,9 @@ FullScreen=false
 
 [MainWindow]
 LVDS1 Height 1366x768=768
-LVDS1 Width 1366x768=683
+LVDS1 Width 1366x768=1366
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=683
+LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
@@ -19,23 +19,23 @@ ToolBarsMovable=Disabled
 presentationInfo=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Books/CS/BlackHatPy.pdf
-File10[$e]=$HOME/Documents/Resume.pdf
-File2[$e]=gdrive:/Work/Gov Docs/Adhaar Card.pdf?id=1O8z5UIgNxTmwyQ_9r8g4x773hG4HlGHh
-File3[$e]=gdrive:/Work/Gov Docs/PAN.pdf?id=1ZWoQId8YqatfJ13Z9dahI_P7eP_3gDXi
-File4[$e]=gdrive:/Work/Gov Docs/Dose_One_Certificate.pdf?id=13oiEiaLbZJ2tqx3ZbcxcWWw4nB1IDAxO
-File5[$e]=$HOME/Documents/Declamation Speeches.pdf
-File6[$e]=$HOME/Documents/Books/CSE/PyWorkBook.pdf
-File7[$e]=$HOME/Documents/Books/CSE/PythonNotesForProfessionals.pdf
-File8[$e]=$HOME/Documents/Books/CSE/ML-Py (Wiley).pdf
-File9[$e]=$HOME/work/dead/Music with Faces/README.md
-Name1[$e]=BlackHatPy.pdf
-Name10[$e]=Resume.pdf
-Name2[$e]=Adhaar Card.pdf
-Name3[$e]=PAN.pdf
-Name4[$e]=Dose_One_Certificate.pdf
-Name5[$e]=Declamation Speeches.pdf
-Name6[$e]=PyWorkBook.pdf
-Name7[$e]=PythonNotesForProfessionals.pdf
-Name8[$e]=ML-Py (Wiley).pdf
-Name9[$e]=README.md
+File1[$e]=$HOME/Documents/RubyNotesForProfessionals.pdf
+File10[$e]=$HOME/work/Esp32/esp32-max30100-example-master/README.md
+File2[$e]=$HOME/work/Semester5/IoT_Design/Exp2.pdf
+File3[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
+File4[$e]=$HOME/Documents/Books/CS/CEH-Guide.pdf
+File5[$e]=$HOME/Documents/Books/Fiction/Pinter.pdf
+File6[$e]=$HOME/Documents/Books/Fiction/Darker by James, E L (z-lib.org).epub
+File7[$e]=$HOME/work/Semester5/Embedded_System/Practical/19BCS4525_Exp-3.pdf
+File8[$e]=$HOME/work/Semester5/Embedded_System/Practical/19BCS4525_Exp-2.pdf
+File9[$e]=$HOME/work/Semester5/Embedded_System/Practical/19BCS4525_Exp-1.pdf
+Name1[$e]=RubyNotesForProfessionals.pdf
+Name10[$e]=README.md
+Name2[$e]=Exp2.pdf
+Name3[$e]=Resume_Rishabh_Anand.pdf
+Name4[$e]=CEH-Guide.pdf
+Name5[$e]=Pinter.pdf
+Name6[$e]=Darker by James, E L (z-lib.org).epub
+Name7[$e]=19BCS4525_Exp-3.pdf
+Name8[$e]=19BCS4525_Exp-2.pdf
+Name9[$e]=19BCS4525_Exp-1.pdf

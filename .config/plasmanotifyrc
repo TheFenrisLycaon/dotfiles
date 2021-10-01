@@ -5,6 +5,9 @@ Seen=true
 Seen=true
 ShowPopups=false
 
+[Applications][chromium]
+Seen=true
+
 [Applications][discord]
 Seen=true
 

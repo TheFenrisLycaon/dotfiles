@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+LVDS1 Height 1366x768=384
+LVDS1 Width 1366x768=1024
+LVDS1 XPosition 1366x768=170
+LVDS1 YPosition 1366x768=0
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

@@ -7,11 +7,10 @@
     <Name>chrome-apps</Name>
     <Directory>chrome-apps.directory</Directory>
     <Include>
-        <Filename>brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop</Filename>
+        <Filename>chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop</Filename>
+        <Filename>chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-Profile_1.desktop</Filename>
+        <Filename>chrome-pkjmikhjfekbpecnijapbekepjdoieci-Profile_1.desktop</Filename>
         <Filename>brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop</Filename>
-        <Filename>brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default.desktop</Filename>
-        <Filename>brave-pkjmikhjfekbpecnijapbekepjdoieci-Default.desktop</Filename>
-        <Filename>brave-pfoifhpmcaljblpdilcoagphmkgeccgd-Default.desktop</Filename>
     </Include>
 </Menu>
 </Menu>

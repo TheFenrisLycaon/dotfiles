@@ -1,0 +1,266 @@
+22:23:05.262: CPU Name: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+22:23:05.262: CPU Speed: 2800.000MHz
+22:23:05.279: Physical Cores: 2, Logical Cores: 4
+22:23:05.279: Physical Memory: 7817MB Total, 1157MB Free
+22:23:05.279: Kernel Version: Linux 5.13.4-arch2-1
+22:23:05.279: Distribution: "Arch Linux" Unknown
+22:23:05.279: Session Type: x11
+22:23:05.279: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.12
+22:23:05.281: Portable mode: false
+22:23:05.409: OBS 27.0.1-2 (linux)
+22:23:05.409: ---------------------------------
+22:23:05.411: ---------------------------------
+22:23:05.411: audio settings reset:
+22:23:05.411: 	samples per sec: 48000
+22:23:05.411: 	speakers:        2
+22:23:05.414: ---------------------------------
+22:23:05.414: Initializing OpenGL...
+22:23:05.458: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 4000 (IVB GT2)
+22:23:05.458: OpenGL loaded successfully, version 4.2 (Core Profile) Mesa 21.1.5, shading language 4.20
+22:23:05.476: ---------------------------------
+22:23:05.476: video settings reset:
+22:23:05.476: 	base resolution:   1366x768
+22:23:05.476: 	output resolution: 1364x768
+22:23:05.476: 	downscale filter:  Bicubic
+22:23:05.476: 	fps:               30/1
+22:23:05.476: 	format:            NV12
+22:23:05.476: 	YUV mode:          709/Partial
+22:23:05.476: NV12 texture support not available
+22:23:05.481: Audio monitoring device:
+22:23:05.481: 	name: Default
+22:23:05.481: 	id: default
+22:23:05.481: ---------------------------------
+22:23:05.483: Failed to load 'en-US' text for module: 'decklink-captions.so'
+22:23:05.485: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+22:23:05.600: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+22:23:05.600: No blackmagic support
+22:23:05.614: v4l2loopback not installed, virtual camera disabled
+22:23:05.624: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+22:23:05.624: 
+22:23:05.624: FFMPEG VAAPI supported
+22:23:05.634: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+22:23:05.634: 
+22:23:05.634: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+22:23:05.635: ---------------------------------
+22:23:05.635:   Loaded Modules:
+22:23:05.635:     text-freetype2.so
+22:23:05.635:     rtmp-services.so
+22:23:05.635:     obs-x264.so
+22:23:05.635:     obs-transitions.so
+22:23:05.635:     obs-outputs.so
+22:23:05.635:     obs-libfdk.so
+22:23:05.635:     obs-filters.so
+22:23:05.635:     obs-ffmpeg.so
+22:23:05.636:     linux-v4l2.so
+22:23:05.636:     linux-pulseaudio.so
+22:23:05.636:     linux-jack.so
+22:23:05.636:     linux-decklink.so
+22:23:05.636:     linux-capture.so
+22:23:05.636:     linux-alsa.so
+22:23:05.636:     image-source.so
+22:23:05.636:     frontend-tools.so
+22:23:05.636:     decklink-ouput-ui.so
+22:23:05.636:     decklink-captions.so
+22:23:05.636: ---------------------------------
+22:23:05.636: ==== Startup complete ===============================================
+22:23:05.641: All scene data cleared
+22:23:05.641: ------------------------------------------------
+22:23:05.653: pulse-input: Server name: 'pulseaudio 14.2'
+22:23:05.654: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+22:23:05.654: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+22:23:05.654: [Loaded global audio device]: 'Desktop Audio'
+22:23:05.654: pulse-input: Server name: 'pulseaudio 14.2'
+22:23:05.655: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+22:23:05.655: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+22:23:05.655: [Loaded global audio device]: 'Mic/Aux'
+22:23:05.665: alsa-input: Failed to open 'default': Device or resource busy
+22:23:05.665: xshm-input: Geometry 1366x768 @ 0,0
+22:23:05.670: Switched to scene 'Scene'
+22:23:05.670: ------------------------------------------------
+22:23:05.670: Loaded scenes:
+22:23:05.670: - scene 'Scene':
+22:23:05.670:     - source: 'Screen Capture (XSHM)' (xshm_input)
+22:23:05.670:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+22:23:05.670: ------------------------------------------------
+22:23:06.668: alsa-input: Failed to open 'default': Device or resource busy
+22:23:08.442: Switched to Preview/Program mode
+22:23:08.442: ------------------------------------------------
+22:23:08.672: alsa-input: Failed to open 'default': Device or resource busy
+22:23:11.675: alsa-input: Failed to open 'default': Device or resource busy
+22:23:14.823: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+22:23:14.823: 
+22:23:15.680: alsa-input: Failed to open 'default': Device or resource busy
+22:23:20.686: alsa-input: Failed to open 'default': Device or resource busy
+22:23:25.691: alsa-input: Failed to open 'default': Device or resource busy
+22:23:30.693: alsa-input: Failed to open 'default': Device or resource busy
+22:23:35.696: alsa-input: Failed to open 'default': Device or resource busy
+22:23:40.700: alsa-input: Failed to open 'default': Device or resource busy
+22:23:45.702: alsa-input: Failed to open 'default': Device or resource busy
+22:23:50.707: alsa-input: Failed to open 'default': Device or resource busy
+22:23:51.348: ---------------------------------
+22:23:51.349: video settings reset:
+22:23:51.349: 	base resolution:   1366x768
+22:23:51.349: 	output resolution: 1364x768
+22:23:51.349: 	downscale filter:  Bicubic
+22:23:51.349: 	fps:               24000/1001
+22:23:51.349: 	format:            NV12
+22:23:51.349: 	YUV mode:          709/Partial
+22:23:51.349: NV12 texture support not available
+22:23:51.350: Settings changed (video)
+22:23:51.350: ------------------------------------------------
+22:23:55.710: alsa-input: Failed to open 'default': Device or resource busy
+22:24:00.715: alsa-input: Failed to open 'default': Device or resource busy
+22:24:05.718: alsa-input: Failed to open 'default': Device or resource busy
+22:24:10.721: alsa-input: Failed to open 'default': Device or resource busy
+22:24:13.636: Settings changed (outputs)
+22:24:13.636: ------------------------------------------------
+22:24:15.724: alsa-input: Failed to open 'default': Device or resource busy
+22:24:17.417: ---------------------------------
+22:24:17.417: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+22:24:17.417: [x264 encoder: 'simple_h264_recording'] profile: high
+22:24:17.417: [x264 encoder: 'simple_h264_recording'] settings:
+22:24:17.417: 	rate_control: CRF
+22:24:17.417: 	bitrate:      0
+22:24:17.417: 	buffer size:  0
+22:24:17.417: 	crf:          21
+22:24:17.417: 	fps_num:      24000
+22:24:17.417: 	fps_den:      1001
+22:24:17.417: 	width:        1364
+22:24:17.417: 	height:       768
+22:24:17.417: 	keyint:       250
+22:24:17.417: 
+22:24:17.422: libfdk_aac encoder created
+22:24:17.422: libfdk_aac bitrate: 192, channels: 2
+22:24:17.427: ==== Recording Start ===============================================
+22:24:17.427: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/fenris/Pictures/Screenshots/2021-07-26_22-24-17.mkv'...
+22:24:20.729: alsa-input: Failed to open 'default': Device or resource busy
+22:24:25.732: alsa-input: Failed to open 'default': Device or resource busy
+22:24:30.735: alsa-input: Failed to open 'default': Device or resource busy
+22:24:35.739: alsa-input: Failed to open 'default': Device or resource busy
+22:24:40.743: alsa-input: Failed to open 'default': Device or resource busy
+22:24:45.746: alsa-input: Failed to open 'default': Device or resource busy
+22:24:48.461: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/fenris/Pictures/Screenshots/2021-07-26_22-24-17.mkv' stopped
+22:24:48.461: Output 'simple_file_output': stopping
+22:24:48.461: Output 'simple_file_output': Total frames output: 723
+22:24:48.461: Output 'simple_file_output': Total drawn frames: 744
+22:24:48.461: ==== Recording Stop ================================================
+22:24:48.477: libfdk_aac encoder destroyed
+22:24:50.750: alsa-input: Failed to open 'default': Device or resource busy
+22:24:55.754: alsa-input: Failed to open 'default': Device or resource busy
+22:25:00.757: alsa-input: Failed to open 'default': Device or resource busy
+22:25:05.763: alsa-input: Failed to open 'default': Device or resource busy
+22:25:10.767: alsa-input: Failed to open 'default': Device or resource busy
+22:25:15.772: alsa-input: Failed to open 'default': Device or resource busy
+22:25:20.778: alsa-input: Failed to open 'default': Device or resource busy
+22:25:25.782: alsa-input: Failed to open 'default': Device or resource busy
+22:25:30.787: alsa-input: Failed to open 'default': Device or resource busy
+22:25:35.790: alsa-input: Failed to open 'default': Device or resource busy
+22:25:40.794: alsa-input: Failed to open 'default': Device or resource busy
+22:25:45.797: alsa-input: Failed to open 'default': Device or resource busy
+22:25:50.799: alsa-input: Failed to open 'default': Device or resource busy
+22:25:55.802: alsa-input: Failed to open 'default': Device or resource busy
+22:26:00.804: alsa-input: Failed to open 'default': Device or resource busy
+22:26:05.807: alsa-input: Failed to open 'default': Device or resource busy
+22:26:10.809: alsa-input: Failed to open 'default': Device or resource busy
+22:26:15.811: alsa-input: Failed to open 'default': Device or resource busy
+22:26:20.813: alsa-input: Failed to open 'default': Device or resource busy
+22:26:25.816: alsa-input: Failed to open 'default': Device or resource busy
+22:26:30.818: alsa-input: Failed to open 'default': Device or resource busy
+22:26:35.820: alsa-input: Failed to open 'default': Device or resource busy
+22:26:40.822: alsa-input: Failed to open 'default': Device or resource busy
+22:26:45.825: alsa-input: Failed to open 'default': Device or resource busy
+22:26:50.829: alsa-input: Failed to open 'default': Device or resource busy
+22:26:55.833: alsa-input: Failed to open 'default': Device or resource busy
+22:27:00.837: alsa-input: Failed to open 'default': Device or resource busy
+22:27:05.840: alsa-input: Failed to open 'default': Device or resource busy
+22:27:10.843: alsa-input: Failed to open 'default': Device or resource busy
+22:27:15.848: alsa-input: Failed to open 'default': Device or resource busy
+22:27:20.850: alsa-input: Failed to open 'default': Device or resource busy
+22:27:49.665: Last log entry repeated for 5 more lines
+22:27:49.665: ==== Shutting down ==================================================
+22:27:50.865: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+22:27:50.866: pulse-input: Got 57484 packets with 12572350 frames
+22:27:50.866: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+22:27:50.866: pulse-input: Got 28497 packets with 12572896 frames
+22:27:50.870: All scene data cleared
+22:27:50.870: ------------------------------------------------
+22:27:50.874: alsa-input: Failed to open '`': Device or resource busy
+22:27:50.970: [Scripting] Total detached callbacks: 0
+22:27:50.979: Freeing OBS context data
+22:27:51.004: == Profiler Results =============================
+22:27:51.004: run_program_init: 756.584 ms
+22:27:51.004:  ┣OBSApp::AppInit: 16.706 ms
+22:27:51.004:  ┃ ┗OBSApp::InitLocale: 1.728 ms
+22:27:51.004:  ┗OBSApp::OBSInit: 558.024 ms
+22:27:51.004:    ┣obs_startup: 32.939 ms
+22:27:51.004:    ┗OBSBasic::OBSInit: 394.688 ms
+22:27:51.004:      ┣OBSBasic::InitBasicConfig: 0.212 ms
+22:27:51.004:      ┣OBSBasic::ResetAudio: 0.346 ms
+22:27:51.004:      ┣OBSBasic::ResetVideo: 69.563 ms
+22:27:51.004:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+22:27:51.004:      ┣OBSBasic::InitHotkeys: 0.043 ms
+22:27:51.004:      ┣obs_load_all_modules: 154.02 ms
+22:27:51.004:      ┃ ┣obs_init_module(decklink-captions.so): 0.069 ms
+22:27:51.004:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 1.283 ms
+22:27:51.004:      ┃ ┣obs_init_module(frontend-tools.so): 104.368 ms
+22:27:51.004:      ┃ ┣obs_init_module(image-source.so): 0.006 ms
+22:27:51.004:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+22:27:51.004:      ┃ ┣obs_init_module(linux-capture.so): 0.625 ms
+22:27:51.005:      ┃ ┣obs_init_module(linux-decklink.so): 0.144 ms
+22:27:51.005:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+22:27:51.005:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+22:27:51.005:      ┃ ┣obs_init_module(linux-v4l2.so): 9.102 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.289 ms
+22:27:51.005:      ┃ ┃ ┗nvenc_check: 0.249 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-filters.so): 0.021 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-outputs.so): 0.001 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-transitions.so): 0.006 ms
+22:27:51.005:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+22:27:51.005:      ┃ ┣obs_init_module(rtmp-services.so): 0.769 ms
+22:27:51.005:      ┃ ┗obs_init_module(text-freetype2.so): 0.011 ms
+22:27:51.005:      ┣OBSBasic::ResetOutputs: 0.178 ms
+22:27:51.005:      ┣OBSBasic::CreateHotkeys: 0.059 ms
+22:27:51.005:      ┣OBSBasic::InitService: 2.1 ms
+22:27:51.005:      ┣OBSBasic::InitPrimitives: 0.228 ms
+22:27:51.005:      ┗OBSBasic::Load: 38.869 ms
+22:27:51.005: obs_hotkey_thread(25 ms): min=0.126 ms, median=0.472 ms, max=48.726 ms, 99th percentile=4.602 ms, 99.9277% below 25 ms
+22:27:51.005: audio_thread(Audio): min=0 ms, median=0.138 ms, max=15.179 ms, 99th percentile=1.501 ms
+22:27:51.005:  ┗receive_audio: min=0.002 ms, median=0.694 ms, max=15.063 ms, 99th percentile=1.846 ms, 0.108762 calls per parent call
+22:27:51.005:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.024 ms, 99th percentile=0.004 ms
+22:27:51.005:    ┗do_encode: min=0.131 ms, median=0.69 ms, max=15.057 ms, 99th percentile=1.838 ms
+22:27:51.005:      ┗encode(simple_aac_recording): min=0.122 ms, median=0.671 ms, max=15.048 ms, 99th percentile=1.824 ms
+22:27:51.005: obs_graphics_thread(33.3333 ms): min=0.145 ms, median=7.746 ms, max=30.219 ms, 99th percentile=12.115 ms, 100% below 33.333 ms
+22:27:51.005:  ┣tick_sources: min=0 ms, median=2.953 ms, max=8.984 ms, 99th percentile=4.719 ms
+22:27:51.005:  ┣output_frame: min=0.115 ms, median=0.308 ms, max=16.023 ms, 99th percentile=0.896 ms
+22:27:51.005:  ┃ ┗gs_context(video->graphics): min=0.114 ms, median=0.307 ms, max=16.022 ms, 99th percentile=0.895 ms
+22:27:51.005:  ┃   ┣render_video: min=0.046 ms, median=0.226 ms, max=15.859 ms, 99th percentile=0.658 ms
+22:27:51.005:  ┃   ┃ ┗render_main_texture: min=0.041 ms, median=0.219 ms, max=15.85 ms, 99th percentile=0.65 ms
+22:27:51.005:  ┃   ┗gs_flush: min=0.036 ms, median=0.062 ms, max=0.65 ms, 99th percentile=0.216 ms
+22:27:51.005:  ┗render_displays: min=0.004 ms, median=4.247 ms, max=26.799 ms, 99th percentile=8.347 ms
+22:27:51.005: obs_graphics_thread(41.7083 ms): min=0.134 ms, median=7.498 ms, max=54.142 ms, 99th percentile=17.498 ms, 99.9652% below 41.708 ms
+22:27:51.006:  ┣tick_sources: min=0.002 ms, median=2.487 ms, max=37.798 ms, 99th percentile=4.508 ms
+22:27:51.006:  ┣output_frame: min=0.103 ms, median=0.299 ms, max=16.323 ms, 99th percentile=1.748 ms
+22:27:51.006:  ┃ ┣gs_context(video->graphics): min=0.103 ms, median=0.298 ms, max=15.587 ms, 99th percentile=0.839 ms
+22:27:51.006:  ┃ ┃ ┣render_video: min=0.043 ms, median=0.216 ms, max=15.384 ms, 99th percentile=0.631 ms
+22:27:51.006:  ┃ ┃ ┃ ┣render_main_texture: min=0.039 ms, median=0.196 ms, max=1.228 ms, 99th percentile=0.453 ms
+22:27:51.006:  ┃ ┃ ┃ ┣render_output_texture: min=0.026 ms, median=0.033 ms, max=0.356 ms, 99th percentile=0.105 ms, 0.129504 calls per parent call
+22:27:51.006:  ┃ ┃ ┃ ┣render_convert_texture: min=0.046 ms, median=0.062 ms, max=0.729 ms, 99th percentile=0.293 ms, 0.129504 calls per parent call
+22:27:51.006:  ┃ ┃ ┃ ┗stage_output_texture: min=0.022 ms, median=0.034 ms, max=14.784 ms, 99th percentile=0.122 ms, 0.129504 calls per parent call
+22:27:51.006:  ┃ ┃ ┣gs_flush: min=0.036 ms, median=0.059 ms, max=0.782 ms, 99th percentile=0.206 ms
+22:27:51.006:  ┃ ┃ ┗download_frame: min=0 ms, median=0.008 ms, max=0.207 ms, 99th percentile=0.029 ms, 0.129504 calls per parent call
+22:27:51.006:  ┃ ┗output_video_data: min=0.21 ms, median=0.634 ms, max=5.344 ms, 99th percentile=2.842 ms, 0.12933 calls per parent call
+22:27:51.006:  ┗render_displays: min=0.006 ms, median=4.282 ms, max=49.826 ms, 99th percentile=13.113 ms
+22:27:51.006: OBSBasic::ResetVideo: 36.478 ms
+22:27:51.006: OBSBasic::ResetOutputs: 0.124 ms
+22:27:51.006: video_thread(video): min=1.104 ms, median=2.33 ms, max=17.268 ms, 99th percentile=7.21 ms
+22:27:51.006:  ┗receive_video: min=1.103 ms, median=2.324 ms, max=17.255 ms, 99th percentile=7.207 ms
+22:27:51.006:    ┗do_encode: min=1.102 ms, median=2.323 ms, max=17.252 ms, 99th percentile=7.204 ms
+22:27:51.006:      ┗encode(simple_h264_recording): min=1.092 ms, median=2.297 ms, max=17.243 ms, 99th percentile=6.17 ms
+22:27:51.006: =================================================
+22:27:51.006: == Profiler Time Between Calls ==================
+22:27:51.006: obs_hotkey_thread(25 ms): min=25.188 ms, median=25.574 ms, max=73.803 ms, 40.434% within ±2% of 25 ms (0% lower, 59.566% higher)
+22:27:51.006: obs_graphics_thread(33.3333 ms): min=30.343 ms, median=33.334 ms, max=36.351 ms, 99.8545% within ±2% of 33.333 ms (0.0727273% lower, 0.0727273% higher)
+22:27:51.006: obs_graphics_thread(41.7083 ms): min=29.246 ms, median=41.709 ms, max=54.15 ms, 99.5125% within ±2% of 41.708 ms (0.261142% lower, 0.226323% higher)
+22:27:51.006: =================================================
+22:27:51.079: Number of memory leaks: 0

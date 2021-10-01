@@ -1,6 +1,7 @@
 [EmbedSettings]
 embed-application/json=false
 embed-application/x-desktop=false
+embed-application/x-qemu-disk=false
 embed-audio/aac=false
 embed-audio/flac=false
 embed-image/svg+xml=false

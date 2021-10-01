@@ -16,7 +16,7 @@ iconViewIconSize=43
 
 [KPropertiesDialog]
 LVDS1 Height 1366x768=458
-LVDS1 Width 1366x768=782
+LVDS1 Width 1366x768=419
 
 [Notification Messages]
 klipperClearHistoryAskAgain=false
@@ -43,6 +43,7 @@ thickness=27
 thickness=27
 
 [PlasmaViews][Panel 47]
+alignment=132
 panelVisibility=1
 
 [PlasmaViews][Panel 47][Defaults]

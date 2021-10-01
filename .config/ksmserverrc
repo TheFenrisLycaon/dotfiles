@@ -8,24 +8,12 @@ shutdownType=2
 count=0
 
 [Session: saved at previous logout]
-clientId1=1061726368000163118287800000004800377
-clientId2=1061726368000163128244500000004910007
-clientId3=1061726368000163133012300000004910026
-count=3
-discardCommand1[$e]=rm,$HOME/.config/session/yakuake_1061726368000163118287800000004800377_1631330323_184769
-discardCommand3[$e]=rm,$HOME/.config/session/dolphin_1061726368000163133012300000004910026_1631330323_184831
-program1=/usr/bin/yakuake
-program2=pulseaudio
-program3=dolphin
-restartCommand1=/usr/bin/yakuake,-session,1061726368000163118287800000004800377_1631330323_184769
-restartCommand2=
-restartCommand3=dolphin,-session,1061726368000163133012300000004910026_1631330323_184831
+clientId1=10c6e2d464000163290330000000004870007
+count=1
+program1=pulseaudio
+restartCommand1=
 restartStyleHint1=0
-restartStyleHint2=0
-restartStyleHint3=0
 userId1=fenris
-userId2=fenris
-userId3=fenris
 
 [SubSession: b1b679aa-bbf0-4604-a411-7890e26da97d]
 count=0

@@ -1,0 +1,224 @@
+Handbrake Version: 1.4.1 (2021081700)
+[00:38:56] gtkgui: Modified Preset: /General/Very Fast 720p30
+[00:38:56] Starting work at: Sat Sep 25 00:38:56 2021
+
+[00:38:56] 1 job(s) to process
+[00:38:56] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 160,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 0,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 2,
+                    "Minutes": 10,
+                    "Seconds": 17,
+                    "Ticks": 703614600
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/fenris/Videos/Bridesmaids.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": false
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "80",
+                    "block-width": "16",
+                    "filter-mode": "1",
+                    "mode": "0",
+                    "motion-thresh": "2",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "3"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/900000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 536,
+                    "width": 1280
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "Bridesmaids"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/fenris/Videos/Movies/Bridesmaids.mp4",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 1,
+        "ColorPrimaries": 1,
+        "ColorRange": 0,
+        "ColorTransfer": 1,
+        "Encoder": "x264",
+        "Level": "3.1",
+        "Options": "",
+        "Preset": "veryfast",
+        "Profile": "main",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 23.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[00:38:56] CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+[00:38:56]  - Intel microarchitecture Ivy Bridge
+[00:38:56]  - logical processor count: 4
+[00:38:56] Intel Quick Sync Video support: no
+[00:38:56] hb_scan: path=/home/fenris/Videos/Movies/Bridesmaids.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/fenris/Videos/Movies/Bridesmaids.mp4
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/fenris/Videos/Movies/Bridesmaids.mp4/) failed
+[00:38:56] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[00:38:56] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/fenris/Videos/Movies/Bridesmaids.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 1
+    compatible_brands: isomavc1
+    creation_time   : 2011-09-07T09:19:13.000000Z
+  Duration: 02:10:17.94, start: 0.000000, bitrate: 752 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1280x536 [SAR 1:1 DAR 160:67], 717 kb/s, 23.98 fps, 23.98 tbr, 96k tbn, 47.95 tbc (default)
+    Metadata:
+      creation_time   : 2011-09-07T09:19:13.000000Z
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: aac (HE-AAC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 31 kb/s (default)
+    Metadata:
+      creation_time   : 2011-09-07T09:21:17.000000Z
+      handler_name    : GPAC ISO Audio Handler
+      vendor_id       : [0][0][0][0]
+[00:38:56] scan: decoding previews for title 1
+[00:38:56] scan: audio 0x1: aac, rate=48000Hz, bitrate=31997 Unknown (HE-AAC) (2.0 ch) (31 kbps)
+[00:38:56] scan: 10 previews, 1280x536, 23.976 fps, autocrop = 0/0/0/0, aspect 2.39:1, PAR 1:1, color profile: 1-1-1
+[00:38:56] libhb: scan thread found 1 valid title(s)
+[00:38:56] Starting Task: Encoding Pass
+[00:38:56] Skipping crop/scale filter
+[00:38:56] job configuration:
+[00:38:56]  * source
+[00:38:56]    + /home/fenris/Videos/Movies/Bridesmaids.mp4
+[00:38:56]    + title 1, chapter(s) 1 to 1
+[00:38:56]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[00:38:56]    + data rate: 752 kbps
+[00:38:56]  * destination
+[00:38:56]    + /home/fenris/Videos/Bridesmaids.m4v
+[00:38:56]    + container: MPEG-4 (libavformat)
+[00:38:56]      + align initial A/V stream timestamps
+[00:38:56]  * video track
+[00:38:56]    + decoder: h264 8-bit
+[00:38:56]      + bitrate 717 kbps
+[00:38:56]    + filters
+[00:38:56]      + Comb Detect (mode=0:spatial-metric=2:motion-thresh=2:spatial-thresh=3:filter-mode=1:block-thresh=80:block-width=16:block-height=16)
+[00:38:56]      + Decomb (mode=39)
+[00:38:56]      + Framerate Shaper (mode=2:rate=27000000/900000)
+[00:38:56]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+[00:38:56]    + Output geometry
+[00:38:56]      + storage dimensions: 1280 x 536
+[00:38:56]      + pixel aspect ratio: 1 : 1
+[00:38:56]      + display dimensions: 1280 x 536
+[00:38:56]    + encoder: H.264 (libx264)
+[00:38:56]      + preset:  veryfast
+[00:38:56]      + profile: main
+[00:38:56]      + level:   3.1
+[00:38:56]      + quality: 23.00 (RF)
+[00:38:56]      + color profile: 1-1-1
+[00:38:56]  * audio track 1
+[00:38:56]    + decoder: Unknown (HE-AAC) (2.0 ch) (31 kbps) (track 1, id 0x1)
+[00:38:56]      + bitrate: 31 kbps, samplerate: 48000 Hz
+[00:38:56]    + mixdown: Stereo
+[00:38:56]    + encoder: AAC (libavcodec)
+[00:38:56]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[00:38:56] sync: expecting 187443 video frames
+[00:38:56] encx264: min-keyint: 24, keyint: 240
+[00:38:56] encx264: encoding at constant RF 23.000000
+[00:38:56] encx264: unparsed options: level=3.1:ref=1:8x8dct=0:weightp=1:subme=2:mixed-refs=0:trellis=0:vbv-bufsize=14000:vbv-maxrate=14000:rc-lookahead=10
+x264 [info]: using SAR=1/1
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x264 [info]: profile Main, level 3.1, 4:2:0, 8-bit
+[00:38:57] sync: first pts video is 0
+[00:38:57] sync: first pts audio 0x1 is 0
+[00:38:57] sync: Chapter 1 at frame 3 time 11261
+[00:39:42] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[00:39:47] work: average encoding speed for job is 30.258537 fps
+[00:39:47] comb detect: heavy 0 | light 57 | uncombed 1458 | total 1515

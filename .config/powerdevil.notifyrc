@@ -1,3 +1,9 @@
+[Event/fullbattery]
+Action=Popup
+Execute=
+Logfile=
+TTS=
+
 [Event/lowbattery]
 Execute=
 Logfile=

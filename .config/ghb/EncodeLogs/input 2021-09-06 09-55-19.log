@@ -1,0 +1,256 @@
+Handbrake Version: 1.4.1 (2021081700)
+[09:55:19] gtkgui: Modified Preset: /Web/Vimeo YouTube HQ 2160p60 4K
+[09:55:19] Starting work at: Mon Sep  6 09:55:19 2021
+
+[09:55:19] 1 job(s) to process
+[09:55:19] json job:
+{
+    "Audio": {
+        "AudioList": [
+            {
+                "Bitrate": 320,
+                "CompressionLevel": -1.0,
+                "DRC": 0.0,
+                "DitherMethod": "auto",
+                "Encoder": "av_aac",
+                "Gain": 0.0,
+                "Mixdown": "stereo",
+                "NormalizeMixLevel": false,
+                "PresetEncoder": "av_aac",
+                "Quality": -3.0,
+                "Samplerate": 48000,
+                "Track": 0
+            }
+        ],
+        "CopyMask": [
+            "copy:aac"
+        ],
+        "FallbackEncoder": "av_aac"
+    },
+    "Destination": {
+        "AlignAVStart": true,
+        "ChapterList": [
+            {
+                "Duration": {
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 58,
+                    "Ticks": 5276880
+                },
+                "Name": ""
+            }
+        ],
+        "ChapterMarkers": false,
+        "File": "/home/fenris/Videos/input.m4v",
+        "InlineParameterSets": false,
+        "Mp4Options": {
+            "IpodAtom": false,
+            "Mp4Optimize": true
+        },
+        "Mux": "m4v"
+    },
+    "Filters": {
+        "FilterList": [
+            {
+                "ID": 3,
+                "Settings": {
+                    "block-height": "16",
+                    "block-thresh": "40",
+                    "block-width": "16",
+                    "filter-mode": "2",
+                    "mode": "3",
+                    "motion-thresh": "1",
+                    "spatial-metric": "2",
+                    "spatial-thresh": "1"
+                }
+            },
+            {
+                "ID": 4,
+                "Settings": {
+                    "mode": "7"
+                }
+            },
+            {
+                "ID": 6,
+                "Settings": {
+                    "mode": 2,
+                    "rate": "27000000/450000"
+                }
+            },
+            {
+                "ID": 13,
+                "Settings": {
+                    "crop-bottom": 0,
+                    "crop-left": 0,
+                    "crop-right": 0,
+                    "crop-top": 0,
+                    "height": 1920,
+                    "width": 3840
+                }
+            }
+        ]
+    },
+    "Metadata": {
+        "Name": "input"
+    },
+    "PAR": {
+        "Den": 1,
+        "Num": 1
+    },
+    "SequenceID": 0,
+    "Source": {
+        "Angle": 0,
+        "Path": "/home/fenris/Videos/input.mp4",
+        "Range": {
+            "End": 1,
+            "Start": 1,
+            "Type": "chapter"
+        },
+        "Title": 1
+    },
+    "Subtitle": {
+        "Search": {
+            "Burn": true,
+            "Default": false,
+            "Enable": false,
+            "Forced": false
+        },
+        "SubtitleList": []
+    },
+    "Video": {
+        "ColorFormat": 0,
+        "ColorMatrix": 6,
+        "ColorPrimaries": 5,
+        "ColorRange": 1,
+        "ColorTransfer": 6,
+        "Encoder": "x265_10bit",
+        "Level": "auto",
+        "Options": "",
+        "Preset": "medium",
+        "Profile": "auto",
+        "QSV": {
+            "AdapterIndex": 1,
+            "AsyncDepth": 0,
+            "Decode": false
+        },
+        "Quality": 20.0,
+        "Tune": "",
+        "Turbo": false,
+        "TwoPass": false
+    }
+}
+[09:55:19] CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+[09:55:19]  - Intel microarchitecture Ivy Bridge
+[09:55:19]  - logical processor count: 4
+[09:55:19] Intel Quick Sync Video support: no
+[09:55:19] hb_scan: path=/home/fenris/Videos/input.mp4, title_index=1
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/fenris/Videos/input.mp4
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/fenris/Videos/input.mp4/) failed
+[09:55:19] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[09:55:19] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/fenris/Videos/input.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: 00:00:58.63, start: 0.000000, bitrate: 85458 kb/s
+  Stream #0:0(und): Video: h264 (Baseline) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt470bg/smpte170m), 3840x1920, 85044 kb/s, 60.02 fps, 60 tbr, 1000k tbn, 2000k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 435 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[09:55:19] scan: decoding previews for title 1
+[09:55:20] scan: audio 0x1: aac, rate=44100Hz, bitrate=435291 Unknown (AAC LC) (2.0 ch) (435 kbps)
+[09:55:23] scan: 10 previews, 3840x1920, 60.023 fps, autocrop = 0/0/0/0, aspect 2.00:1, PAR 1:1, color profile: 5-6-6
+[09:55:23] libhb: scan thread found 1 valid title(s)
+[09:55:23] Starting Task: Encoding Pass
+[09:55:23] Skipping crop/scale filter
+[09:55:23] job configuration:
+[09:55:23]  * source
+[09:55:23]    + /home/fenris/Videos/input.mp4
+[09:55:23]    + title 1, chapter(s) 1 to 1
+[09:55:23]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[09:55:23]    + data rate: 85458 kbps
+[09:55:23]  * destination
+[09:55:23]    + /home/fenris/Videos/input.m4v
+[09:55:23]    + container: MPEG-4 (libavformat)
+[09:55:23]      + optimized for HTTP streaming (fast start)
+[09:55:23]      + align initial A/V stream timestamps
+[09:55:23]  * video track
+[09:55:23]    + decoder: h264 8-bit
+[09:55:23]      + bitrate 85044 kbps
+[09:55:23]    + filters
+[09:55:23]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+[09:55:23]      + Decomb (mode=39)
+[09:55:23]      + Framerate Shaper (mode=2:rate=27000000/450000)
+[09:55:23]        + frame rate: 60.023 fps -> peak rate limited to 60.000 fps
+[09:55:23]    + Output geometry
+[09:55:23]      + storage dimensions: 3840 x 1920
+[09:55:23]      + pixel aspect ratio: 1 : 1
+[09:55:23]      + display dimensions: 3840 x 1920
+[09:55:23]    + encoder: H.265 10-bit (libx265)
+[09:55:23]      + preset:  medium
+[09:55:23]      + profile: auto
+[09:55:23]      + level:   auto
+[09:55:23]      + quality: 20.00 (RF)
+[09:55:23]      + color profile: 5-6-6
+[09:55:23]  * audio track 1
+[09:55:23]    + decoder: Unknown (AAC LC) (2.0 ch) (435 kbps) (track 1, id 0x1)
+[09:55:23]      + bitrate: 435 kbps, samplerate: 44100 Hz
+[09:55:23]    + mixdown: Stereo
+[09:55:23]    + encoder: AAC (libavcodec)
+[09:55:23]      + bitrate: 320 kbps, samplerate: 48000 Hz
+[09:55:23] sync: expecting 3519 video frames
+x265 [info]: HEVC encoder version unknown
+x265 [info]: build info [Linux][GCC 11.1.0][64 bit] 10bit
+x265 [info]: using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+x265 [info]: Main 10 profile, Level-5.1 (Main tier)
+x265 [info]: Thread pool created using 4 threads
+x265 [info]: Slices                              : 1
+x265 [info]: frame threads / pool features       : 2 / wpp(30 rows)
+x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 3
+x265 [info]: Keyframe min / max / scenecut / bias  : 60 / 600 / 40 / 5.00 
+x265 [info]: Lookahead / bframes / badapt        : 20 / 4 / 2
+x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+x265 [info]: References / ref-limit  cu / depth  : 3 / off / on
+x265 [info]: AQ: mode / str / qg-size / cu-tree  : 2 / 1.0 / 32 / 1
+x265 [info]: Rate Control / qCompress            : CRF-20.0 / 0.60
+x265 [info]: tools: rd=3 psy-rd=2.00 early-skip rskip mode=1 signhide tmvp
+x265 [info]: tools: b-intra strong-intra-smoothing lslices=8 deblock sao
+[09:55:25] sync: first pts video is 0
+[09:55:25] sync: Chapter 1 at frame 1 time 0
+[09:55:25] sync: first pts audio 0x1 is 0
+[09:56:57] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[10:10:37] work: average encoding speed for job is 0.410827 fps
+[10:10:37] comb detect: heavy 2 | light 39 | uncombed 310 | total 351
+[10:10:37] decomb: deinterlaced 2 | blended 39 | unfiltered 301 | total 342
+[10:10:37] vfr: 325 frames output, 0 dropped and 0 duped for CFR/PFR
+[10:10:37] vfr: lost time: 0 (0 frames)
+[10:10:37] vfr: gained time: 0 (0 frames) (0 not accounted for)
+[10:10:38] aac-decoder done: 305 frames, 0 decoder errors
+[10:10:38] h264-decoder done: 406 frames, 0 decoder errors
+[10:10:38] sync: got 368 frames, 3519 expected
+[10:10:38] sync: framerate min 60.023 fps, max 60.023 fps, avg 60.023 fps
+x265 [info]: frame I:      1, Avg QP:25.61  kb/s: 190140.48
+x265 [info]: frame P:     61, Avg QP:24.71  kb/s: 127932.94
+x265 [info]: frame B:    230, Avg QP:28.20  kb/s: 75468.30
+x265 [info]: Weighted P-Frames: Y:0.0% UV:0.0%
+x265 [info]: consecutive B-frames: 1.6% 0.0% 0.0% 19.0% 79.4% 
+
+encoded 292 frames in 919.17s (0.32 fps), 86821.10 kb/s, Avg QP:27.46
+[10:10:43] mux: track 0, 291 frames, 52669998 bytes, 69264.65 kbps, fifo 64
+[10:10:43] mux: track 1, 286 frames, 244259 bytes, 321.22 kbps, fifo 128
+[10:10:43] Finished work at: Mon Sep  6 10:10:43 2021
+
+[10:10:43] libhb: work result = 1

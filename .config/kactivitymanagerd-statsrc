@@ -23,10 +23,10 @@ ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolp
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-85-4b90b019-4540-41db-b846-8866c6e5863a]
-ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-Profile_1.desktop,applications:chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop,applications:chrome-pkjmikhjfekbpecnijapbekepjdoieci-Profile_1.desktop,applications:brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop,applications:vlc.desktop
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-85-global]
-ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-Profile_1.desktop,applications:chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop,applications:chrome-pkjmikhjfekbpecnijapbekepjdoieci-Profile_1.desktop,applications:brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop,applications:vlc.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-4b90b019-4540-41db-b846-8866c6e5863a]
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop
