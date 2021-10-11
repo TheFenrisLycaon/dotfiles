@@ -7,3 +7,6 @@
 	keepBackup = false
 [core]
 	autocrlf = input
+[user]
+	name = Rishabh Anand
+	email = rishabhanandxz@gmail.com
