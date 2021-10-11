@@ -76,6 +76,8 @@ plugins=(
   vscode
   python
   dotenv
+  docker
+  docker-compose
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -127,6 +129,8 @@ alias scraper='conda activate scraper;export PATH="/home/fenris/Apps/anaconda3/e
 alias ML='conda activate ML;export PATH="/home/fenris/Apps/anaconda3/envs/ML/bin/:$PATH"'
 alias web='conda activate webapp;export PATH="/home/fenris/Apps/anaconda3/envs/webapp/bin/:$PATH"'
 alias gui='conda activate gui;export PATH="/home/fenris/Apps/anaconda3/envs/gui/bin/:$PATH"'
+alias vin='conda actiavte vin;export PATH="/home/fenris/Apps/anaconda3/envs/vin/bin/:$PATH"'
+alias arima='conda actiavte arima;export PATH="/home/fenris/Apps/anaconda3/envs/arima/bin/:$PATH"'
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>
@@ -189,6 +193,7 @@ alias pins='pip3 install '
 # easy edits
 alias vimrc='nvim ~/.vimrc'
 alias bashrc='nvim ~/.bashrc'
+alias zshrc='nvim ~/.zshrc'
 alias vim='nvim'
 
 # pacman shortcuts
@@ -243,7 +248,7 @@ alias btimecc='systemd-analyze critical-chain'
 alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
-alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --igtv -s --login xoxo_steffany_oxox'
+alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --highlights --igtv -s --login xoxo_steffany_oxox'
 
 # timer app
 timer() {
