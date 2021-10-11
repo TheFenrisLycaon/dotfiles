@@ -45,10 +45,9 @@ LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 Window-Maximized 800x600=true
 LVDS1 Window-Maximized 864x486=true
-LVDS1 XPosition 1366x768=683
+LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
-RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAwAAAAAAAAB1AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAlgAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAAMQAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE4AAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
@@ -59,13 +58,13 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vlc,vl,ok,virt,mkv,code,neo,oku,gwe,neov,vim,mk,VLC
+History=neo,mkv,vlc,kde,vl,ok,virt,code,oku,gwe,neov,vim,mk,VLC
 
 [PlacesPanel]
 IconSize=16
 
 [PreviewSettings]
-Plugins=audiothumbnail,imagethumbnail,jpegthumbnail,svgthumbnail,ffmpegthumbs
+Plugins=appimagethumbnail,audiothumbnail,ebookthumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
 
 [Search]
 Location=Everywhere

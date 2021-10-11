@@ -24,13 +24,13 @@ LastSeenMounted=true
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
 EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=Media
-LastSeenMounted=false
+LastNameSeen=MUSIC
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
 EverMounted=true
-Icon=drive-removable-media-usb
-LastNameSeen=Media
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=29.2 GiB Removable Media
 LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0]
@@ -39,6 +39,26 @@ LastNameSeen=Reliance 3G
 LastSeenMounted=false
 
 [Devices][/org/kde/fstab/fuse.sshfs/run/user/1000/29e0c63960d0525b]
+EverMounted=true
+LastSeenMounted=true
+
+[Devices][/org/kde/fstab/fuse.sshfs/run/user/1000/e9ea76a23a4330eb]
+EverMounted=true
+LastSeenMounted=true
+
+[Devices][/org/kde/fstab/overlay/var/lib/docker/overlay2/133f878b86276f7e7389daec1016cbeeb5e0e785056c51de8741512c9f612b82/merged]
+EverMounted=true
+LastSeenMounted=true
+
+[Devices][/org/kde/fstab/overlay/var/lib/docker/overlay2/283e95197c49df91421c6c48d3e29027d5cc822d7b9c3374383e1d885a3f4223/merged]
+EverMounted=true
+LastSeenMounted=true
+
+[Devices][/org/kde/fstab/overlay/var/lib/docker/overlay2/78878d7567778377cb41328e1b122f9e7bc823678294cdc98c1a8d4f21ed7590/merged]
+EverMounted=true
+LastSeenMounted=true
+
+[Devices][/org/kde/fstab/overlay/var/lib/docker/overlay2/opaque-bug-check697055444/merged]
 EverMounted=true
 LastSeenMounted=true
 

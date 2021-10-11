@@ -18,34 +18,36 @@ detailViewIconSize=16
 iconViewIconSize=43
 
 [MainWindow]
+LVDS1 Height 1366x768=738
+LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=29
+LVDS1 YPosition 1366x768=26
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Wallpapers/Screen1346.jpg
-File10[$e]=$HOME/Downloads/5.png
-File2[$e]=$HOME/Pictures/Wallpapers/Screen1345.jpg
-File3[$e]=$HOME/Pictures/Wallpapers/Screen1344.jpg
-File4[$e]=$HOME/Pictures/Important/Peti.jpg
-File5[$e]=$HOME/Pictures/Important/#DevFestIndia_badge.png
-File6[$e]=$HOME/Downloads/1.png
-File7[$e]=$HOME/Downloads/2.png
-File8[$e]=$HOME/Downloads/3.png
-File9[$e]=$HOME/Downloads/4.png
-Name1[$e]=Screen1346.jpg
-Name10[$e]=5.png
-Name2[$e]=Screen1345.jpg
-Name3[$e]=Screen1344.jpg
-Name4[$e]=Peti.jpg
-Name5[$e]=#DevFestIndia_badge.png
-Name6[$e]=1.png
-Name7[$e]=2.png
-Name8[$e]=3.png
-Name9[$e]=4.png
+File1[$e]=$HOME/Pictures/Wallpapers/Screen0996.jpg
+File10[$e]=$HOME/work/Semester5/Minor_Proj/private/gantt2.png
+File2[$e]=$HOME/work/Semester5/Minor_Proj/private/esp.jpg
+File3[$e]=$HOME/work/Semester5/Minor_Proj/private/1.png
+File4[$e]=$HOME/work/Semester5/Minor_Proj/private/2.png
+File5[$e]=$HOME/work/Semester5/Minor_Proj/private/3.png
+File6[$e]=$HOME/work/Semester5/Minor_Proj/private/aSign.jpg
+File7[$e]=$HOME/work/Semester5/Minor_Proj/private/Chart1.png
+File8[$e]=$HOME/work/Semester5/Minor_Proj/private/Chart2.png
+File9[$e]=$HOME/work/Semester5/Minor_Proj/private/gantt.png
+Name1[$e]=Screen0996.jpg
+Name10[$e]=gantt2.png
+Name2[$e]=esp.jpg
+Name3[$e]=1.png
+Name4[$e]=2.png
+Name5[$e]=3.png
+Name6[$e]=aSign.jpg
+Name7[$e]=Chart1.png
+Name8[$e]=Chart2.png
+Name9[$e]=gantt.png
 
 [SideBar]
 IsVisible ViewMode=false

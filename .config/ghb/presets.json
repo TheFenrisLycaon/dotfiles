@@ -8817,6 +8817,7 @@
                 }
             ],
             "Folder": true,
+            "FolderOpen": true,
             "PresetName": "Matroska",
             "Type": 0
         },

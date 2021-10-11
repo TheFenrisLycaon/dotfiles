@@ -54,7 +54,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][28][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0459.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen1285.jpg
 SlidePaths=/home/fenris/Pictures/Wallpapers
 
 [Containments][47]
@@ -112,7 +112,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][47][Applets][72][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][47][Applets][72][Configuration][Appearance]
 customDateFormat=dd
@@ -129,15 +129,19 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][47][Applets][85][Configuration]
-PreloadWeight=100
+PreloadWeight=81
 
 [Containments][47][Applets][85][Configuration][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
 
 [Containments][47][Applets][85][Configuration][General]
-customButtonImage=flameshot
+alphaSort=true
+customButtonImage=uav
 favoritesPortedToKAstats=true
+limitDepth=true
+showIconsRootLevel=true
+useCustomButtonImage=true
 
 [Containments][47][Applets][85][Shortcuts]
 global=Alt+F1
@@ -167,7 +171,7 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][47][Applets][95][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 localPath=/home/fenris/.local/share/plasma_icons/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
 url=file:///home/fenris/.local/share/applications/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
 
@@ -195,7 +199,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][53][Applets][100][Configuration]
-PreloadWeight=65
+PreloadWeight=24
 showHumidityInTooltip=true
 showPressureInTooltip=true
 showTemperatureInCompactMode=false
@@ -220,14 +224,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=22
+PreloadWeight=86
 
 [Containments][53][Applets][56]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][53][Applets][56][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][53][Applets][57][Configuration]
 PreloadWeight=42
@@ -240,7 +244,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][53][Applets][59][Configuration]
-PreloadWeight=96
+PreloadWeight=100
 
 [Containments][53][Applets][59][Shortcuts]
 global=Meta+K
@@ -253,13 +257,14 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=27
+PreloadWeight=56
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
 
 [Containments][53][Applets][61][Configuration][General]
+currentTab=streams
 raiseMaximumVolume=true
 
 [Containments][53][Applets][62][Configuration]
@@ -270,7 +275,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=78
+PreloadWeight=100
 
 [Containments][53][Applets][66][Configuration]
 PreloadWeight=42
@@ -280,14 +285,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][53][Applets][67][Configuration]
-PreloadWeight=73
+PreloadWeight=96
 
 [Containments][53][Applets][73]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][53][Applets][73][Configuration]
-PreloadWeight=15
+PreloadWeight=0
 
 [Containments][53][Applets][73][Configuration][ConfigDialog]
 DialogHeight=558
@@ -298,7 +303,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=12
+PreloadWeight=13
 
 [Containments][53][Applets][96][Configuration]
 PreloadWeight=42
@@ -355,7 +360,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][93][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0566.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0464.jpg
 SlidePaths=/home/fenris/Pictures/Wallpapers
 
 [Containments47Appletsts][97][Configuration][Appearance]

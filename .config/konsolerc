@@ -28,6 +28,7 @@ StatusBar=Disabled
 ToolBarsMovable=Disabled
 
 [Notification Messages]
+CloseAllTabs=false
 ShowPasteHugeTextWarning=false
 
 [SearchSettings]

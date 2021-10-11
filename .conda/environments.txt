@@ -5,3 +5,4 @@
 /home/fenris/Apps/anaconda3/envs/xxx
 /home/fenris/Apps/anaconda3/envs/openCV
 /home/fenris/Apps/anaconda3/envs/gui
+/home/fenris/Apps/anaconda3/envs/vin

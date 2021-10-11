@@ -22,15 +22,23 @@ NightTemperature=3700
 blurEnabled=true
 contrastEnabled=true
 diminactiveEnabled=true
+forceblurEnabled=true
 kwin4_effect_dimscreenEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_windowapertureEnabled=false
 lookingglassEnabled=true
+minimizeallEnabled=false
 screenedgeEnabled=false
 sheetEnabled=true
 slidebackEnabled=true
+synchronizeskipswitcherEnabled=false
+videowallEnabled=false
 wobblywindowsEnabled=true
 zoomEnabled=false
+
+[Script-forceblur]
+blurContent=true
+patterns=yakuake\nurxvt\ndolphin\nkeepassxc\nbrave
 
 [SubSession: b1b679aa-bbf0-4604-a411-7890e26da97d]
 active=-1

@@ -15,13 +15,13 @@ IntensityEffect=2
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
 Color=112,111,110
-ColorAmount=0.025
+ColorAmount=0.2
 ColorEffect=2
-ContrastAmount=0.1
+ContrastAmount=0.30000000000000004
 ContrastEffect=2
-Enable=false
-IntensityAmount=0
-IntensityEffect=0
+Enable=true
+IntensityAmount=0.5
+IntensityEffect=2
 
 [Colors:Button]
 BackgroundAlternate=77,77,77

@@ -3,6 +3,7 @@ CreateK3bAudioProject=false
 CreateK3bDataProject=false
 CreateK3bVcdProject=false
 KGetDownload=true
+OpenAsRootKDE5=true
 PalapeliImport=true
 Play=true
 WriteCdImage=true

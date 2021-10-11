@@ -4,15 +4,14 @@ update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd
 [General]
 autoSaveImage=true
 clipboardGroup=PostScreenshotCopyImage
+rememberLastRectangularRegion=false
 
 [GuiConfig]
 includePointer=true
 quitAfterSaveCopyExport=true
-window-position=404,0
+window-position=344,0
 
 [Save]
-compressionQuality=100
-defaultSaveImageFormat=JPEG
 defaultSaveLocation=file:///home/fenris/Pictures/Screenshots/
-lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_MPLAB X IDE v5.50 - MST-1_4525 : default_003.jpeg
-saveFilenameFormat=Screenshot_%T_%3d
+lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_~ : python__002.png
+saveFilenameFormat=Screenshot_%T__%3d
