@@ -3846,7 +3846,7 @@ audio-resampler=any
 #captions=608
 
 # Preferred video resolution (integer)
-#preferred-resolution=-1
+preferred-resolution=720
 
 # Input repetitions (integer)
 #input-repeat=0
@@ -3942,13 +3942,13 @@ input-fast-seek=1
 #meta-url=
 
 # File caching (ms) (integer)
-file-caching=10000
+file-caching=20000
 
 # Live capture caching (ms) (integer)
-#live-caching=300
+live-caching=3000
 
 # Disc caching (ms) (integer)
-#disc-caching=300
+disc-caching=3000
 
 # Network caching (ms) (integer)
 #network-caching=1000
@@ -3990,7 +3990,7 @@ file-caching=10000
 #encoder=
 
 # Access module (string)
-#access=
+access=any
 
 # Demux module (string)
 #demux=any
@@ -4035,7 +4035,7 @@ file-caching=10000
 #mux=
 
 # Access output module (string)
-#access_output=
+access_output=any
 
 # Hop limit (TTL) (integer)
 #ttl=-1

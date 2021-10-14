@@ -13,7 +13,7 @@ text/x-matlab=visual-studio-code.desktop;
 text/x-python=visual-studio-code.desktop;
 video/mp4=vlc.desktop;
 video/x-matroska=vlc.desktop;
-x-scheme-handler/tg=userapp-Telegram Desktop-AT5D90.desktop;userapp-Telegram Desktop-C9KGB1.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-AT5D90.desktop;userapp-Telegram Desktop-C9KGB1.desktop;userapp-Telegram Desktop-KII3A1.desktop;
 
 [Default Applications]
 application/json=nvim.desktop;
@@ -39,5 +39,5 @@ x-scheme-handler/notion=notion-app-enhanced.desktop
 x-scheme-handler/rdp=org.remmina.Remmina.desktop
 x-scheme-handler/remmina=org.remmina.Remmina.desktop
 x-scheme-handler/spice=org.remmina.Remmina.desktop
-x-scheme-handler/tg=userapp-Telegram Desktop-C9KGB1.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-KII3A1.desktop
 x-scheme-handler/vnc=org.remmina.Remmina.desktop

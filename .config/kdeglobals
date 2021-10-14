@@ -108,8 +108,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=800,568
-History Items[$e]=file:$HOME/Downloads/Sweet-Mars-transparent-toolbar,file:$HOME/Videos/.Videos/,file:$HOME/Pictures/Wallpapers,file:$HOME/Downloads,file:$HOME/Videos/.Videos/New/,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME,file:$HOME/Pictures/Wallpapers
+DirSelectDialog Size=816,598
+History Items[$e]=file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Downloads/Sweet-Mars-transparent-toolbar,file:$HOME/Videos/.Videos/,file:$HOME/Pictures/Wallpapers,file:$HOME/Downloads,file:$HOME/Videos/.Videos/New/,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Screenshots,file:$HOME,file:$HOME/Pictures/Wallpapers
 
 [General]
 BrowserApplication=brave-browser.desktop

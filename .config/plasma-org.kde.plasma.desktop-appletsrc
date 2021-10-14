@@ -27,9 +27,34 @@ RightButton;NoModifier=org.kde.contextmenu
 [AppletGlobals][org.kde.plasma.comic]
 lastUpdate=2021,8,17,9,49,14.745
 
-[Containments][28]
+[Containments][102]
 ItemGeometries-1366x768=
 ItemGeometriesHorizontal=
+activityId=1cbaf04c-ff1c-4c50-8fc3-2b4550101a48
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.slideshow
+
+[Containments][102][ConfigDialog]
+DialogHeight=558
+DialogWidth=720
+
+[Containments][102][Configuration]
+PreloadWeight=42
+
+[Containments][102][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
+SlidePaths=/usr/share/wallpapers
+
+[Containments][102][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0131.jpg
+SlideInterval=60
+SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
+
+[Containments][104]
 activityId=4b90b019-4540-41db-b846-8866c6e5863a
 formfactor=0
 immutability=1
@@ -38,24 +63,19 @@ location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.slideshow
 
-[Containments][28][ConfigDialog]
-DialogHeight=579
+[Containments][104][ConfigDialog]
+DialogHeight=558
 DialogWidth=720
 
-[Containments][28][Configuration]
-PreloadWeight=0
-
-[Containments][28][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=300
-
-[Containments][28][Wallpaper][org.kde.image][General]
+[Containments][104][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
-[Containments][28][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1285.jpg
-SlidePaths=/home/fenris/Pictures/Wallpapers
+[Containments][104][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0405.jpg
+SlideInterval=60
+SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
+SlideshowMode=4
 
 [Containments][47]
 activityId=
@@ -112,7 +132,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][47][Applets][72][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][47][Applets][72][Configuration][Appearance]
 customDateFormat=dd
@@ -129,7 +149,7 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][47][Applets][85][Configuration]
-PreloadWeight=81
+PreloadWeight=100
 
 [Containments][47][Applets][85][Configuration][ConfigDialog]
 DialogHeight=558
@@ -199,7 +219,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][53][Applets][100][Configuration]
-PreloadWeight=24
+PreloadWeight=8
 showHumidityInTooltip=true
 showPressureInTooltip=true
 showTemperatureInCompactMode=false
@@ -224,7 +244,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=86
+PreloadWeight=75
 
 [Containments][53][Applets][56]
 immutability=1
@@ -232,6 +252,9 @@ plugin=org.kde.plasma.clipboard
 
 [Containments][53][Applets][56][Configuration]
 PreloadWeight=0
+
+[Containments][53][Applets][56][Shortcuts]
+global=Meta+Alt+C
 
 [Containments][53][Applets][57][Configuration]
 PreloadWeight=42
@@ -257,15 +280,17 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=56
+PreloadWeight=60
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
 
 [Containments][53][Applets][61][Configuration][General]
-currentTab=streams
 raiseMaximumVolume=true
+
+[Containments][53][Applets][61][Shortcuts]
+global=Meta+Alt+V
 
 [Containments][53][Applets][62][Configuration]
 PreloadWeight=42
@@ -275,7 +300,10 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=100
+PreloadWeight=99
+
+[Containments][53][Applets][63][Shortcuts]
+global=Meta+Alt+N
 
 [Containments][53][Applets][66][Configuration]
 PreloadWeight=42
@@ -285,7 +313,10 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][53][Applets][67][Configuration]
-PreloadWeight=96
+PreloadWeight=100
+
+[Containments][53][Applets][67][Shortcuts]
+global=Meta+N
 
 [Containments][53][Applets][73]
 immutability=1
@@ -303,7 +334,10 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=13
+PreloadWeight=17
+
+[Containments][53][Applets][79][Shortcuts]
+global=Meta+Alt+B
 
 [Containments][53][Applets][96][Configuration]
 PreloadWeight=42
@@ -333,39 +367,9 @@ shownItems=org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.network
 [Containments][53][Shortcuts]
 global=Ctrl+`
 
-[Containments][93]
-ItemGeometries-1366x768=
-ItemGeometriesHorizontal=
-activityId=1cbaf04c-ff1c-4c50-8fc3-2b4550101a48
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.desktopcontainment
-wallpaperplugin=org.kde.slideshow
-
-[Containments][93][ConfigDialog]
-DialogHeight=558
-DialogWidth=720
-
-[Containments][93][Configuration]
-PreloadWeight=0
-
-[Containments][93][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=300
-
-[Containments][93][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
-SlidePaths=/usr/share/wallpapers
-
-[Containments][93][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0464.jpg
-SlidePaths=/home/fenris/Pictures/Wallpapers
-
 [Containments47Appletsts][97][Configuration][Appearance]
 temperatureFontSize=91
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,7,desktop:/Pictures,desktop:/Documents,desktop:/work,desktop:/Downloads,desktop:/Music,desktop:/Apps,desktop:/Videos
+itemsOnDisabledScreens=0,7,desktop:/Music,desktop:/Videos,desktop:/Downloads,desktop:/Documents,desktop:/Pictures,desktop:/work,desktop:/Apps
 screenMapping=

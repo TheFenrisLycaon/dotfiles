@@ -9,12 +9,12 @@ count=0
 
 [Session: saved at previous logout]
 clientId1=10c6e2d464000163293658200000004760017
-clientId2=10c6e2d464000163379530100000005190007
+clientId2=10c6e2d464000163404270000000904870007
 count=2
-discardCommand1[$e]=rm,$HOME/.config/session/yakuake_10c6e2d464000163293658200000004760017_1633797675_536511
+discardCommand1[$e]=rm,$HOME/.config/session/yakuake_10c6e2d464000163293658200000004760017_1634042898_818992
 program1=/usr/bin/yakuake
 program2=pulseaudio
-restartCommand1=/usr/bin/yakuake,-session,10c6e2d464000163293658200000004760017_1633797675_536511
+restartCommand1=/usr/bin/yakuake,-session,10c6e2d464000163293658200000004760017_1634042898_818992
 restartCommand2=
 restartStyleHint1=0
 restartStyleHint2=0

@@ -4,7 +4,15 @@ State=AAAA/wAAAAD9AAAAAwAAAAAAAAB/AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAG
 
 [CompactMode]
 FontWeight=50
-PreviewSize=64
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowCopyLocation=false
+ShowCopyMoveMenu=true
+ShowDuplicateHere=false
+ShowOpenInNewTab=false
+ShowOpenInNewWindow=false
+ShowOpenTerminal=false
 
 [Desktop Entry]
 DefaultProfile=coolsvile.profile
@@ -33,8 +41,8 @@ PreviewSize=112
 [KPropertiesDialog]
 LVDS-1 Height 1366x768=606
 LVDS-1 Width 1366x768=438
-LVDS1 Height 1366x768=606
-LVDS1 Width 1366x768=483
+LVDS1 Height 1366x768=458
+LVDS1 Width 1366x768=423
 
 [MainWindow]
 LVDS-1 Window-Maximized 1366x768=true
@@ -48,6 +56,7 @@ LVDS1 Window-Maximized 864x486=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAwAAAAAAAAB1AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAlgAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAAMQAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE4AAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
@@ -74,6 +83,9 @@ LVDS-1 Height 1366x768=440
 LVDS-1 Width 1366x768=589
 LVDS1 Height 1366x768=440
 LVDS1 Width 1366x768=589
+
+[VersionControl]
+enabledPlugins=Git,Mercurial
 
 [ViewPropertiesDialog]
 LVDS1 Height 1366x768=436
