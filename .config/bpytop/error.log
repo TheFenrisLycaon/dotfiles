@@ -65,3 +65,33 @@ Traceback (most recent call last):
   File "/usr/bin/bpytop", line 5459, in process_keys
     os.kill(pid, sig)
 PermissionError: [Errno 1] Operation not permitted
+15/10/21 (10:40:05) | ERROR: Exception when sending signal 9 to pid 386
+15/10/21 (10:40:05) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+15/10/21 (10:40:09) | ERROR: Exception when sending signal 9 to pid 386
+15/10/21 (10:40:09) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+15/10/21 (10:40:11) | ERROR: Exception when sending signal 9 to pid 386
+15/10/21 (10:40:11) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+15/10/21 (10:40:12) | ERROR: Exception when sending signal 9 to pid 386
+15/10/21 (10:40:12) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted
+15/10/21 (10:40:12) | ERROR: Exception when sending signal 9 to pid 386
+15/10/21 (10:40:12) | ERROR: [Errno 1] Operation not permitted
+Traceback (most recent call last):
+  File "/usr/bin/bpytop", line 5459, in process_keys
+    os.kill(pid, sig)
+PermissionError: [Errno 1] Operation not permitted

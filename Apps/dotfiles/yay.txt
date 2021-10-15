@@ -1,0 +1,12 @@
+adbfs-git
+aic94xx-firmware
+anydesk-bin
+brave-bin
+notion-app-enhanced
+powerline-shell
+scrcpy
+ttf-meslo-nerd-font-powerlevel10k
+upd72020x-fw
+visual-studio-code-bin
+wd719x-firmware
+yay

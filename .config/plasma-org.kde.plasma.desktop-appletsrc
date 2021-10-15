@@ -50,7 +50,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][102][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0131.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0807.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -72,7 +72,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][104][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0405.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0965.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 SlideshowMode=4
@@ -132,7 +132,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][47][Applets][72][Configuration]
-PreloadWeight=10
+PreloadWeight=30
 
 [Containments][47][Applets][72][Configuration][Appearance]
 customDateFormat=dd
@@ -280,7 +280,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=60
+PreloadWeight=70
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
@@ -300,7 +300,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=99
+PreloadWeight=100
 
 [Containments][53][Applets][63][Shortcuts]
 global=Meta+Alt+N

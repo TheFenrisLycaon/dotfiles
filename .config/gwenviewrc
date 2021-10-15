@@ -28,20 +28,24 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/work/Semester5/Minor_Proj/private/gantt2.png
-File2[$e]=$HOME/Pictures/Wallpapers/Screen1529.png
-File3[$e]=$HOME/Pictures/Wallpapers/Screen1526.png
-File4[$e]=$HOME/Pictures/Wallpapers/Screen1525.png
-File5[$e]=$HOME/Pictures/Wallpapers/Screen0903.jpg
-File6[$e]=$HOME/Pictures/Screenshots/Zinda.png
-File7[$e]=$HOME/Pictures/Screenshots/MEME.png
-Name1[$e]=gantt2.png
-Name2[$e]=Screen1529.png
-Name3[$e]=Screen1526.png
-Name4[$e]=Screen1525.png
-Name5[$e]=Screen0903.jpg
-Name6[$e]=Zinda.png
-Name7[$e]=MEME.png
+File1[$e]=$HOME/Pictures/Wallpapers/Screen1525.png
+File2[$e]=$HOME/Pictures/Wallpapers/Screen0903.jpg
+File3[$e]=$HOME/Pictures/Screenshots/MEME.png
+File4[$e]=$HOME/Downloads/Elective - Introduction to Python Programming - Learning Guide (1).pdf
+File5[$e]=$HOME/work/Semester5/Assignment/temp/2.png
+File6[$e]=$HOME/work/Semester5/Assignment/temp/Code1.png
+File7[$e]=$HOME/work/Semester5/Assignment/temp/Code2.png
+File8[$e]=$HOME/work/Semester5/Assignment/temp/Out.png
+File9[$e]=$HOME/work/Semester5/Assignment/temp/1.png
+Name1[$e]=Screen1525.png
+Name2[$e]=Screen0903.jpg
+Name3[$e]=MEME.png
+Name4[$e]=Elective - Introduction to Python Programming - Learning Guide (1).pdf
+Name5[$e]=2.png
+Name6[$e]=Code1.png
+Name7[$e]=Code2.png
+Name8[$e]=Out.png
+Name9[$e]=1.png
 
 [SideBar]
 IsVisible ViewMode=false
