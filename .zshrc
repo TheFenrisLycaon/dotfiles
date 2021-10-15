@@ -206,7 +206,7 @@ alias zshrc='nvim ~/.zshrc'
 alias vim='nvim'
 
 # pacman shortcuts
-alias ins='sudo pacman -S '
+alias ins='sudo pacman -S --needed'
 alias insy='yay -S '
 alias unins='sudo pacman -Rsu '
 alias uninsy='yay -Rsu'

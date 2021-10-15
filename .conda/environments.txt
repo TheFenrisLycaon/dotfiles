@@ -6,3 +6,4 @@
 /home/fenris/Apps/anaconda3/envs/openCV
 /home/fenris/Apps/anaconda3/envs/gui
 /home/fenris/Apps/anaconda3/envs/vin
+/home/fenris/Apps/anaconda3/envs/arima

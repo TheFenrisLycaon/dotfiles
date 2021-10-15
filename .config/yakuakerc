@@ -1,6 +1,9 @@
 [Appearance]
 Translucency=true
 
+[Dialogs]
+FirstRun=false
+
 [Window]
 KeepAbove=false
 KeepOpen=false

@@ -43,18 +43,20 @@ DialogHeight=558
 DialogWidth=720
 
 [Containments][102][Configuration]
-PreloadWeight=42
+PreloadWeight=34
 
 [Containments][102][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][102][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0807.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0604.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments][104]
+ItemGeometries-1366x768=
+ItemGeometriesHorizontal=
 activityId=4b90b019-4540-41db-b846-8866c6e5863a
 formfactor=0
 immutability=1
@@ -67,12 +69,15 @@ wallpaperplugin=org.kde.slideshow
 DialogHeight=558
 DialogWidth=720
 
+[Containments][104][Configuration]
+PreloadWeight=42
+
 [Containments][104][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][104][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0965.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen1040.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 SlideshowMode=4
@@ -132,7 +137,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][47][Applets][72][Configuration]
-PreloadWeight=30
+PreloadWeight=22
 
 [Containments][47][Applets][72][Configuration][Appearance]
 customDateFormat=dd
@@ -149,7 +154,7 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][47][Applets][85][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][47][Applets][85][Configuration][ConfigDialog]
 DialogHeight=558
@@ -219,7 +224,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][53][Applets][100][Configuration]
-PreloadWeight=8
+PreloadWeight=0
 showHumidityInTooltip=true
 showPressureInTooltip=true
 showTemperatureInCompactMode=false
@@ -244,7 +249,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=75
+PreloadWeight=72
 
 [Containments][53][Applets][56]
 immutability=1
@@ -267,7 +272,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][53][Applets][59][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][53][Applets][59][Shortcuts]
 global=Meta+K
@@ -280,7 +285,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=70
+PreloadWeight=67
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
@@ -300,7 +305,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][53][Applets][63][Shortcuts]
 global=Meta+Alt+N
@@ -313,7 +318,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][53][Applets][67][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][53][Applets][67][Shortcuts]
 global=Meta+N
@@ -334,7 +339,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=17
+PreloadWeight=34
 
 [Containments][53][Applets][79][Shortcuts]
 global=Meta+Alt+B
@@ -359,8 +364,8 @@ DialogWidth=720
 PreloadWeight=0
 
 [Containments][53][General]
-extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.kdeconnect,org.kde.plasma.weather
-hiddenItems=org.kde.kdeconnect,Plasma_microphone,org.kde.plasma.devicenotifier,Discover Notifier_org.kde.DiscoverNotifier,TelegramDesktop,Discord,notion-app-enhanced1,com.github.whatsapp-for-linux.tray,whatsapp-nativefier-d402111,KTorrent,org.kde.plasma.weather
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.kdeconnect,org.kde.plasma.weather,Yakuake
+hiddenItems=org.kde.kdeconnect,Plasma_microphone,org.kde.plasma.devicenotifier,Discover Notifier_org.kde.DiscoverNotifier,TelegramDesktop,Discord,notion-app-enhanced1,com.github.whatsapp-for-linux.tray,whatsapp-nativefier-d402111,KTorrent,org.kde.plasma.weather,Yakuake
 knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect
 shownItems=org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
 
