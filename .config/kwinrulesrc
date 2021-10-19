@@ -1,5 +1,5 @@
 [$Version]
-update_info=kwinrules.upd:replace-placement-string-to-enum
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [1]
 Description=Application settings for notion-app-enhanced
@@ -9,15 +9,6 @@ wmclass=notion-app-enhanced
 wmclassmatch=1
 
 [10]
-Description=Application settings for brave-browser
-noborder=true
-noborderrule=4
-opacityactive=100
-opacityactiverule=2
-wmclass=brave-browser
-wmclassmatch=2
-
-[11]
 Description=Window settings for dolphin
 noborder=true
 noborderrule=4
@@ -31,7 +22,7 @@ windowrolematch=1
 wmclass=dolphin
 wmclassmatch=1
 
-[12]
+[11]
 Description=Application settings for processing-app-base
 maximizehoriz=true
 maximizehorizrule=4
@@ -42,13 +33,6 @@ noborderrule=4
 wmclass=sun-awt-x11-xframepeer processing-app-base
 wmclasscomplete=true
 wmclassmatch=1
-
-[13]
-Description=Whatsapp
-noborder=true
-noborderrule=3
-wmclass=whatsapp
-wmclassmatch=2
 
 [2]
 Description=Application settings for chromium
@@ -66,24 +50,13 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [4]
-Description=Application settings for notion-app
-maximizehoriz=true
-maximizehorizrule=4
-maximizevert=true
-maximizevertrule=4
-noborder=true
-noborderrule=4
-wmclass=notion-app
-wmclassmatch=1
-
-[5]
 Description=Application settings for okular
 noborder=true
 noborderrule=4
 wmclass=okular
 wmclassmatch=1
 
-[6]
+[5]
 Description=Application settings for emacs
 minsize=1366,768
 minsizerule=2
@@ -92,7 +65,7 @@ noborderrule=4
 wmclass=emacs
 wmclassmatch=2
 
-[7]
+[6]
 Description=Application settings for discord
 noborder=true
 noborderrule=4
@@ -103,19 +76,35 @@ opacityinactiverule=2
 wmclass=discord
 wmclassmatch=1
 
-[8]
+[7]
 Description=Application settings for code
+decocolor=BreezeBlack
+decocolorrule=2
 noborder=true
 noborderrule=4
+opacityactive=80
+opacityactiverule=2
+opacityinactive=50
+opacityinactiverule=2
 wmclass=code
 wmclassmatch=1
 
-[9]
+[8]
 Description=Application settings for vlc
 noborder=true
 noborderrule=4
 wmclass=vlc
 wmclassmatch=1
 
+[9]
+Description=Application settings for brave-browser
+noborder=true
+noborderrule=4
+opacityactive=100
+opacityactiverule=2
+wmclass=brave-browser
+wmclassmatch=2
+
 [General]
-count=13
+count=11
+rules=1,2,3,4,5,6,7,8,9,10,11

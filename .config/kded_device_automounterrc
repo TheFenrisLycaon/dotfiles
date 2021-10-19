@@ -30,8 +30,8 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
-LastNameSeen=MUSIC
-LastSeenMounted=true
+LastNameSeen=Media
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
 EverMounted=true

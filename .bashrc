@@ -4,14 +4,6 @@ export LC_CTYPE=en_US.UTF-8
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-function _update_ps1() {
-    PS1=$(powerline-shell $?)
-}
-
-if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
-    PROMPT_COMMAND="_update_ps1; $PROMPT_COMMAND"
-fi
-
 # >>> conda initialize >>>
 #!! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/fenris/Apps/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"

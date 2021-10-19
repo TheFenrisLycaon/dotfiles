@@ -12,7 +12,7 @@ Type=80
 UsageBar=521
 
 [KFileDialog Settings]
-Recent Files[$e]=kwin,file:$HOME/Pictures/Wallpapers/Screen0000.jpg,file:$HOME/Apps/dotfiles/kwin.kwinrule,file:$HOME/Pictures/Wallpapers/Screen0933.jpg,file:$HOME/Apps/dotfiles/monkey.mp3,file:$HOME/Apps/dotfiles/shortcuts.bkp.kksrc
+Recent Files[$e]=kwin,file:$HOME/Apps/dotfiles/shortcuts.kwin.bkp.kksrc,file:$HOME/Pictures/Wallpapers/Screen0000.jpg,file:$HOME/Apps/dotfiles/kwin.kwinrule,file:$HOME/Pictures/Wallpapers/Screen0933.jpg,file:$HOME/Apps/dotfiles/monkey.mp3,file:$HOME/Apps/dotfiles/shortcuts.bkp.kksrc
 Recent URLs[$e]=file:$HOME/Apps/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Apps/dotfiles/,file:$HOME/Pictures/Wallpapers/,file:$HOME/Pictures/
 detailViewIconSize=16
 iconViewIconSize=128
@@ -23,13 +23,13 @@ LVDS-1 Width 1366x768=1020
 LVDS-1 Window-Maximized 1366x768=true
 LVDS-1 XPosition 1366x768=0
 LVDS-1 YPosition 1366x768=0
-LVDS1 Height 1366x768=691
-LVDS1 Width 1366x768=1020
+LVDS1 Height 1366x768=742
+LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=151
 LVDS1 YPosition 1366x768=135
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAKzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAALmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Notification Messages]

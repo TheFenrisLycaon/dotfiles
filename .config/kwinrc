@@ -1,5 +1,5 @@
 [$Version]
-update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend
 
 [Compositing]
 OpenGLIsUnsafe=false
@@ -12,6 +12,10 @@ Rows=1
 [Effect-PresentWindows]
 BorderActivateAll=9
 
+[Effect-kwin4_effect_translucency]
+Inactive=81
+MoveResize=68
+
 [NightColor]
 Active=true
 LatitudeAuto=25.5908
@@ -23,8 +27,11 @@ blurEnabled=true
 contrastEnabled=true
 diminactiveEnabled=true
 forceblurEnabled=true
+glideEnabled=true
 kwin4_effect_dimscreenEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
+kwin4_effect_fadeEnabled=false
+kwin4_effect_translucencyEnabled=true
 kwin4_effect_windowapertureEnabled=false
 lookingglassEnabled=true
 minimizeallEnabled=false
@@ -38,7 +45,7 @@ zoomEnabled=false
 
 [Script-forceblur]
 blurContent=true
-patterns=yakuake\nurxvt\ndolphin\nkeepassxc\nbrave
+patterns=code\nyakuake\nurxvt\ndolphin\nkeepassxc\nbrave
 
 [SubSession: b1b679aa-bbf0-4604-a411-7890e26da97d]
 active=-1
@@ -48,7 +55,7 @@ count=0
 BorderActivate=9
 DesktopMode=0
 HighlightWindows=false
-LayoutName=MediumRoundedDark
+LayoutName=thumbnail_grid
 MinimizedMode=1
 ShowDesktopMode=1
 
@@ -56,7 +63,7 @@ ShowDesktopMode=1
 LayoutName=big_icons
 
 [org.kde.kdecoration2]
-BorderSize=NoSides
+BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XIA
 ButtonsOnRight=

@@ -28,24 +28,26 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Wallpapers/Screen1525.png
-File2[$e]=$HOME/Pictures/Wallpapers/Screen0903.jpg
-File3[$e]=$HOME/Pictures/Screenshots/MEME.png
-File4[$e]=$HOME/Downloads/Elective - Introduction to Python Programming - Learning Guide (1).pdf
-File5[$e]=$HOME/work/Semester5/Assignment/temp/2.png
-File6[$e]=$HOME/work/Semester5/Assignment/temp/Code1.png
-File7[$e]=$HOME/work/Semester5/Assignment/temp/Code2.png
-File8[$e]=$HOME/work/Semester5/Assignment/temp/Out.png
-File9[$e]=$HOME/work/Semester5/Assignment/temp/1.png
-Name1[$e]=Screen1525.png
-Name2[$e]=Screen0903.jpg
-Name3[$e]=MEME.png
-Name4[$e]=Elective - Introduction to Python Programming - Learning Guide (1).pdf
-Name5[$e]=2.png
-Name6[$e]=Code1.png
-Name7[$e]=Code2.png
-Name8[$e]=Out.png
-Name9[$e]=1.png
+File1[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
+File10[$e]=$HOME/Pictures/Screenshots/2021-10-19_13-26-46.mkv
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot_Chandigarh University Management System - Brave__001.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__002.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__003.png
+File5[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__004.png
+File6[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__005.png
+File7[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__006.png
+File8[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__007.png
+File9[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__008.png
+Name1[$e]=Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
+Name10[$e]=2021-10-19_13-26-46.mkv
+Name2[$e]=Screenshot_Chandigarh University Management System - Brave__001.png
+Name3[$e]=Screenshot_SHL - Brave__002.png
+Name4[$e]=Screenshot_SHL - Brave__003.png
+Name5[$e]=Screenshot_SHL - Brave__004.png
+Name6[$e]=Screenshot_SHL - Brave__005.png
+Name7[$e]=Screenshot_SHL - Brave__006.png
+Name8[$e]=Screenshot_SHL - Brave__007.png
+Name9[$e]=Screenshot_SHL - Brave__008.png
 
 [SideBar]
 IsVisible ViewMode=false

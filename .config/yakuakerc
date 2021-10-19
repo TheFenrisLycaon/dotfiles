@@ -1,9 +1,33 @@
+[Animation]
+Frames=10
+
 [Appearance]
+HideSkinBorders=true
+Skin=breeze_dark
+SkinInstalledWithKns=true
+TerminalHighlightOnManualActivation=true
 Translucency=true
+
+[Behavior]
+OpenAfterStart=true
+
+[Desktop Entry]
+DefaultProfile=coolsvile.profile
 
 [Dialogs]
 FirstRun=false
 
+[KFileDialog Settings]
+iconViewIconSize=43
+
+[Notification Messages]
+hinding_title_bar=false
+
 [Window]
+DynamicTabTitles=true
 KeepAbove=false
 KeepOpen=false
+ShowSystrayIcon=false
+ShowTabBar=false
+ShowTitleBar=false
+Width=70
