@@ -8,17 +8,23 @@ shutdownType=2
 count=0
 
 [Session: saved at previous logout]
-clientId1=10c6e2d464000163457304100000005140003
-clientId2=10c6e2d464000163457304200000005140008
-count=2
+clientId1=10c6e2d464000163470990800000005190005
+clientId2=10c6e2d464000163470991000000005190008
+clientId3=10c6e2d464000163470994700000005190010
+count=3
+discardCommand3[$e]=rm,$HOME/.config/session/yakuake_10c6e2d464000163470994700000005190010_1634720805_22339
 program1=/usr/lib/DiscoverNotifier
 program2=pulseaudio
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10c6e2d464000163457304100000005140003_1634576648_232988
+program3=/usr/bin/yakuake
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10c6e2d464000163470990800000005190005_1634720805_22787
 restartCommand2=
+restartCommand3=/usr/bin/yakuake,-session,10c6e2d464000163470994700000005190010_1634720805_22339
 restartStyleHint1=0
 restartStyleHint2=0
+restartStyleHint3=0
 userId1=fenris
 userId2=fenris
+userId3=fenris
 
 [SubSession: b1b679aa-bbf0-4604-a411-7890e26da97d]
 count=0
