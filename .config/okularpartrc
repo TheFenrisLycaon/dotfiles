@@ -15,7 +15,7 @@ rtlReadingDirection=true
 ShowLeftPanel=false
 
 [PageView]
-ViewMode=Facing
+MouseMode=TextSelect
 
 [Reviews]
 QuickAnnotationTools=<tool default="true" type="highlight" name="Yellow Highlighter" id="1"><engine color="#ffff00" type="TextSelector"><annotation color="#ffffff00" type="Highlight"/></engine><shortcut>1</shortcut></tool>,<tool default="true" type="highlight" name="Green Highlighter" id="2"><engine color="#00ff00" type="TextSelector"><annotation color="#ff00ff00" type="Highlight"/></engine><shortcut>2</shortcut></tool>,<tool type="underline" id="3"><engine color="#ff0000" type="TextSelector"><annotation color="#ffff0000" type="Underline"/></engine><shortcut>3</shortcut></tool>,<tool default="true" type="typewriter" name="Insert Text" id="4"><engine block="true" type="PickPoint"><annotation textColor="#000000" color="#00ffffff" width="0" type="Typewriter"/></engine><shortcut>4</shortcut></tool>,<tool type="note-inline" id="5"><engine block="true" color="#ffff00" hoverIcon="tool-note-inline" type="PickPoint"><annotation textColor="#ff000000" color="#ffffff00" type="FreeText"/></engine><shortcut>5</shortcut></tool>,<tool type="note-linked" id="6"><engine color="#ffff00" hoverIcon="tool-note" type="PickPoint"><annotation color="#ffffff00" type="Text" icon="Note"/></engine><shortcut>6</shortcut></tool>

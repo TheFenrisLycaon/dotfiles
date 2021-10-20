@@ -47,9 +47,9 @@ defaults=0.01,0
 version=2.3
 
 [plugin record]
-defaults=2,0,20,0,300,0,2021-09-30T19:55:00,0,30,alsa_output.pci-0000_00_1b.0.analog-stereo.monitor|sound_note,2,44100,0,16,401,32,13
+defaults=4,0,20,0,300,0,2021-10-19T19:55:00,0,30,Card HDA Intel PCH: |sound_card||Device 92HD91BXX Analog: |sound_subdevice,2,44100,0,16,401,32,13
 last_device_2=alsa_output.pci-0000_00_1b.0.analog-stereo.monitor|sound_note
-last_device_3=bluez5 device|sound_card||Rockerz 550|sound_device
-last_device_4=DSNOOP plugin|sound_note
-last_device_5=
+last_device_3=
+last_device_4=Card HDA Intel PCH: |sound_card||Device 92HD91BXX Analog: |sound_subdevice
+last_device_5=/dev/dsp
 version=2.6

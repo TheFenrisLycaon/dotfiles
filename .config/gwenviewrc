@@ -4,6 +4,9 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 [Crop]
 CropAdvancedSettingsEnabled=true
 
+[FullScreen]
+FullScreenModeActive=true
+
 [General]
 LastUsedVersion=210800
 SideBarPage=operations
@@ -22,32 +25,22 @@ LVDS1 Height 1366x768=738
 LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=26
+LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAqsAAAK0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
-File10[$e]=$HOME/Pictures/Screenshots/2021-10-19_13-26-46.mkv
-File2[$e]=$HOME/Pictures/Screenshots/Screenshot_Chandigarh University Management System - Brave__001.png
-File3[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__002.png
-File4[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__003.png
-File5[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__004.png
-File6[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__005.png
-File7[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__006.png
-File8[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__007.png
-File9[$e]=$HOME/Pictures/Screenshots/Screenshot_SHL - Brave__008.png
-Name1[$e]=Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
-Name10[$e]=2021-10-19_13-26-46.mkv
-Name2[$e]=Screenshot_Chandigarh University Management System - Brave__001.png
-Name3[$e]=Screenshot_SHL - Brave__002.png
-Name4[$e]=Screenshot_SHL - Brave__003.png
-Name5[$e]=Screenshot_SHL - Brave__004.png
-Name6[$e]=Screenshot_SHL - Brave__005.png
-Name7[$e]=Screenshot_SHL - Brave__006.png
-Name8[$e]=Screenshot_SHL - Brave__007.png
-Name9[$e]=Screenshot_SHL - Brave__008.png
+File1[$e]=$HOME/work/IN - vInnovate/Samples/customSample-01.png
+File2[$e]=$HOME/work/IN - vInnovate/Samples/Sample.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot_Chandigarh University Management System - Brave__001.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
+File5[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
+Name1[$e]=customSample-01.png
+Name2[$e]=Sample.png
+Name3[$e]=Screenshot_Chandigarh University Management System - Brave__001.png
+Name4[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
+Name5[$e]=Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
 
 [SideBar]
 IsVisible ViewMode=false
