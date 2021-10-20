@@ -5,20 +5,22 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 shutdownType=2
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=emacs
+count=1
 
 [Session: saved at previous logout]
-clientId1=10c6e2d464000163470990800000005190005
-clientId2=10c6e2d464000163470991000000005190008
-clientId3=10c6e2d464000163470994700000005190010
+clientId1=10c6e2d464000163473374600000005200006
+clientId2=10c6e2d464000163470994700000005190010
+clientId3=10c6e2d464000163473374900000005200008
 count=3
-discardCommand3[$e]=rm,$HOME/.config/session/yakuake_10c6e2d464000163470994700000005190010_1634720805_22339
+discardCommand2[$e]=rm,$HOME/.config/session/yakuake_10c6e2d464000163470994700000005190010_1634742986_156061
 program1=/usr/lib/DiscoverNotifier
-program2=pulseaudio
-program3=/usr/bin/yakuake
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10c6e2d464000163470990800000005190005_1634720805_22787
-restartCommand2=
-restartCommand3=/usr/bin/yakuake,-session,10c6e2d464000163470994700000005190010_1634720805_22339
+program2=/usr/bin/yakuake
+program3=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10c6e2d464000163473374600000005200006_1634742986_155916
+restartCommand2=/usr/bin/yakuake,-session,10c6e2d464000163470994700000005190010_1634742986_156061
+restartCommand3=
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0

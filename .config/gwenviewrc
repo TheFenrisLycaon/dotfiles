@@ -36,11 +36,15 @@ File2[$e]=$HOME/work/IN - vInnovate/Samples/Sample.png
 File3[$e]=$HOME/Pictures/Screenshots/Screenshot_Chandigarh University Management System - Brave__001.png
 File4[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
 File5[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
+File6[$e]=$HOME/Pictures/Wallpapers/Screen1361.png
+File7[$e]=$HOME/Downloads/result_ryota.png
 Name1[$e]=customSample-01.png
 Name2[$e]=Sample.png
 Name3[$e]=Screenshot_Chandigarh University Management System - Brave__001.png
 Name4[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
 Name5[$e]=Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
+Name6[$e]=Screen1361.png
+Name7[$e]=result_ryota.png
 
 [SideBar]
 IsVisible ViewMode=false
