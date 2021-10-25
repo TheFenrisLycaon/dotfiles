@@ -138,7 +138,7 @@ alias scraper='conda activate scraper;export PATH="/home/fenris/Apps/anaconda3/e
 alias ML='conda activate ML;export PATH="/home/fenris/Apps/anaconda3/envs/ML/bin/:$PATH"'
 alias web='conda activate webapp;export PATH="/home/fenris/Apps/anaconda3/envs/webapp/bin/:$PATH"'
 alias gui='conda activate gui;export PATH="/home/fenris/Apps/anaconda3/envs/gui/bin/:$PATH"'
-alias vin='conda activate vin;export PATH="/home/fenris/Apps/anaconda3/envs/vin/bin/:$PATH"'
+alias vin='conda activate vin;export PATH="/home/fenris/Apps/anaconda3/envs/vin/bin/:$PATH"; cd /home/fenris/work/IN\ -\ vInnovate/'
 alias arima='conda activate arima;export PATH="/home/fenris/Apps/anaconda3/envs/arima/bin/:$PATH"'
 
 ### ARCHIVE EXTRACTION

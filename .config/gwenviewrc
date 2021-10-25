@@ -4,9 +4,6 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 [Crop]
 CropAdvancedSettingsEnabled=true
 
-[FullScreen]
-FullScreenModeActive=true
-
 [General]
 LastUsedVersion=210800
 SideBarPage=operations
@@ -24,27 +21,15 @@ iconViewIconSize=43
 LVDS1 Height 1366x768=738
 LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=0
+LVDS1 XPosition 1366x768=683
+LVDS1 YPosition 1366x768=26
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAqsAAAK0AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/work/IN - vInnovate/Samples/customSample-01.png
-File2[$e]=$HOME/work/IN - vInnovate/Samples/Sample.png
-File3[$e]=$HOME/Pictures/Screenshots/Screenshot_Chandigarh University Management System - Brave__001.png
-File4[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-File5[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
-File6[$e]=$HOME/Pictures/Wallpapers/Screen1361.png
-File7[$e]=$HOME/Downloads/result_ryota.png
-Name1[$e]=customSample-01.png
-Name2[$e]=Sample.png
-Name3[$e]=Screenshot_Chandigarh University Management System - Brave__001.png
-Name4[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-Name5[$e]=Screenshot_Meet - yfc-vrrt-rnt - Brave__001.png
-Name6[$e]=Screen1361.png
-Name7[$e]=result_ryota.png
+File1[$e]=$HOME/Apps/tools/scrape/jinnie_5/🌚/2021-07-24_21-29-58_UTC.jpg
+Name1[$e]=2021-07-24_21-29-58_UTC.jpg
 
 [SideBar]
 IsVisible ViewMode=false
