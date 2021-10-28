@@ -29,6 +29,7 @@ ToolBarsMovable=Disabled
 
 [Notification Messages]
 CloseAllTabs=false
+CloseSingleTab=true
 ShowPasteHugeTextWarning=false
 
 [SearchSettings]

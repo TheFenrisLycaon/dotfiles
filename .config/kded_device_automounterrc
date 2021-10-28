@@ -38,8 +38,8 @@ EverMounted=true
 ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb-pendrive
-LastNameSeen=29.2 GiB Removable Media
-LastSeenMounted=true
+LastNameSeen=14.5 GiB Removable Media
+LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0]
 ForceAttachAutomount=false

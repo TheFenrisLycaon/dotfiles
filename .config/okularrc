@@ -20,6 +20,7 @@ presentationInfo=false
 
 [Recent Files]
 File1[$e]=$HOME/work/Semester5/DIoT/Exp2.pdf
+File10[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
 File2[$e]=$HOME/Documents/Arima/Rishabh_Signed.pdf
 File3[$e]=$HOME/Documents/vInnovate/letter_Signed.pdf
 File4[$e]=$HOME/Documents/Books/Pschyology.pdf
@@ -27,8 +28,9 @@ File5[$e]=$HOME/Documents/Books/LinuxNotesForProfessionals.pdf
 File6[$e]=$HOME/Documents/Udita.pdf
 File7[$e]=$HOME/Documents/DL_Ack.pdf
 File8[$e]=$HOME/Documents/90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
-File9[$e]=$HOME/Downloads/WS 2.3.pdf
+File9[$e]=$HOME/Documents/Declamation Speeches.pdf
 Name1[$e]=Exp2.pdf
+Name10[$e]=Resume_Rishabh_Anand.pdf
 Name2[$e]=Rishabh_Signed.pdf
 Name3[$e]=letter_Signed.pdf
 Name4[$e]=Pschyology.pdf
@@ -36,4 +38,4 @@ Name5[$e]=LinuxNotesForProfessionals.pdf
 Name6[$e]=Udita.pdf
 Name7[$e]=DL_Ack.pdf
 Name8[$e]=90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
-Name9[$e]=WS 2.3.pdf
+Name9[$e]=Declamation Speeches.pdf

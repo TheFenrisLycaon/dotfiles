@@ -29,7 +29,11 @@ ToolBarsMovable=Disabled
 
 [Recent Files]
 File1[$e]=$HOME/Apps/tools/scrape/jinnie_5/🌚/2021-07-24_21-29-58_UTC.jpg
+File2[$e]=$HOME/Pictures/Wallpapers/Screen0801.jpg
+File3[$e]=$HOME/Pictures/Wallpapers/Screen0850.jpg
 Name1[$e]=2021-07-24_21-29-58_UTC.jpg
+Name2[$e]=Screen0801.jpg
+Name3[$e]=Screen0850.jpg
 
 [SideBar]
 IsVisible ViewMode=false
