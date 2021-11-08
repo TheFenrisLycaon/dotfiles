@@ -31,7 +31,7 @@ ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb
 LastNameSeen=Media
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdd1]
 EverMounted=true
@@ -39,7 +39,7 @@ ForceAttachAutomount=false
 ForceLoginAutomount=false
 Icon=drive-removable-media-usb-pendrive
 LastNameSeen=14.5 GiB Removable Media
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sr0]
 ForceAttachAutomount=false

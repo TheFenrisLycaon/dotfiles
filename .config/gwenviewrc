@@ -5,15 +5,17 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 CropAdvancedSettingsEnabled=true
 
 [General]
+LastTargetDir[$e]=file:$HOME/Pictures/New
 LastUsedVersion=210800
 SideBarPage=operations
+UrlNavigatorIsEditable=true
 
 [ImageView]
 ThumbnailSplitterSizes=505,144
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/Important/Pic_SQ.jpg,file:$HOME/Pictures/Screenshots/Adhar_Front.jpeg
-Recent URLs[$e]=file:$HOME/Pictures/Important/,file:$HOME/Pictures/Screenshots/
+Recent Files[$e]=file:$HOME/Pictures/New/Screen0623.png,file:$HOME/Pictures/New/Screen0623.png
+Recent URLs[$e]=file:$HOME/Pictures/Important/,file:$HOME/Pictures/Screenshots/,file:$HOME/Pictures/New/
 detailViewIconSize=16
 iconViewIconSize=43
 
@@ -28,12 +30,26 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Apps/tools/scrape/jinnie_5/🌚/2021-07-24_21-29-58_UTC.jpg
-File2[$e]=$HOME/Pictures/Wallpapers/Screen0801.jpg
-File3[$e]=$HOME/Pictures/Wallpapers/Screen0850.jpg
-Name1[$e]=2021-07-24_21-29-58_UTC.jpg
-Name2[$e]=Screen0801.jpg
-Name3[$e]=Screen0850.jpg
+File1[$e]=$HOME/Pictures/Wallpapers/Screen0006.jpg
+File10[$e]=$HOME/Pictures/Screenshots/Screenshot_WhatsApp__001.png
+File2[$e]=$HOME/Pictures/Wallpapers/Screen0007.jpg
+File3[$e]=$HOME/Pictures/Wallpapers/Screen0008.jpg
+File4[$e]=$HOME/Pictures/Wallpapers/Screen0009.jpg
+File5[$e]=$HOME/Pictures/Wallpapers/Screen0010.jpg
+File6[$e]=$HOME/Pictures/Wallpapers/Screen0011.jpg
+File7[$e]=$HOME/Pictures/Wallpapers/Screen0012.jpg
+File8[$e]=$HOME/Pictures/Wallpapers/Screen0013.png
+File9[$e]=$HOME/Pictures/Wallpapers/Screen0014.jpg
+Name1[$e]=Screen0006.jpg
+Name10[$e]=Screenshot_WhatsApp__001.png
+Name2[$e]=Screen0007.jpg
+Name3[$e]=Screen0008.jpg
+Name4[$e]=Screen0009.jpg
+Name5[$e]=Screen0010.jpg
+Name6[$e]=Screen0011.jpg
+Name7[$e]=Screen0012.jpg
+Name8[$e]=Screen0013.png
+Name9[$e]=Screen0014.jpg
 
 [SideBar]
 IsVisible ViewMode=false

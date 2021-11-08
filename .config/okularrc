@@ -12,30 +12,30 @@ LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=384
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAFSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Notification Messages]
 presentationInfo=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Arima/Rishabh_Signed.pdf
-File10[$e]=$HOME/Downloads/Telegram Desktop/Harvard University - Univ.AI Cohort Graduation.pdf
-File2[$e]=$HOME/Documents/vInnovate/letter_Signed.pdf
-File3[$e]=$HOME/Documents/Books/Pschyology.pdf
-File4[$e]=$HOME/Documents/Books/LinuxNotesForProfessionals.pdf
-File5[$e]=$HOME/Documents/Udita.pdf
-File6[$e]=$HOME/Documents/DL_Ack.pdf
-File7[$e]=$HOME/Documents/90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
-File8[$e]=$HOME/Documents/Declamation Speeches.pdf
-File9[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
-Name1[$e]=Rishabh_Signed.pdf
-Name10[$e]=Harvard University - Univ.AI Cohort Graduation.pdf
-Name2[$e]=letter_Signed.pdf
-Name3[$e]=Pschyology.pdf
-Name4[$e]=LinuxNotesForProfessionals.pdf
-Name5[$e]=Udita.pdf
-Name6[$e]=DL_Ack.pdf
-Name7[$e]=90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
-Name8[$e]=Declamation Speeches.pdf
-Name9[$e]=Resume_Rishabh_Anand.pdf
+File1[$e]=$HOME/Documents/Books/Pschyology.pdf
+File10[$e]=$HOME/Downloads/SUMMER TRAINING REPORT (2).pdf
+File2[$e]=$HOME/Documents/Books/LinuxNotesForProfessionals.pdf
+File3[$e]=$HOME/Documents/Udita.pdf
+File4[$e]=$HOME/Documents/DL_Ack.pdf
+File5[$e]=$HOME/Documents/90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
+File6[$e]=$HOME/Documents/Declamation Speeches.pdf
+File7[$e]=gdrive:/Work/Gov Docs/Adhaar Card.pdf?id=1O8z5UIgNxTmwyQ_9r8g4x773hG4HlGHh
+File8[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
+File9[$e]=$HOME/Downloads/19BCS4275_Shubham Mahajan WEB DEVELOPMENT FINAL REPORT.pdf
+Name1[$e]=Pschyology.pdf
+Name10[$e]=SUMMER TRAINING REPORT (2).pdf
+Name2[$e]=LinuxNotesForProfessionals.pdf
+Name3[$e]=Udita.pdf
+Name4[$e]=DL_Ack.pdf
+Name5[$e]=90b794cb-c4ec-4ef0-b4ea-f2c8fcc4dae6.pdf
+Name6[$e]=Declamation Speeches.pdf
+Name7[$e]=Adhaar Card.pdf
+Name8[$e]=Resume_Rishabh_Anand.pdf
+Name9[$e]=19BCS4275_Shubham Mahajan WEB DEVELOPMENT FINAL REPORT.pdf
