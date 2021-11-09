@@ -30,26 +30,26 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Wallpapers/Screen0006.jpg
-File10[$e]=$HOME/Pictures/Screenshots/Screenshot_WhatsApp__001.png
-File2[$e]=$HOME/Pictures/Wallpapers/Screen0007.jpg
-File3[$e]=$HOME/Pictures/Wallpapers/Screen0008.jpg
-File4[$e]=$HOME/Pictures/Wallpapers/Screen0009.jpg
-File5[$e]=$HOME/Pictures/Wallpapers/Screen0010.jpg
-File6[$e]=$HOME/Pictures/Wallpapers/Screen0011.jpg
-File7[$e]=$HOME/Pictures/Wallpapers/Screen0012.jpg
-File8[$e]=$HOME/Pictures/Wallpapers/Screen0013.png
-File9[$e]=$HOME/Pictures/Wallpapers/Screen0014.jpg
-Name1[$e]=Screen0006.jpg
-Name10[$e]=Screenshot_WhatsApp__001.png
-Name2[$e]=Screen0007.jpg
-Name3[$e]=Screen0008.jpg
-Name4[$e]=Screen0009.jpg
-Name5[$e]=Screen0010.jpg
-Name6[$e]=Screen0011.jpg
-Name7[$e]=Screen0012.jpg
-Name8[$e]=Screen0013.png
-Name9[$e]=Screen0014.jpg
+File1[$e]=$HOME/Pictures/Wallpapers/Screen0009.jpg
+File10[$e]=$HOME/Pictures/Wallpapers/Screen0345.jpg
+File2[$e]=$HOME/Pictures/Wallpapers/Screen0010.jpg
+File3[$e]=$HOME/Pictures/Wallpapers/Screen0011.jpg
+File4[$e]=$HOME/Pictures/Wallpapers/Screen0012.jpg
+File5[$e]=$HOME/Pictures/Wallpapers/Screen0013.png
+File6[$e]=$HOME/Pictures/Wallpapers/Screen0014.jpg
+File7[$e]=$HOME/Pictures/Screenshots/Screenshot_WhatsApp__001.png
+File8[$e]=$HOME/Pictures/Wallpapers/Screen1528.png
+File9[$e]=$HOME/Pictures/Wallpapers/Screen0344.jpg
+Name1[$e]=Screen0009.jpg
+Name10[$e]=Screen0345.jpg
+Name2[$e]=Screen0010.jpg
+Name3[$e]=Screen0011.jpg
+Name4[$e]=Screen0012.jpg
+Name5[$e]=Screen0013.png
+Name6[$e]=Screen0014.jpg
+Name7[$e]=Screenshot_WhatsApp__001.png
+Name8[$e]=Screen1528.png
+Name9[$e]=Screen0344.jpg
 
 [SideBar]
 IsVisible ViewMode=false

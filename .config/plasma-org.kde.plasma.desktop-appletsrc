@@ -50,7 +50,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][102][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1495.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0309.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -77,7 +77,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][104][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0557.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen1422.jpg
 SlideInterval=30
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -255,14 +255,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=92
+PreloadWeight=84
 
 [Containments][53][Applets][56]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][53][Applets][56][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][53][Applets][56][Shortcuts]
 global=Meta+Alt+C
@@ -278,7 +278,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][53][Applets][59][Configuration]
-PreloadWeight=33
+PreloadWeight=25
 
 [Containments][53][Applets][59][Shortcuts]
 global=Meta+K
@@ -291,15 +291,13 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][53][Applets][61][Configuration]
-PreloadWeight=10
+PreloadWeight=12
 
 [Containments][53][Applets][61][Configuration][ConfigDialog]
 DialogHeight=558
 DialogWidth=720
 
 [Containments][53][Applets][61][Configuration][General]
-currentTab=streams
-globalMute=true
 raiseMaximumVolume=true
 
 [Containments][53][Applets][61][Shortcuts]
@@ -313,7 +311,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][53][Applets][63][Shortcuts]
 global=Meta+Alt+N
@@ -347,7 +345,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=52
+PreloadWeight=49
 
 [Containments][53][Applets][79][Shortcuts]
 global=Meta+Alt+B
