@@ -9,11 +9,39 @@ Switch keyboard layout to English (US)=none,none,Switch keyboard layout to Engli
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
+[brave-agimnkijcaahngcdmfeangaknmldooml-default.desktop]
+_k_friendly_name=YouTube
+_launch=none,none,Launch YouTube
+
 [brave-browser.desktop]
 _k_friendly_name=Brave
 _launch=Meta+B,,Brave
 new-private-window=Meta+Shift+B,,New Incognito Window
 new-window=,,New Window
+
+[brave-hnpfjngllnobngcgfapefoaidbinmjnm-default.desktop]
+_k_friendly_name=WhatsApp
+_launch=none,none,Launch WhatsApp
+
+[brave-pjibgclleladliembfgfagdaldikeohf-default.desktop]
+_k_friendly_name=Spotify
+_launch=none,none,Launch Spotify
+
+[chrome-hnpfjngllnobngcgfapefoaidbinmjnm-profile_1.desktop]
+_k_friendly_name=WhatsApp
+_launch=none,none,Launch WhatsApp
+
+[chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-profile_1.desktop]
+_k_friendly_name=BlackBoard
+_launch=none,none,Launch BlackBoard
+
+[chrome-pkjmikhjfekbpecnijapbekepjdoieci-profile_1.desktop]
+_k_friendly_name=Teams
+_launch=none,none,Launch Teams
+
+[dota underlords.desktop]
+_k_friendly_name=Dota Underlords
+_launch=none,none,Launch Dota Underlords
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off

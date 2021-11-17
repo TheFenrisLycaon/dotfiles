@@ -134,7 +134,7 @@ toolBarFont=Noto Sans,10,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
 [Icons]
-Theme=WhiteSur-grey-dark
+Theme=Tela-circle-purple-dark
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475

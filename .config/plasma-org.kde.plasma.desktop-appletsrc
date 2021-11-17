@@ -50,7 +50,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][102][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0855.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0319.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -72,13 +72,17 @@ DialogWidth=720
 [Containments][104][Configuration]
 PreloadWeight=0
 
+[Containments][104][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=300
+
 [Containments][104][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][104][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1504.jpeg
-SlideInterval=30
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0279.jpg
+SlideInterval=90
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments][47]
@@ -95,7 +99,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][47][Applets][52][Configuration]
-PreloadWeight=97
+PreloadWeight=98
 SystrayContainmentId=53
 
 [Containments][47][Applets][68]
@@ -153,7 +157,7 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][47][Applets][85][Configuration]
-PreloadWeight=89
+PreloadWeight=94
 
 [Containments][47][Applets][85][Configuration][ConfigDialog]
 DialogHeight=558
@@ -161,7 +165,8 @@ DialogWidth=720
 
 [Containments][47][Applets][85][Configuration][General]
 alphaSort=true
-customButtonImage=uav
+customButtonImage=alienarena
+favoriteSystemActions=logout,shutdown
 favoritesPortedToKAstats=true
 limitDepth=true
 showIconsRootLevel=true
@@ -177,8 +182,12 @@ plugin=org.kde.plasma.icontasks
 [Containments][47][Applets][86][Configuration]
 PreloadWeight=0
 
+[Containments][47][Applets][86][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
 [Containments][47][Applets][86][Configuration][General]
-launchers=applications:chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-Profile_1.desktop,applications:chrome-pkjmikhjfekbpecnijapbekepjdoieci-Profile_1.desktop,preferred://browser,applications:chrome-hnpfjngllnobngcgfapefoaidbinmjnm-Profile_1.desktop,applications:vlc.desktop,applications:brave-agimnkijcaahngcdmfeangaknmldooml-Default.desktop
+launchers=
 
 [Containments][47][Applets][87]
 immutability=1
@@ -190,15 +199,6 @@ PreloadWeight=0
 [Containments][47][Applets][87][Configuration][General]
 length=583
 
-[Containments][47][Applets][95]
-immutability=1
-plugin=org.kde.plasma.icon
-
-[Containments][47][Applets][95][Configuration]
-PreloadWeight=0
-localPath=/home/fenris/.local/share/plasma_icons/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
-url=file:///home/fenris/.local/share/applications/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop
-
 [Containments][47][ConfigDialog]
 DialogHeight=84
 DialogWidth=1366
@@ -207,7 +207,7 @@ DialogWidth=1366
 PreloadWeight=0
 
 [Containments][47][General]
-AppletOrder=85;68;70;71;95;86;87;52;72
+AppletOrder=85;68;70;71;86;87;52;72
 
 [Containments][53]
 activityId=
@@ -255,7 +255,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][53][Applets][55][Configuration]
-PreloadWeight=68
+PreloadWeight=46
 
 [Containments][53][Applets][56]
 immutability=1
@@ -278,7 +278,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][53][Applets][59][Configuration]
-PreloadWeight=79
+PreloadWeight=57
 
 [Containments][53][Applets][59][Shortcuts]
 global=Meta+K
@@ -298,6 +298,7 @@ DialogHeight=558
 DialogWidth=720
 
 [Containments][53][Applets][61][Configuration][General]
+globalMute=true
 raiseMaximumVolume=true
 
 [Containments][53][Applets][61][Shortcuts]
@@ -311,7 +312,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][53][Applets][63][Configuration]
-PreloadWeight=86
+PreloadWeight=59
 
 [Containments][53][Applets][63][Shortcuts]
 global=Meta+Alt+N
@@ -324,10 +325,10 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][53][Applets][67][Configuration]
-PreloadWeight=97
+PreloadWeight=65
 
 [Containments][53][Applets][67][Shortcuts]
-global=Meta+N
+global=
 
 [Containments][53][Applets][73]
 immutability=1
@@ -345,7 +346,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][53][Applets][79][Configuration]
-PreloadWeight=43
+PreloadWeight=26
 
 [Containments][53][Applets][79][Shortcuts]
 global=Meta+Alt+B
@@ -382,5 +383,5 @@ global=Ctrl+`
 temperatureFontSize=91
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,7,desktop:/Music,desktop:/Videos,desktop:/Downloads,desktop:/Documents,desktop:/Pictures,desktop:/work,desktop:/Apps
-screenMapping=
+itemsOnDisabledScreens=
+screenMapping=desktop:/Videos,0,desktop:/Downloads,0,desktop:/work,0,desktop:/Apps,0,desktop:/Documents,0,desktop:/Pictures,0,desktop:/Music,0

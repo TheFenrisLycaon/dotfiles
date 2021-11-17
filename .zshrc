@@ -206,12 +206,12 @@ alias zshrc='nvim ~/.zshrc'
 alias vim='nvim'
 
 # pacman shortcuts
-alias ins='sudo pacman -S --needed'
-alias insy='yay -S '
-alias unins='sudo pacman -Rsu '
-alias uninsy='yay -Rsu'
-alias update='sudo pacman -Syu'
-alias updatey='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
+alias ins='sudo pacman -S --needed --color always'
+alias insy='yay -S --color always'
+alias unins='sudo pacman -Rsu --color always'
+alias uninsy='yay -Rsu --color always'
+alias update='sudo pacman -Syu --color always'
+alias updatey='yay -Sua --noconfirm --color always'              # update only AUR pkgs (yay)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 alias tlmgr='tllocalmgr install'
 

@@ -15,8 +15,8 @@ detailViewIconSize=16
 iconViewIconSize=43
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=454
-LVDS1 Width 1366x768=410
+LVDS1 Height 1366x768=458
+LVDS1 Width 1366x768=413
 
 [Notification Messages]
 klipperClearHistoryAskAgain=false
