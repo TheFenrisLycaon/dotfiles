@@ -1,41 +1,14 @@
-LVDS1 Window-Maximized 1366x768=true
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
-
 [Desktop Entry]
 FullScreen=false
 
 [MainWindow]
-LVDS1 Height 1366x768=384
-LVDS1 Width 1366x768=1366
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=384
+LVDS1 XPosition 1366x768=456
+LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK2AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
-[Notification Messages]
-presentationInfo=false
-
 [Recent Files]
-File1[$e]=$HOME/Documents/Certificates/Coursera JDG283VBP3MJ.pdf
-File10[$e]=$HOME/Downloads/Project Report-AIT-CSEdocx.pdf
-File2[$e]=$HOME/Documents/Certificates/Coursera LFJCZ2WYJD7K.pdf
-File3[$e]=$HOME/Documents/Certificates/Coursera MFTSPJKXSQAQ.pdf
-File4[$e]=$HOME/Documents/Certificates/Coursera PBD6GRTYSEWG.pdf
-File5[$e]=$HOME/Documents/Certificates/Coursera PWQH5PB6DUSC.pdf
-File6[$e]=$HOME/Documents/Certificates/Coursera QFJPRXCAHK7C.pdf
-File7[$e]=$HOME/work/Semester5/Advanced_Programming/Practical/Assignment_6.pdf
-File8[$e]=$HOME/Downloads/Form5.pdf
-File9[$e]=$HOME/Downloads/Bayesian_inference_federated_learning_for_heartrate_prediction.pdf
-Name1[$e]=Coursera JDG283VBP3MJ.pdf
-Name10[$e]=Project Report-AIT-CSEdocx.pdf
-Name2[$e]=Coursera LFJCZ2WYJD7K.pdf
-Name3[$e]=Coursera MFTSPJKXSQAQ.pdf
-Name4[$e]=Coursera PBD6GRTYSEWG.pdf
-Name5[$e]=Coursera PWQH5PB6DUSC.pdf
-Name6[$e]=Coursera QFJPRXCAHK7C.pdf
-Name7[$e]=Assignment_6.pdf
-Name8[$e]=Form5.pdf
-Name9[$e]=Bayesian_inference_federated_learning_for_heartrate_prediction.pdf
+File1[$e]=$HOME/work/dead/University/Semester4/Report/19BCS4525_Rishabh_Anand_Report.pdf
+Name1[$e]=19BCS4525_Rishabh_Anand_Report.pdf

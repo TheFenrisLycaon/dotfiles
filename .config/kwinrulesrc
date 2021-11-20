@@ -2,158 +2,85 @@
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [1]
-Description=Application settings for telegramdesktop
+Description=Application settings for vlc
 clientmachine=localhost
 noborder=true
-noborderrule=4
-wmclass=telegram
-wmclasscomplete=true
-wmclassmatch=1
-
-[10]
-Description=Application settings for vlc
-noborder=true
-noborderrule=4
-opacityactive=100
-opacityinactive=75
-windowrole=dolphin#1
+noborderrule=3
 wmclass=vlc
 wmclassmatch=1
 
-[11]
-Description=Application settings for brave-browser
-maximizehoriz=true
-maximizevert=true
-noborderrule=4
-opacityactive=100
-opacityactiverule=2
-opacityinactive=75
-windowrole=dolphin#1
-wmclass=brave-browser
-wmclassmatch=2
-
-[12]
-Description=Window settings for dolphin
-maximizehoriz=true
-maximizevert=true
-noborderrule=4
-opacityactive=95
-opacityactiverule=2
-opacityinactive=75
-opacityinactiverule=2
-types=1
-windowrole=dolphin#1
-windowrolematch=1
+[2]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=3
 wmclass=dolphin
 wmclassmatch=1
 
-[13]
-Description=Application settings for processing-app-base
-maximizehoriz=true
-maximizehorizrule=4
-maximizevert=true
-maximizevertrule=4
-noborder=true
-noborderrule=4
-wmclass=sun-awt-x11-xframepeer processing-app-base
-wmclasscomplete=true
-wmclassmatch=1
-
-[2]
-Description=Application settings for firefox
-clientmachine=localhost
-noborder=true
-noborderrule=3
-wmclass=navigator firefox
-wmclasscomplete=true
-wmclassmatch=1
-
 [3]
-Description=Application settings for notion-app-enhanced
-noborder=true
-noborderrule=3
-wmclass=notion-app-enhanced
-wmclassmatch=1
-
-[35c5b08f-295a-413b-b843-505718c6c4b8]
-Description=Application settings for telegramdesktop
+Description=Application settings for brave-browser
 clientmachine=localhost
 noborder=true
-noborderrule=4
-wmclass=telegram
-wmclasscomplete=true
+noborderrule=3
+wmclass=brave-browser
+wmclassmatch=1
+
+[3b0cef7a-89ff-438f-98fe-df0a600ac2d4]
+Description=Application settings for vlc
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=vlc
 wmclassmatch=1
 
 [4]
-Description=Application settings for chromium
-noborder=true
-noborderrule=4
-wmclass=chromium
-wmclassmatch=1
-
-[5]
-Description=Application settings for telegramdesktop
-minsize=1366,768
-noborder=true
-noborderrule=4
-wmclass=telegram-desktop telegramdesktop
-wmclasscomplete=true
-wmclassmatch=1
-
-[6]
-Description=Application settings for okular
-minsize=1366,768
-noborderrule=4
-opacityactive=98
-opacityinactive=95
-wmclass=okular
-wmclassmatch=1
-
-[7]
-Description=Application settings for emacs
-decocolor=BreezeBlack
-minsize=1366,768
-minsizerule=2
-noborder=true
-noborderrule=4
-opacityactive=98
-opacityinactive=95
-wmclass=emacs
-wmclassmatch=2
-
-[8]
-Description=Application settings for discord
-decocolor=BreezeBlack
-noborder=true
-noborderrule=4
-opacityactive=98
-opacityactiverule=2
-opacityinactive=95
-opacityinactiverule=2
-wmclass=discord
-wmclassmatch=1
-
-[9]
 Description=Application settings for code
-decocolor=BreezeBlack
-decocolorrule=2
-noborderrule=4
-opacityactive=80
-opacityactiverule=2
-opacityinactive=50
-opacityinactiverule=2
-wmclass=code
-wmclassmatch=1
-
-[General]
-count=13
-rules=1,2,3,4,5,6,7,8,9,10,11,12,13
-
-[d73691ee-d99e-43f2-a687-781ca47a9f15]
-Description=Application settings for firefox
 clientmachine=localhost
 noborder=true
 noborderrule=3
-wmclass=navigator firefox
-wmclasscomplete=true
+wmclass=code
+wmclassmatch=1
+
+[5]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=konsole
+wmclassmatch=1
+
+[General]
+count=5
+rules=1,2,3,4,5
+
+[a6411014-1971-444e-ba35-4ae135372a04]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=dolphin
+wmclassmatch=1
+
+[e8f0db36-b123-4c6a-930c-092f3ab2e994]
+Description=Application settings for code
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=code
+wmclassmatch=1
+
+[ebbb9070-e1a5-427d-9a47-fd38a733228a]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=konsole
+wmclassmatch=1
+
+[f4c2cbed-99f9-4080-8043-3c61e0c105f5]
+Description=Application settings for brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=brave-browser
 wmclassmatch=1

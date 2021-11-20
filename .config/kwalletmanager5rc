@@ -1,8 +1,0 @@
-[MainWindow]
-LVDS1 Height 1366x768=324
-LVDS1 Width 1366x768=550
-LVDS1 Window-Maximized 1366x768=true
-
-[WalletEditor]
-AlwaysShowContents=false
-SplitterSize=623,716

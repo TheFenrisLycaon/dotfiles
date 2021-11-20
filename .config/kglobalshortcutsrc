@@ -3,6 +3,9 @@ _k_friendly_name=Activity Manager
 switch-to-activity-=none,none,
 switch-to-activity-1cbaf04c-ff1c-4c50-8fc3-2b4550101a48=none,none,Switch to activity "Work"
 switch-to-activity-4b90b019-4540-41db-b846-8866c6e5863a=none,none,Switch to activity "Default"
+switch-to-activity-654bc312-e56a-4854-a7ce-bb376be6b56f=Meta+Ctrl+W,none,Switch to activity "Work"
+switch-to-activity-d1e47702-5be9-4164-92fe-145655929e77=none,none,Switch to activity "Default"
+switch-to-activity-f8b1edf4-04c6-428a-836f-3fd47f8592ae=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
@@ -60,8 +63,8 @@ display=Display\t,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
+{c251ea63-0aae-4126-b5f7-9741eb2984b2}=Ctrl+Alt+T,none,Launch Konsole
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
-{d4eaf369-6982-4ac7-8c02-70e3421e3241}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
 _k_friendly_name=Audio Volume
@@ -104,6 +107,7 @@ MoveZoomDown=none,none,Move Zoomed Area Downwards
 MoveZoomLeft=none,none,Move Zoomed Area to Left
 MoveZoomRight=none,none,Move Zoomed Area to Right
 MoveZoomUp=none,none,Move Zoomed Area Upwards
+Overview=Meta+Ctrl+D,Meta+Ctrl+D,Toggle Overview
 Setup Window Shortcut=none,none,Setup Window Shortcut
 Show Desktop=Meta+D,Meta+D,Show Desktop
 ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Show Desktop Grid
@@ -150,6 +154,7 @@ Switch to Screen 6=none,none,Switch to Screen 6
 Switch to Screen 7=none,none,Switch to Screen 7
 Toggle Night Color=none,none,Toggle Night Color
 Toggle Window Raise/Lower=none,none,Toggle Window Raise/Lower
+ToggleCurrentThumbnail=Meta+Ctrl+T,Meta+Ctrl+T,Toggle Thumbnail for Current Window
 ToggleMouseClick=Meta+*,Meta+*,Toggle Mouse Click Effect
 Walk Through Desktop List=none,none,Walk Through Desktop List
 Walk Through Desktop List (Reverse)=none,none,Walk Through Desktop List (Reverse)
@@ -302,18 +307,20 @@ activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
 activate widget 100=none,none,Activate Weather Report Widget
 activate widget 24=,none,Activate Application Menu Widget
+activate widget 25=Alt+F1,none,Activate Application Menu Widget
 activate widget 27=none,none,Activate Better inline clock Widget
+activate widget 31=Meta+K,none,Activate KDE Connect Widget
 activate widget 53=Ctrl+`,none,Activate System Tray Widget
 activate widget 56=Meta+Alt+C,none,Activate Clipboard Widget
 activate widget 58=none,none,Activate Lock Keys Status Widget
-activate widget 59=Meta+K,none,Activate KDE Connect Widget
+activate widget 59=,none,Activate KDE Connect Widget
 activate widget 61=Meta+Alt+V,none,Activate Audio Volume Widget
 activate widget 63=Meta+Alt+N,none,Activate Notifications Widget
 activate widget 67=Meta+N,none,Activate Networks Widget
 activate widget 72=none,none,Activate Better inline clock Widget
 activate widget 73=none,none,Activate Media Player Widget
 activate widget 79=Meta+Alt+B,none,Activate Bluetooth Widget
-activate widget 85=Alt+F1,none,Activate Application Menu Widget
+activate widget 85=,none,Activate Application Menu Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item

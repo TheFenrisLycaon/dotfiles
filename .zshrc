@@ -278,3 +278,6 @@ alias idfMonitor='idf.py -p /dev/ttyUSB0 monitor'
 # Load Elixir Support
 
 alias loadex='. $HOME/.asdf/asdf.sh;. $HOME/.asdf/completions/asdf.bash'
+
+export LC_CTYPE=en_IN.UTF-8
+export LC_ALL=en_IN.UTF-8

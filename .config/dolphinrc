@@ -1,18 +1,10 @@
-LVDS1 Window-Maximized 1366x768=true
-MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAB/AAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAALgAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE1gAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
-
 [CompactMode]
 FontWeight=50
 
 [ContextMenu]
 ShowAddToPlaces=false
-ShowCopyLocation=false
-ShowCopyMoveMenu=true
-ShowDuplicateHere=false
 ShowOpenInNewTab=false
 ShowOpenInNewWindow=false
-ShowOpenTerminal=false
 
 [Desktop Entry]
 DefaultProfile=coolsvile.profile
@@ -21,71 +13,50 @@ DefaultProfile=coolsvile.profile
 FontWeight=50
 
 [General]
-BrowseThroughArchives=true
-ConfirmClosingMultipleTabs=false
+EditableUrl=true
 GlobalViewProps=false
-OpenExternallyCalledFolderInNewTab=false
 RememberOpenedTabs=false
 ShowFullPath=true
 ShowFullPathInTitlebar=true
 ShowZoomSlider=false
-SortingChoice=CaseInsensitiveSorting
 UseTabForSwitchingSplitView=true
 Version=201
-ViewPropsTimestamp=2021,7,10,12,0,55.348
+ViewPropsTimestamp=2021,11,18,0,50,5.464
 
 [IconsMode]
+FontFamily=Monospace
 FontWeight=50
-PreviewSize=112
+IconSize=64
+PreviewSize=96
+UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS-1 Height 1366x768=606
-LVDS-1 Width 1366x768=438
 LVDS1 Height 1366x768=606
 LVDS1 Width 1366x768=483
 
 [MainWindow]
-LVDS-1 Window-Maximized 1366x768=true
-LVDS-1 XPosition 1366x768=0
-LVDS-1 YPosition 1366x768=0
-LVDS1 Height 1366x768=768
-LVDS1 Width 1366x768=1366
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 Window-Maximized 800x600=true
-LVDS1 Window-Maximized 864x486=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAB1AAACuPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAuAAAAlgAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACuAAAAF0BAAADAAAAAQAAAMQAAALS/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAC4AAALSAAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE4AAAArgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACBAAACE/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAACEwAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAAFVgAAAJEBAAADAAAE1AAAAhMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
 [Notification Messages]
-ConfirmEmptyTrash=true
-ConfirmHide=true
+ConfirmDelete=true
 ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vlc,neo,mkv,kde,vl,ok,virt,code,oku,gwe,neov,vim,mk,VLC
-
-[PlacesPanel]
-IconSize=16
+History=vlc
 
 [PreviewSettings]
-Plugins=appimagethumbnail,audiothumbnail,ebookthumbnail,imagethumbnail,jpegthumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
+Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
 
 [SettingsDialog]
-LVDS-1 Height 1366x768=440
-LVDS-1 Width 1366x768=589
-LVDS1 Height 1366x768=440
+LVDS1 Height 1366x768=438
 LVDS1 Width 1366x768=589
 
 [VersionControl]
-enabledPlugins=Git,Mercurial
-
-[ViewPropertiesDialog]
-LVDS1 Height 1366x768=436
-LVDS1 Width 1366x768=375
-
-[kuick-copy]
-Paths[$e]=$HOME/Downloads/
+enabledPlugins=Git

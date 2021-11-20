@@ -1,11 +1,9 @@
 [activities]
-1cbaf04c-ff1c-4c50-8fc3-2b4550101a48=Work
-4b90b019-4540-41db-b846-8866c6e5863a=Default
+654bc312-e56a-4854-a7ce-bb376be6b56f=Work
+d1e47702-5be9-4164-92fe-145655929e77=Default
 
 [activities-icons]
-1cbaf04c-ff1c-4c50-8fc3-2b4550101a48=activities
+654bc312-e56a-4854-a7ce-bb376be6b56f=activities
 
 [main]
-currentActivity=4b90b019-4540-41db-b846-8866c6e5863a
-runningActivities=4b90b019-4540-41db-b846-8866c6e5863a
-stoppedActivities=
+currentActivity=d1e47702-5be9-4164-92fe-145655929e77

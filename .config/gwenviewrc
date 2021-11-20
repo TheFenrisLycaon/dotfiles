@@ -1,59 +1,25 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
-[Crop]
-CropAdvancedSettingsEnabled=true
-
 [General]
-LastTargetDir[$e]=file:$HOME/Pictures/New
 LastUsedVersion=210800
-SideBarPage=operations
-UrlNavigatorIsEditable=true
-
-[ImageView]
-ThumbnailSplitterSizes=505,144
-
-[KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/New/Screen0623.png,file:$HOME/Pictures/New/Screen0623.png
-Recent URLs[$e]=file:$HOME/Pictures/Important/,file:$HOME/Pictures/Screenshots/,file:$HOME/Pictures/New/
-detailViewIconSize=16
-iconViewIconSize=43
 
 [MainWindow]
-LVDS1 Height 1366x768=738
-LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=683
-LVDS1 YPosition 1366x768=26
+LVDS1 XPosition 1366x768=699
+LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK4AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/work/Semester5/TimeTable.jpeg
-File10[$e]=$HOME/work/Semester5/Minor_Proj/private/rSign.jpeg
-File2[$e]=$HOME/Pictures/RivaanBirthDay/DSC_0425.JPG
-File3[$e]=$HOME/Pictures/RivaanBirthDay/DSC_0440.JPG
-File4[$e]=$HOME/Pictures/RivaanBirthDay/DSC_0490.JPG
-File5[$e]=$HOME/work/Semester5/Minor_Proj/private/res1.png
-File6[$e]=$HOME/work/Semester5/Minor_Proj/private/res2.png
-File7[$e]=$HOME/work/Semester5/Minor_Proj/private/res3.png
-File8[$e]=$HOME/work/Semester5/Minor_Proj/private/res4.png
-File9[$e]=$HOME/work/Semester5/Minor_Proj/private/res5.png
-Name1[$e]=TimeTable.jpeg
-Name10[$e]=rSign.jpeg
-Name2[$e]=DSC_0425.JPG
-Name3[$e]=DSC_0440.JPG
-Name4[$e]=DSC_0490.JPG
-Name5[$e]=res1.png
-Name6[$e]=res2.png
-Name7[$e]=res3.png
-Name8[$e]=res4.png
-Name9[$e]=res5.png
-
-[SideBar]
-IsVisible ViewMode=false
-SideBarSplitterSizes=242,1121
-
-[ThumbnailView]
-ThumbnailSize=512
+File1[$e]=$HOME/Pictures/Screenshot_20211119_184807.png
+File2[$e]=$HOME/Pictures/Screenshot_20211119_184746.png
+File3[$e]=$HOME/Pictures/Screenshot_20211119_184741.png
+File4[$e]=$HOME/Pictures/Screenshot_20211119_184735.png
+File5[$e]=$HOME/Pictures/Screenshot_20211119_184721.png
+Name1[$e]=Screenshot_20211119_184807.png
+Name2[$e]=Screenshot_20211119_184746.png
+Name3[$e]=Screenshot_20211119_184741.png
+Name4[$e]=Screenshot_20211119_184735.png
+Name5[$e]=Screenshot_20211119_184721.png

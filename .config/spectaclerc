@@ -1,17 +1,5 @@
 [$Version]
-update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd:clipboard-settings-change
-
-[General]
-autoSaveImage=true
-clipboardGroup=PostScreenshotCopyImage
-rememberLastRectangularRegion=false
-
-[GuiConfig]
-includePointer=true
-quitAfterSaveCopyExport=true
-window-position=344,0
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
 
 [Save]
-defaultSaveLocation=file:///home/fenris/Pictures/Screenshots/
-lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_Bayesian_inference_federated_learning_for_heartrate_prediction.pdf __005.png
-saveFilenameFormat=Screenshot_%T__%3d
+lastSaveLocation=file:///home/fenris/Pictures/Screenshot_20211119_184807.png

@@ -3488,7 +3488,6 @@
                 }
             ],
             "Folder": true,
-            "FolderOpen": true,
             "PresetName": "Web",
             "Type": 0
         },
@@ -6623,7 +6622,6 @@
                 }
             ],
             "Folder": true,
-            "FolderOpen": true,
             "PresetName": "Devices",
             "Type": 0
         },
@@ -8817,7 +8815,6 @@
                 }
             ],
             "Folder": true,
-            "FolderOpen": true,
             "PresetName": "Matroska",
             "Type": 0
         },

@@ -52,10 +52,32 @@ ForegroundPositive[$d]
 ForegroundVisited[$d]
 
 [Colors:Header]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
 DecorationFocus[$d]
 DecorationHover[$d]
 ForegroundActive[$d]
+ForegroundInactive[$d]
 ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
+[Colors:Header][Inactive]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
 
 [Colors:Selection]
 BackgroundAlternate[$d]
@@ -178,7 +200,7 @@ TriggersCount=1
 [Data_1_2Triggers0]
 Key=Ctrl+Alt+T
 Type=SHORTCUT
-Uuid={d4eaf369-6982-4ac7-8c02-70e3421e3241}
+Uuid={c251ea63-0aae-4126-b5f7-9741eb2984b2}
 
 [Data_2]
 Comment=This group contains various examples demonstrating most of the features of KHotkeys. (Note that this group and all its actions are disabled by default.)
@@ -231,7 +253,7 @@ TriggersCount=1
 [Data_2_1Triggers0]
 Key=Ctrl+Alt+I
 Type=SHORTCUT
-Uuid={481f5ed4-0f17-4847-8b76-6f4f3f10e15c}
+Uuid={e1ab1bc2-931f-4058-8660-ccce32219f66}
 
 [Data_2_2]
 Comment=After pressing Alt+Ctrl+H the input of 'Hello' will be simulated, as if you typed it.  This is especially useful if you have call to frequently type a word (for instance, 'unsigned').  Every keypress in the input is separated by a colon ':'. Note that the keypresses literally mean keypresses, so you have to write what you would press on the keyboard. In the table below, the left column shows the input and the right column shows what to type.\n\n"enter" (i.e. new line)                Enter or Return\na (i.e. small a)                          A\nA (i.e. capital a)                       Shift+A\n: (colon)                                  Shift+;\n' '  (space)                              Space
@@ -258,7 +280,7 @@ TriggersCount=1
 [Data_2_2Triggers0]
 Key=Ctrl+Alt+H
 Type=SHORTCUT
-Uuid={13a8d41a-d515-4f79-8f18-b1d522d7a653}
+Uuid={2f6de3ed-8a92-4aed-9e01-9e557d360f1c}
 
 [Data_2_3]
 Comment=This action runs Konsole, after pressing Ctrl+Alt+T.
@@ -284,7 +306,7 @@ TriggersCount=1
 [Data_2_3Triggers0]
 Key=Ctrl+Alt+T
 Type=SHORTCUT
-Uuid={c284541e-3f9b-45cb-8ea8-b5d00cdbcec0}
+Uuid={ba902524-89fe-4d07-aefd-12ab8f6bfe19}
 
 [Data_2_4]
 Comment=Read the comment on the "Type 'Hello'" action first.\n\nQt Designer uses Ctrl+F4 for closing windows.  In KDE, however, Ctrl+F4 is the shortcut for going to virtual desktop 4, so this shortcut does not work in Qt Designer.  Further, Qt Designer does not use KDE's standard Ctrl+W for closing the window.\n\nThis problem can be solved by remapping Ctrl+W to Ctrl+F4 when the active window is Qt Designer. When Qt Designer is active, every time Ctrl+W is pressed, Ctrl+F4 will be sent to Qt Designer instead. In other applications, the effect of Ctrl+W is unchanged.\n\nWe now need to specify three things: A new shortcut trigger on 'Ctrl+W', a new keyboard input action sending Ctrl+F4, and a new condition that the active window is Qt Designer.\nQt Designer seems to always have title 'Qt Designer by Trolltech', so the condition will check for the active window having that title.
@@ -329,7 +351,7 @@ TriggersCount=1
 [Data_2_4Triggers0]
 Key=Ctrl+W
 Type=SHORTCUT
-Uuid={09458fe9-a83d-4005-bb94-77c123071560}
+Uuid={d3561045-fed7-42cb-902d-60f377159c84}
 
 [Data_2_5]
 Comment=By pressing Alt+Ctrl+W a D-Bus call will be performed that will show the minicli. You can use any kind of D-Bus call, just like using the command line 'qdbus' tool.
@@ -358,7 +380,7 @@ TriggersCount=1
 [Data_2_5Triggers0]
 Key=Ctrl+Alt+W
 Type=SHORTCUT
-Uuid={214da503-4f87-4d2e-9153-72e9d52a240a}
+Uuid={f4913889-5e71-4f27-b73a-fa8fda63fc7d}
 
 [Data_2_6]
 Comment=Read the comment on the "Type 'Hello'" action first.\n\nJust like the "Type 'Hello'" action, this one simulates keyboard input, specifically, after pressing Ctrl+Alt+B, it sends B to XMMS (B in XMMS jumps to the next song). The 'Send to specific window' checkbox is checked and a window with its class containing 'XMMS_Player' is specified; this will make the input always be sent to this window. This way, you can control XMMS even if, for instance, it is on a different virtual desktop.\n\n(Run 'xprop' and click on the XMMS window and search for WM_CLASS to see 'XMMS_Player').
@@ -400,7 +422,7 @@ TriggersCount=1
 [Data_2_6Triggers0]
 Key=Ctrl+Alt+B
 Type=SHORTCUT
-Uuid={be1d0ffc-b536-4892-b1a6-0a1e9cdd1631}
+Uuid={6ca12688-1050-43a4-ae30-7781f448f513}
 
 [Data_2_7]
 Comment=Konqueror in KDE3.1 has tabs, and now you can also have gestures.\n\nJust press the middle mouse button and start drawing one of the gestures, and after you are finished, release the mouse button. If you only need to paste the selection, it still works, just click the middle mouse button. (You can change the mouse button to use in the global settings).\n\nRight now, there are the following gestures available:\nmove right and back left - Forward (Alt+Right)\nmove left and back right - Back (Alt+Left)\nmove up and back down  - Up (Alt+Up)\ncircle counterclockwise - Reload (F5)\n\nThe gesture shapes can be entered by performing them in the configuration dialog. You can also look at your numeric pad to help you: gestures are recognized like a 3x3 grid of fields, numbered 1 to 9.\n\nNote that you must perform exactly the gesture to trigger the action. Because of this, it is possible to enter more gestures for the action. You should try to avoid complicated gestures where you change the direction of mouse movement more than once.  For instance, 45654 or 74123 are simple to perform, but 1236987 may be already quite difficult.\n\nThe conditions for all gestures are defined in this group. All these gestures are active only if the active window is Konqueror (class contains 'konqueror').
@@ -592,7 +614,7 @@ TriggersCount=1
 [Data_2_8Triggers0]
 Key=Meta+E
 Type=SHORTCUT
-Uuid={4b2367a1-330f-4ddd-8ce3-08b5bd9ccca3}
+Uuid={155d1c3d-c681-4efe-9465-a9d67bec7f5f}
 
 [Data_3]
 Comment=Basic Konqueror gestures.
@@ -1006,19 +1028,11 @@ AccentColor[$d]
 BrowserApplication[$d]
 ColorScheme[$d]
 Name[$d]
-UseSystemBell[$d]
-XftHintStyle[$d]
-XftSubPixel[$d]
-fixed[$d]
-font[$d]
-menuFont[$d]
 shadeSortColumn[$d]
-smallestReadableFont[$d]
-toolBarFont[$d]
 widgetStyle[$d]
 
 [Gestures]
-Disabled=false
+Disabled=true
 MouseButton=2
 Timeout=300
 
@@ -1057,13 +1071,6 @@ Sort reversed[$d]
 Speedbar Width[$d]
 View Style[$d]
 
-[KScreen]
-ScaleFactor[$d]
-ScreenScaleFactors[$d]
-
-[KShortcutsDialog Settings]
-Dialog Size[$d]
-
 [Main]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321,konsole
 Disabled=false
@@ -1078,7 +1085,6 @@ Shortcut=
 [WM]
 activeBackground[$d]
 activeBlend[$d]
-activeFont[$d]
 activeForeground[$d]
 inactiveBackground[$d]
 inactiveBlend[$d]

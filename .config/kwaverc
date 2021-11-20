@@ -1,24 +1,9 @@
-[FileDialog]
-dialog_height=560
-dialog_width=884
-
-[KFileDialog Settings]
-Recent Files[$e]=audio.aac,file:$HOME/Downloads/main.wav,file:$HOME/Videos/audio.aac
-Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/Downloads/
-iconViewIconSize=43
-
-[KwaveFileDialog-kwave_open_dir]
-last_ext=*.wav
-last_url=file:///home/fenris/Downloads/
-
 [MainWindow]
-LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=26
+LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAABVYAAAJlAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAALb/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAZj/////AAAAAAAAAAA=
-ToolBarsMovable=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA44AAAGhAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABGAGkAbABlAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABFAGQAaQB0AQAAAMD/////AAAAAAAAAAAAAAACAAAAAgAAADQATQBhAGkAbgBXAGkAZABnAGUAdAAgAFIAZQBjAG8AcgBkAC8AUABsAGEAeQBiAGEAYwBrAQAAAAD/////AAAAAAAAAAAAAAAeAE0AYQBpAG4AVwBpAGQAZwBlAHQAIABaAG8AbwBtAQAAAaL/////AAAAAAAAAAA=
 toolbars=3
 
 [MainWindow][Toolbar MainWidget Edit]
@@ -35,21 +20,5 @@ ToolButtonStyle=IconOnly
 IconSize=32
 ToolButtonStyle=IconOnly
 
-[Recent Dirs]
-kwave_open_dir[$e]=file:$HOME/Downloads/,file:$HOME/Videos/,$HOME/Documents
-
 [Recent Files]
-0=/home/fenris/Music/Contention.mp3
-1=/home/fenris/Music/Moving on.flac
-
-[plugin noise]
-defaults=0.01,0
-version=2.3
-
-[plugin record]
-defaults=4,0,20,0,300,0,2021-10-19T19:55:00,0,30,Card HDA Intel PCH: |sound_card||Device 92HD91BXX Analog: |sound_subdevice,2,44100,0,16,401,32,13
-last_device_2=alsa_output.pci-0000_00_1b.0.analog-stereo.monitor|sound_note
-last_device_3=
-last_device_4=Card HDA Intel PCH: |sound_card||Device 92HD91BXX Analog: |sound_subdevice
-last_device_5=/dev/dsp
-version=2.6
+0=/home/fenris/Apps/dotfiles/./monkey.mp3
