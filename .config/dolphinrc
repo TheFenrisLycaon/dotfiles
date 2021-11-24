@@ -39,16 +39,18 @@ LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAwAAAAAAAACBAAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE1AAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
 [Notification Messages]
 ConfirmDelete=true
+ConfirmHide=true
 ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vlc
+History=vim,vlc
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs

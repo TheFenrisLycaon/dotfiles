@@ -12,8 +12,8 @@ RemoveWindowTitleBarAndFrame=true
 ShowMenuBarByDefault=false
 
 [MainWindow]
-LVDS1 Height 1366x768=554
-LVDS1 Width 1366x768=911
+LVDS1 Height 1366x768=768
+LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=26

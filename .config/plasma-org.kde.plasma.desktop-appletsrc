@@ -20,7 +20,7 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][2][Applets][24][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][2][Applets][24][Configuration][General]
 length=1181
@@ -30,15 +30,19 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][2][Applets][25][Configuration]
-PreloadWeight=97
+PreloadWeight=88
 
 [Containments][2][Applets][25][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][25][Configuration][General]
+alphaSort=true
 customButtonImage=bluegriffon
 favoritesPortedToKAstats=true
+limitDepth=true
+showRecentApps=false
+showRecentDocs=false
 useCustomButtonImage=true
 
 [Containments][2][Applets][25][Shortcuts]
@@ -49,7 +53,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][2][Applets][27][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][2][Applets][27][Configuration][Appearance]
 boldText=true
@@ -69,7 +73,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][28][Configuration]
-PreloadWeight=92
+PreloadWeight=78
 SystrayContainmentId=29
 
 [Containments][2][Applets][44]
@@ -77,7 +81,7 @@ immutability=1
 plugin=org.kde.plasma.appmenu
 
 [Containments][2][Applets][44][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][2][Applets][44][Configuration][ConfigDialog]
 DialogHeight=540
@@ -88,7 +92,7 @@ immutability=1
 plugin=org.communia.apptitle
 
 [Containments][2][Applets][45][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][2][Applets][45][Configuration][ConfigDialog]
 DialogHeight=540
@@ -104,7 +108,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][48][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][2][Applets][48][Configuration][General]
 launchers=
@@ -114,7 +118,7 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][2][Applets][49][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][2][Applets][49][Configuration][General]
 length=586
@@ -124,7 +128,7 @@ DialogHeight=78
 DialogWidth=1366
 
 [Containments][2][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][2][General]
 AppletOrder=25;45;44;24;48;49;28;27
@@ -146,7 +150,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][29][Applets][31][Configuration]
-PreloadWeight=15
+PreloadWeight=0
 
 [Containments][29][Applets][31][Shortcuts]
 global=Meta+K
@@ -168,7 +172,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][29][Applets][36][Configuration]
-PreloadWeight=45
+PreloadWeight=29
 
 [Containments][29][Applets][37][Configuration]
 PreloadWeight=42
@@ -178,10 +182,9 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][29][Applets][38][Configuration]
-PreloadWeight=20
+PreloadWeight=10
 
 [Containments][29][Applets][38][Configuration][General]
-globalMute=true
 raiseMaximumVolume=true
 
 [Containments][29][Applets][39]
@@ -189,7 +192,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][29][Applets][39][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][29][Applets][40][Configuration]
 PreloadWeight=42
@@ -199,28 +202,28 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][29][Applets][41][Configuration]
-PreloadWeight=30
+PreloadWeight=0
 
 [Containments][29][Applets][42]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][29][Applets][42][Configuration]
-PreloadWeight=12
+PreloadWeight=0
 
 [Containments][29][Applets][43]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=20
+PreloadWeight=10
 
 [Containments][29][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][29][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][29][General]
 extraItems=org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement
@@ -245,7 +248,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][47][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][47][General]
 ToolBoxButtonState=topcenter
@@ -256,7 +259,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1283.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0601.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -274,13 +277,13 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][51][Configuration]
-PreloadWeight=42
+PreloadWeight=0
 
 [Containments][51][Wallpaper][org.kde.image][General]
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0906.jpeg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0337.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments2Appletsts][45][Configuration][General]

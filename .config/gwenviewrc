@@ -13,13 +13,13 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAAK2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshot_20211119_184807.png
-File2[$e]=$HOME/Pictures/Screenshot_20211119_184746.png
-File3[$e]=$HOME/Pictures/Screenshot_20211119_184741.png
-File4[$e]=$HOME/Pictures/Screenshot_20211119_184735.png
-File5[$e]=$HOME/Pictures/Screenshot_20211119_184721.png
-Name1[$e]=Screenshot_20211119_184807.png
-Name2[$e]=Screenshot_20211119_184746.png
-Name3[$e]=Screenshot_20211119_184741.png
-Name4[$e]=Screenshot_20211119_184735.png
-Name5[$e]=Screenshot_20211119_184721.png
+File1[$e]=$HOME/Pictures/Screenshot_20211119_184721.png
+File2[$e]=$HOME/Downloads/7.pdf
+File3[$e]=$HOME/work/Semester5/Assignment/temp/1.png
+File4[$e]=$HOME/work/Semester5/Assignment/temp/3.png
+File5[$e]=$HOME/work/Semester5/Assignment/temp/2.png
+Name1[$e]=Screenshot_20211119_184721.png
+Name2[$e]=7.pdf
+Name3[$e]=1.png
+Name4[$e]=3.png
+Name5[$e]=2.png
