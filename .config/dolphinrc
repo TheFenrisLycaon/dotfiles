@@ -13,6 +13,7 @@ DefaultProfile=coolsvile.profile
 FontWeight=50
 
 [General]
+BrowseThroughArchives=true
 EditableUrl=true
 GlobalViewProps=false
 RememberOpenedTabs=false
@@ -27,20 +28,21 @@ ViewPropsTimestamp=2021,11,18,0,50,5.464
 FontFamily=Monospace
 FontWeight=50
 IconSize=64
-PreviewSize=96
+PreviewSize=80
 UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=606
-LVDS1 Width 1366x768=483
+LVDS1 Height 1366x768=616
+LVDS1 Width 1366x768=479
 
 [MainWindow]
+LVDS1 Height 1366x768=768
+LVDS1 Width 1366x768=1366
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAACBAAAC0vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAAC0gAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAFVgAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAFVgAAAAoBAAADAAAE1AAAAtIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 
 [Notification Messages]
@@ -50,7 +52,7 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vim,vlc
+History=code,kchm,gwen,mkv,vim,vlc
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs

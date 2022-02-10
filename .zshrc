@@ -257,7 +257,7 @@ alias btimecc='systemd-analyze critical-chain'
 alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
-alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --highlights --igtv -s --login xoxo_steffany_oxox'
+alias igsync='dark;cd .scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --highlights --igtv -s --login xoxo_steffany_oxox'
 
 # timer app
 timer() {

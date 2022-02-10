@@ -1,5 +1,4 @@
 [ActionPlugins][0]
-MiddleButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
 wheel:Vertical;NoModifier=org.kde.switchdesktop
 
@@ -30,7 +29,7 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][2][Applets][25][Configuration]
-PreloadWeight=88
+PreloadWeight=96
 
 [Containments][2][Applets][25][Configuration][ConfigDialog]
 DialogHeight=540
@@ -57,7 +56,7 @@ PreloadWeight=0
 
 [Containments][2][Applets][27][Configuration][Appearance]
 boldText=true
-customDateFormat=ddd dd
+customDateFormat=ddd dd MMM,yy
 dateFormat=customDate
 fixedFont=true
 fontFamily=Monospace
@@ -73,7 +72,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][28][Configuration]
-PreloadWeight=78
+PreloadWeight=100
 SystrayContainmentId=29
 
 [Containments][2][Applets][44]
@@ -150,7 +149,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][29][Applets][31][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][29][Applets][31][Shortcuts]
 global=Meta+K
@@ -172,7 +171,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][29][Applets][36][Configuration]
-PreloadWeight=29
+PreloadWeight=48
 
 [Containments][29][Applets][37][Configuration]
 PreloadWeight=42
@@ -182,7 +181,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][29][Applets][38][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][29][Applets][38][Configuration][General]
 raiseMaximumVolume=true
@@ -202,7 +201,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][29][Applets][41][Configuration]
-PreloadWeight=0
+PreloadWeight=100
 
 [Containments][29][Applets][42]
 immutability=1
@@ -227,7 +226,7 @@ PreloadWeight=0
 
 [Containments][29][General]
 extraItems=org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement
-hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc
+hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc,Plasma_microphone,org.kde.plasma.mediacontroller
 knownItems=org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement
 scaleIconsToFit=true
 shownItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement
@@ -259,7 +258,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0601.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0292.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -283,7 +282,7 @@ PreloadWeight=0
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0337.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0209.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments2Appletsts][45][Configuration][General]

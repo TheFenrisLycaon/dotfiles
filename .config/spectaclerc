@@ -1,5 +1,16 @@
 [$Version]
-update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_newConfig.upd:spectacle-new-config,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+rememberLastRectangularRegion=2
+
+[GuiConfig]
+window-position=50,0
 
 [Save]
-lastSaveLocation=file:///home/fenris/Pictures/Screenshot_20211122_134739.png
+compressionQuality=100
+defaultSaveLocation=file:///home/fenris/Pictures/Screenshots/
+lastSaveLocation=file:///home/fenris/Pictures/Screenshots/Screenshot_001.png
+saveFilenameFormat=Screenshot_%T_%3d

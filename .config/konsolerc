@@ -18,6 +18,7 @@ LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=26
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAA==
 StatusBar=Disabled
 ToolBarsMovable=Disabled
@@ -33,3 +34,6 @@ SplitViewVisibility=AlwaysHideSplitHeader
 
 [TabBar]
 TabBarVisibility=AlwaysHideTabBar
+
+[UiSettings]
+ColorScheme=Default

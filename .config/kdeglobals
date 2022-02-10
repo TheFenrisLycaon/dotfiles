@@ -137,11 +137,12 @@ ForegroundVisited=224,64,251
 
 [DirSelect Dialog]
 DirSelectDialog Size=816,598
-History Items[$e]=file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
+History Items[$e]=file:$HOME/work/IN - Arima/ANPR/weights,file:$HOME/work/IN - Arima/ANPR/samples,file:$HOME/work/IN - Arima/ANPR/notebooks,file:$HOME/work/IN - Arima/ANPR/darknet,file:$HOME/work/IN - Arima/liveMain/live2/templates,file:$HOME/work/IN - Arima/liveMain/live3/templates,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
 
 [General]
 AccentColor=184,117,220
 BrowserApplication=brave-browser.desktop
+ColorSchemeHash=625c32ae46f33771aca7694ab0deae5a44bbf41c
 Name=Breeze Dark
 shadeSortColumn=true
 widgetStyle=Breeze

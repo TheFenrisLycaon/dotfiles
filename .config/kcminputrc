@@ -3,7 +3,7 @@ update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminp
 
 [Mouse]
 XLbInptNaturalScroll=true
-cursorTheme=WhiteSur-cursors
+cursorTheme=Oxygen_Black
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
