@@ -1,10 +1,13 @@
 adbfs-git
 aic94xx-firmware
+android-sdk-build-tools
 anydesk-bin
 brave-bin
-scrcpy
+librewolf-bin
+python-pycrypto
+social-engineer-toolkit
 ttf-meslo-nerd-font-powerlevel10k
 upd72020x-fw
 visual-studio-code-bin
 wd719x-firmware
-yay
+yay-bin
