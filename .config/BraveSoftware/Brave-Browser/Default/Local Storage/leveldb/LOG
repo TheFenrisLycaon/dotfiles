@@ -1,6 +1,3 @@
-2022/02/18-18:45:28.149 5 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2022/02/18-18:45:28.151 5 Recovering log #401
-2022/02/18-18:45:28.151 5 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000401.log 
-2022/02/18-18:46:34.382 5 Level-0 table #406: started
-2022/02/18-18:46:34.424 5 Level-0 table #406: 17398 bytes OK
-2022/02/18-18:46:34.483 5 Delete type=0 #401
+2022/03/01-20:22:10.731 3 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/01-20:22:10.835 3 Recovering log #405
+2022/03/01-20:22:11.164 3 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000405.log 

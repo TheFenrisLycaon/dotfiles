@@ -1,4 +1,5 @@
-2022/02/18-18:45:28.455 632a Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/MANIFEST-000001
-2022/02/18-18:45:28.455 632a Recovering log #3
-2022/02/18-18:45:29.645 632a (ignoring error) /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000003.log: dropping 13 bytes; Corruption: missing start of fragmented record(2)
-2022/02/18-18:45:29.646 632a Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000003.log 
+2022/03/01-20:22:16.518 d22 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/MANIFEST-000001
+2022/03/01-20:22:16.519 d22 Recovering log #3
+2022/03/01-20:22:17.841 d22 (ignoring error) /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000003.log: dropping 13 bytes; Corruption: missing start of fragmented record(2)
+2022/03/01-20:22:17.841 d22 (ignoring error) /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000003.log: dropping 487 bytes; Corruption: missing start of fragmented record(2)
+2022/03/01-20:22:17.841 d22 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Service Worker/Database/000003.log 

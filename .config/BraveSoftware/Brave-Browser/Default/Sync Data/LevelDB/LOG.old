@@ -1,3 +1,6 @@
-2022/02/18-18:45:22.941 626f Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/02/18-18:45:22.944 626f Recovering log #391
-2022/02/18-18:45:24.076 626f Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000391.log 
+2022/02/18-18:45:28.150 634f Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/02/18-18:45:28.150 634f Recovering log #391
+2022/02/18-18:45:28.401 634f Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000391.log 
+2022/02/18-19:03:36.707 6353 Level-0 table #396: started
+2022/02/18-19:03:36.895 6353 Level-0 table #396: 80344 bytes OK
+2022/02/18-19:03:37.022 6353 Delete type=0 #391

@@ -281,7 +281,6 @@ PreloadWeight=0
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0838.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments2Appletsts][45][Configuration][General]
