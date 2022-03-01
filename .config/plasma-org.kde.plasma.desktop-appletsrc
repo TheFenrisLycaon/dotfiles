@@ -258,7 +258,6 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1311.png
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -282,7 +281,7 @@ PreloadWeight=0
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen1055.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen0838.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments2Appletsts][45][Configuration][General]
