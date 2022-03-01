@@ -1,0 +1,20 @@
+[Info  - 11:39:03 am] Pylance language server 2021.11.2 (pyright b27108d5) starting
+[Info  - 11:39:03 am] Server root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 11:39:03 am] No configuration file found.
+[Info  - 11:39:03 am] No pyproject.toml file found.
+[Info  - 11:39:03 am] Setting pythonPath for service "Minor_Proj": "/home/fenris/Apps/anaconda3/envs/arima/bin/python"
+[Warn  - 11:39:03 am] stubPath /home/fenris/work/Semester5/Minor_Proj/typings is not a valid directory.
+[Info  - 11:39:04 am] Assuming Python version 3.7
+[Info  - 11:39:04 am] Assuming Python platform Linux
+[Warn  - 11:39:05 am] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 11:39:05 am] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 11:39:05 am] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 11:39:05 am] Searching for source files
+[Info  - 11:39:05 am] No source files found.
+[Info  - 11:39:05 am] Background analysis(1) root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 11:39:05 am] Background analysis(1) started
+[Info  - 11:39:08 am] [BG(1)] Long operation: checking: /home/fenris/work/Semester5/Minor_Proj/main.ipynb (2045ms)
+[Info  - 11:39:08 am] [BG(1)] Long operation: analyzing: /home/fenris/work/Semester5/Minor_Proj/main.ipynb (2682ms)
+[Info  - 12:02:16 pm] [BG(1)] Long operation: binding: /home/fenris/Apps/anaconda3/envs/arima/lib/python3.7/site-packages/networkx/__init__.py (2103ms)
+[Info  - 12:02:16 pm] [BG(1)] Long operation: checking: /home/fenris/work/Semester5/Minor_Proj/main_2.ipynb (3947ms)
+[Info  - 12:02:16 pm] [BG(1)] Long operation: analyzing: /home/fenris/work/Semester5/Minor_Proj/main_2.ipynb (4484ms)

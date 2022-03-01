@@ -1,0 +1,202 @@
+[18:23:32] Initializing LaTeX Workshop.
+[18:23:32] Extension root: /home/fenris/.vscode/extensions/james-yu.latex-workshop-8.23.0
+[18:23:32] $PATH: /home/fenris/Apps/anaconda3/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+[18:23:32] $SHELL: /usr/bin/zsh
+[18:23:32] vscode.env.appName: Visual Studio Code
+[18:23:32] vscode.env.remoteName: undefined
+[18:23:32] vscode.env.uiKind: 1
+[18:23:32] editor.acceptSuggestionOnEnter: "on"
+[18:23:32] latex-workshop.bind.enter.key: true
+[18:23:32] latex-workshop.docker.enabled: false
+[18:23:32] latex-workshop.docker.image.latex: ""
+[18:23:32] latex-workshop.hover.preview.mathjax.extensions: []
+[18:23:32] latex-workshop.intellisense.package.enabled: true
+[18:23:32] latex-workshop.intellisense.update.aggressive.enabled: false
+[18:23:32] latex-workshop.intellisense.update.delay: 1000
+[18:23:32] latex-workshop.latex.autoBuild.run: "onFileChange"
+[18:23:32] latex-workshop.latex.outDir: "%DIR%"
+[18:23:32] latex-workshop.latex.recipes: [
+ {
+  "name": "latexmk 🔃",
+  "tools": [
+   "latexmk"
+  ]
+ },
+ {
+  "name": "latexmk (latexmkrc)",
+  "tools": [
+   "latexmk_rconly"
+  ]
+ },
+ {
+  "name": "latexmk (lualatex)",
+  "tools": [
+   "lualatexmk"
+  ]
+ },
+ {
+  "name": "pdflatex ➞ bibtex ➞ pdflatex × 2",
+  "tools": [
+   "pdflatex",
+   "bibtex",
+   "pdflatex",
+   "pdflatex"
+  ]
+ },
+ {
+  "name": "Compile Rnw files",
+  "tools": [
+   "rnw2tex",
+   "latexmk"
+  ]
+ },
+ {
+  "name": "Compile Jnw files",
+  "tools": [
+   "jnw2tex",
+   "latexmk"
+  ]
+ },
+ {
+  "name": "tectonic",
+  "tools": [
+   "tectonic"
+  ]
+ }
+]
+[18:23:32] latex-workshop.latex.tools: [
+ {
+  "name": "latexmk",
+  "command": "latexmk",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "-pdf",
+   "-outdir=%OUTDIR%",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "lualatexmk",
+  "command": "latexmk",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "-lualatex",
+   "-outdir=%OUTDIR%",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "latexmk_rconly",
+  "command": "latexmk",
+  "args": [
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "pdflatex",
+  "command": "pdflatex",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "bibtex",
+  "command": "bibtex",
+  "args": [
+   "%DOCFILE%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "rnw2tex",
+  "command": "Rscript",
+  "args": [
+   "-e",
+   "knitr::opts_knit$set(concordance = TRUE); knitr::knit('%DOCFILE_EXT%')"
+  ],
+  "env": {}
+ },
+ {
+  "name": "jnw2tex",
+  "command": "julia",
+  "args": [
+   "-e",
+   "using Weave; weave(\"%DOC_EXT%\", doctype=\"tex\")"
+  ],
+  "env": {}
+ },
+ {
+  "name": "jnw2texmintex",
+  "command": "julia",
+  "args": [
+   "-e",
+   "using Weave; weave(\"%DOC_EXT%\", doctype=\"texminted\")"
+  ],
+  "env": {}
+ },
+ {
+  "name": "tectonic",
+  "command": "tectonic",
+  "args": [
+   "--synctex",
+   "--keep-logs",
+   "%DOC%.tex"
+  ],
+  "env": {}
+ }
+]
+[18:23:32] latex-workshop.viewer.pdf.internal.keyboardEvent: "auto"
+[18:23:32] Creating a new file watcher.
+[18:23:32] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{"stabilityThreshold":250}}
+[18:23:32] Creating PDF file watcher.
+[18:23:32] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{}}
+[18:23:32] Creating Bib file watcher.
+[18:23:32] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{"stabilityThreshold":250}}
+[18:23:32] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[18:23:32] [Server] Creating LaTeX Workshop http and websocket server.
+[18:23:32] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[18:23:32] LaTeX Workshop initialized.
+[18:23:32] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[18:23:32] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[18:23:32] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[18:23:32] Current workspace folders: ["file:///home/fenris/work/dead/University/Semester6"]
+[18:23:32] Current workspaceRootDir: file:///home/fenris/work/dead/University/Semester6
+[18:23:33] Found root file from active editor: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:33] Root file changed: from undefined to /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:33] Start to find all dependencies.
+[18:23:33] Root file languageId: latex
+[18:23:33] [Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":46665}
+[18:23:33] Reset file watcher.
+[18:23:33] Parsing a file and its subfiles: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:33] Parse fls file.
+[18:23:33] Cannot find fls file: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.fls
+[18:23:33] Added to file watcher: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:33] Snippet data loaded.
+[18:23:33] Checking for duplicate labels: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex.
+[18:23:35] Manager.fileWatcher.getWatched: {"/home/fenris/work/dead/University/Semester6/Minor_Proj":["proposal.tex"]}
+[18:23:35] Manager.filesWatched: ["/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex"]
+[18:23:35] BibWatcher.bibWatcher.getWatched: {}
+[18:23:35] BibWatcher.bibsWatched: []
+[18:23:35] PdfWatcher.pdfWatcher.getWatched: {}
+[18:23:35] PdfWatcher.pdfsWatched: []
+[18:23:37] Current workspace folders: ["file:///home/fenris/work/dead/University/Semester6"]
+[18:23:37] Current workspaceRootDir: file:///home/fenris/work/dead/University/Semester6
+[18:23:37] Found root file from active editor: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:37] Keep using the same root file: /home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+[18:23:39] Manager.fileWatcher.getWatched: {"/home/fenris/work/dead/University/Semester6/Minor_Proj":["proposal.tex"]}
+[18:23:39] Manager.filesWatched: ["/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex"]
+[18:23:39] BibWatcher.bibWatcher.getWatched: {}
+[18:23:39] BibWatcher.bibsWatched: []
+[18:23:39] PdfWatcher.pdfWatcher.getWatched: {}
+[18:23:39] PdfWatcher.pdfsWatched: []

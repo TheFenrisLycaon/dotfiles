@@ -1,0 +1,10 @@
+IoT
+NEUMANN
+NaaS
+Polymorphism
+Pre
+VON
+WSN
+WSNs
+virtualized
+checksum_v1 = 8a2fb031a965230fcf4211c4b2f72c40

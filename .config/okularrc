@@ -4,31 +4,26 @@ shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
-LVDS1 Height 1366x768=768
-LVDS1 Width 1366x768=1366
-LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=0
-LVDS1 YPosition 1366x768=0
+LVDS1 Height 1366x768=743
+LVDS1 Width 1366x768=683
+LVDS1 XPosition 1366x768=683
+LVDS1 YPosition 1366x768=25
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK5AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAqsAAAK5AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 
 [Recent Files]
 File1[$e]=$HOME/work/dead/University/Semester4/Report/19BCS4525_Rishabh_Anand_Report.pdf
 File2[$e]=$HOME/Apps/dotfiles/brave.phrase
-File3[$e]=$HOME/work/IN - Arima/liveMain/live3/client.py
-File4[$e]=$HOME/work/IN - Arima/liveMain/live3/server.py
-File5[$e]=$HOME/work/IN - Arima/liveMain/live3/streamer.py
-File6[$e]=$HOME/work/IN - Arima/liveMain/live/app.py
-File7[$e]=$HOME/work/IN - Arima/Flask/main.py
-File8[$e]=$HOME/work/IN - Arima/Flask/index.html
-File9[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
+File3[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
+File4[$e]=$HOME/.android/adb.5037
+File5[$e]=$HOME/.android/adbkey
+File6[$e]=$HOME/.asdf/README.md
+File7[$e]=$HOME/.conda/environments.txt
 Name1[$e]=19BCS4525_Rishabh_Anand_Report.pdf
 Name2[$e]=brave.phrase
-Name3[$e]=client.py
-Name4[$e]=server.py
-Name5[$e]=streamer.py
-Name6[$e]=app.py
-Name7[$e]=main.py
-Name8[$e]=index.html
-Name9[$e]=Resume_Rishabh_Anand.pdf
+Name3[$e]=Resume_Rishabh_Anand.pdf
+Name4[$e]=adb.5037
+Name5[$e]=adbkey
+Name6[$e]=README.md
+Name7[$e]=environments.txt

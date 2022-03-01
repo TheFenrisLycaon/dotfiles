@@ -1,0 +1,7 @@
+[2021-12-06 20:33:06.323] [renderer1] [info] Starting extension host with pid 3155.
+[2021-12-06 20:33:06.324] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 49 ms.
+[2021-12-06 20:33:07.836] [renderer1] [error] [Extension Host] (node:3155) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-06 20:33:08.753] [renderer1] [error] net::ERR_CERT_AUTHORITY_INVALID: Error: net::ERR_CERT_AUTHORITY_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)

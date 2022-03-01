@@ -1,0 +1,18 @@
+[Info  - 2:52:03 pm] Pylance language server 2021.11.2 (pyright b27108d5) starting
+[Info  - 2:52:03 pm] Server root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 2:52:03 pm] No configuration file found.
+[Info  - 2:52:03 pm] No pyproject.toml file found.
+[Info  - 2:52:03 pm] Setting pythonPath for service "autoPlate": "/home/fenris/Apps/anaconda3/envs/arima/bin/python"
+[Warn  - 2:52:03 pm] stubPath /home/fenris/work/IN - Arima/autoPlate/typings is not a valid directory.
+[Info  - 2:52:03 pm] Assuming Python version 3.7
+[Info  - 2:52:03 pm] Assuming Python platform Linux
+[Warn  - 2:52:05 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:05 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 2:52:05 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 2:52:05 pm] Searching for source files
+[Info  - 2:52:05 pm] Found 1 source file
+[Info  - 2:52:05 pm] Background analysis(1) root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 2:52:05 pm] Background analysis(1) started
+[Info  - 2:52:07 pm] [BG(1)] Long operation: parsing: /home/fenris/work/IN - Arima/autoPlate/main.py (2144ms)
+[Info  - 2:52:11 pm] [BG(1)] Long operation: binding: /home/fenris/Apps/anaconda3/envs/arima/lib/python3.7/site-packages/numpy/__init__.py (2101ms)
+[Info  - 2:52:13 pm] [BG(1)] Long operation: getSemanticTokens full at /home/fenris/work/IN - Arima/autoPlate/main.py (7922ms)

@@ -1,0 +1,44 @@
+[21:35:14] gtkgui: HandBrake 1.4.2 (2021101200) - Linux x86_64 - https://handbrake.fr
+[21:35:14] Compile-time hardening features are enabled
+Cannot load libnvidia-encode.so.1
+Cannot load libnvidia-encode.so.1
+Cannot load libnvidia-encode.so.1
+Cannot load libnvidia-encode.so.1
+[21:35:14] hb_init: starting libhb thread
+[21:35:14] hb_init: starting libhb thread
+[21:35:14] hb_init: starting libhb thread
+[21:35:15] CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+[21:35:15]  - Intel microarchitecture Ivy Bridge
+[21:35:15]  - logical processor count: 4
+[21:35:15] Intel Quick Sync Video support: no
+[21:35:15] hb_scan: path=/home/fenris/Videos/InShot_20211121_213124204.mp4, title_index=0
+udfread ERROR: ECMA 167 Volume Recognition failed
+disc.c:333: failed opening UDF image /home/fenris/Videos/InShot_20211121_213124204.mp4
+disc.c:437: error opening file BDMV/index.bdmv
+disc.c:437: error opening file BDMV/BACKUP/index.bdmv
+bluray.c:2646: nav_get_title_list(/home/fenris/Videos/InShot_20211121_213124204.mp4/) failed
+[21:35:15] bd: not a bd - trying as a stream/file instead
+libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav: vm: vm: failed to read VIDEO_TS.IFO
+[21:35:15] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/fenris/Videos/InShot_20211121_213124204.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf57.83.100
+  Duration: 00:01:11.98, start: 0.000000, bitrate: 3135 kb/s
+  Stream #0:0(und): Video: h264 (Baseline) (avc1 / 0x31637661), yuv420p(tv, smpte170m/bt470bg/smpte170m), 1280x720, 2932 kb/s, 60.02 fps, 60 tbr, 1000k tbn, 2000k tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 193 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[21:35:15] scan: decoding previews for title 1
+[21:35:15] scan: audio 0x1: aac, rate=44100Hz, bitrate=193516 Unknown (AAC LC) (2.0 ch) (193 kbps)
+[21:35:15] scan: 10 previews, 1280x720, 60.018 fps, autocrop = 128/0/108/0, aspect 16:9, PAR 1:1, color profile: 5-6-6
+[21:35:15] libhb: scan thread found 1 valid title(s)
+[21:35:15] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1
+[21:35:15] decomb: deinterlaced 1 | blended 0 | unfiltered 0 | total 1

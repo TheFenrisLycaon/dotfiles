@@ -1,0 +1,6 @@
+2021/11/27-06:00:06.493 472e Creating DB /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_byjusexamprep.com_0.indexeddb.leveldb since it was missing.
+2021/11/27-06:00:06.643 472e Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_byjusexamprep.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-06:01:49.761 460c Level-0 table #5: started
+2021/11/27-06:01:49.802 460c Level-0 table #5: 1053 bytes OK
+2021/11/27-06:01:49.834 460c Delete type=0 #3
+2021/11/27-06:01:49.835 460c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

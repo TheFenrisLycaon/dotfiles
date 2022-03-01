@@ -1,0 +1,32 @@
+[2021-12-02 14:51:31.240] [exthost] [info] Extension host with pid 1339 started
+[2021-12-02 14:51:31.240] [exthost] [info] Skipping acquiring lock for /home/fenris/.config/Code/User/workspaceStorage/2633ff5e64f9d6a6f3de9d3ff8af1f22.
+[2021-12-02 14:51:31.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-02 14:51:31.352] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-02 14:51:31.407] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-02 14:51:31.699] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-02 14:51:32.201] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-02 14:51:33.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-02 14:51:33.349] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: true, activationEvent: '*'
+[2021-12-02 14:51:33.518] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2021-12-02 14:51:34.460] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-12-02 14:51:34.869] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2021-12-02 14:51:35.092] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2021-12-02 14:51:35.522] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-02 14:51:36.042] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-02 14:51:44.316] [exthost] [info] ExtensionService#_doActivateExtension golang.go, startup: true, activationEvent: 'workspaceContainsTimeout:**/*.go'
+[2021-12-02 14:51:44.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-02 14:51:44.813] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-02 14:51:45.011] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-02 14:51:46.189] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-12-02 14:51:46.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-02 14:51:46.642] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-02 14:51:48.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-02 14:51:49.135] [exthost] [info] Eager extensions activated
+[2021-12-02 14:54:07.096] [exthost] [error] [ms-python.python] provider FAILED
+[2021-12-02 14:54:07.096] [exthost] [error] Canceled: Canceled
+	at S.makeCancelError (/home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:151015)
+	at S.handleFailedRequest (/home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:150866)
+	at /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:9:111208
+	at async d.provideHover (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:170516)
+[2021-12-02 14:54:08.963] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-02 14:54:10.028] [exthost] [info] Extension host with pid 1339 exiting with code 0

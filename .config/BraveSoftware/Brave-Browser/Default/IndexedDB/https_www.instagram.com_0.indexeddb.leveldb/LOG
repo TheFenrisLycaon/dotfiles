@@ -1,0 +1,15 @@
+2021/12/01-19:13:00.016 1d7c Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/01-19:13:00.016 1d7c Recovering log #4
+2021/12/01-19:13:00.257 1d7c Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2021/12/01-19:13:30.080 33c Level-0 table #8: started
+2021/12/01-19:13:30.166 33c Level-0 table #8: 666541 bytes OK
+2021/12/01-19:13:30.246 33c Delete type=0 #4
+2021/12/01-19:13:30.247 33c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/01-19:13:30.248 33c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0b\x00u\x00s\x00e\x00r\x00s\x00.\x00u\x00s\x00e\x00r\x00s' @ 1596 : 0
+2021/12/01-19:13:30.248 33c Compacting 1@1 + 1@2 files
+2021/12/01-19:13:30.293 33c Generated table #9@1: 47 keys, 19806 bytes
+2021/12/01-19:13:30.293 33c Compacted 1@1 + 1@2 files => 19806 bytes
+2021/12/01-19:13:30.326 33c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/01-19:13:30.327 33c Delete type=2 #8
+2021/12/01-19:13:30.327 33c Delete type=2 #5
+2021/12/01-19:13:30.328 33c Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0b\x00u\x00s\x00e\x00r\x00s\x00.\x00u\x00s\x00e\x00r\x00s' @ 1596 : 0 .. (end); will stop at (end)

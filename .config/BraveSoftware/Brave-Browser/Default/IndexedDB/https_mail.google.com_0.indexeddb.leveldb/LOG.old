@@ -1,0 +1,21 @@
+2021/12/06-12:38:47.468 23e9 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/06-12:38:47.468 23e9 Recovering log #15
+2021/12/06-12:38:47.863 23e9 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000015.log 
+2021/12/06-12:38:55.440 272e Compacting 1@1 + 1@2 files
+2021/12/06-12:38:55.468 272e Generated table #18@1: 241 keys, 135620 bytes
+2021/12/06-12:38:55.468 272e Compacted 1@1 + 1@2 files => 135620 bytes
+2021/12/06-12:38:55.469 272e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/06-12:38:55.469 272e Delete type=2 #16
+2021/12/06-12:38:55.469 272e Delete type=2 #13
+2021/12/06-12:40:03.465 2021 Level-0 table #20: started
+2021/12/06-12:40:03.552 2021 Level-0 table #20: 990423 bytes OK
+2021/12/06-12:40:03.577 2021 Delete type=0 #15
+2021/12/06-12:40:03.607 2021 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/06-12:40:03.607 2021 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x004\x00/' @ 11695 : 1
+2021/12/06-12:40:03.608 2021 Compacting 1@1 + 1@2 files
+2021/12/06-12:40:03.638 2021 Generated table #21@1: 182 keys, 58470 bytes
+2021/12/06-12:40:03.638 2021 Compacted 1@1 + 1@2 files => 58470 bytes
+2021/12/06-12:40:03.640 2021 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/06-12:40:03.640 2021 Delete type=2 #20
+2021/12/06-12:40:03.640 2021 Delete type=2 #18
+2021/12/06-12:40:03.641 2021 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x004\x00/' @ 11695 : 1 .. (end); will stop at (end)

@@ -1,0 +1,118 @@
+ReadyRc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 20 November 2021, version: 4.76.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg))) (/usr/share/texmf-dist/tex/latex/newtx/newtxtext.sty `newtxtext' v1.701, 2021/12/26 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty)) (/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex))) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty) (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texmf-dist/tex/generic/xstring/xstring.tex)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/generic/kastrup/binhex.tex)
+ntxotffalse
+
+(/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty)) (/usr/share/texmf-dist/tex/latex/tools/array.sty) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def))) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty)) (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtlf.fd) (./proposal.aux) (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+LaTeX Warning: File `private/Header.jpeg' not found on input line 23.
+
+
+/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex:23: Package pdftex.def Error: File `private/Header.jpeg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...ics[width=\textwidth]{private/Header.jpeg}
+                                                  
+(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd)
+Overfull \hbox (15.0pt too wide) in paragraph at lines 23--25
+[][]
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./proposal.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on proposal.pdf (2 pages, 71816 bytes).
+SyncTeX written on proposal.synctex.gz.
+Transcript written on proposal.log.
+Latexmk: Missing input file 'private/Header.jpeg' (or dependence on it) from following:
+  'LaTeX Warning: File `private/Header.jpeg' not found on input line 23.'
+Latexmk: Log file says output to 'proposal.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'proposal.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+Latexmk: Examining 'proposal.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 20 November 2021, version: 4.76.
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      '/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf)) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty (/usr/share/texmf-dist/tex/latex/graphics/trig.sty) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty (/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg))) (/usr/share/texmf-dist/tex/latex/newtx/newtxtext.sty `newtxtext' v1.701, 2021/12/26 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty) (/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty)) (/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex))) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty) (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texmf-dist/tex/generic/xstring/xstring.tex)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty) (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/texmf-dist/tex/generic/kastrup/binhex.tex)
+ntxotffalse
+
+(/usr/share/texmf-dist/tex/latex/fontaxes/fontaxes.sty)) (/usr/share/texmf-dist/tex/latex/tools/array.sty) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def))) (/usr/share/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty) (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty)) (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtlf.fd) (./proposal.aux) (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+LaTeX Warning: File `private/Header.jpeg' not found on input line 23.
+
+
+/home/fenris/work/dead/University/Semester6/Minor_Proj/proposal.tex:23: Package pdftex.def Error: File `private/Header.jpeg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...ics[width=\textwidth]{private/Header.jpeg}
+                                                  
+(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd)
+Overfull \hbox (15.0pt too wide) in paragraph at lines 23--25
+[][]
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./proposal.aux) )
+(see the transcript file for additional information){/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/ztmr.pfb>
+Output written on proposal.pdf (2 pages, 71816 bytes).
+SyncTeX written on proposal.synctex.gz.
+Transcript written on proposal.log.
+Latexmk: Missing input file 'private/Header.jpeg' (or dependence on it) from following:
+  'LaTeX Warning: File `private/Header.jpeg' not found on input line 23.'
+Latexmk: Log file says output to 'proposal.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to 'proposal.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+Latexmk: Examining 'proposal.log'
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets

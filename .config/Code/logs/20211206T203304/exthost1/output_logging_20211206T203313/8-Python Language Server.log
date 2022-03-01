@@ -1,0 +1,15 @@
+[Info  - 8:33:13 pm] Pylance language server 2021.11.2 (pyright b27108d5) starting
+[Info  - 8:33:13 pm] Server root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 8:33:14 pm] No configuration file found.
+[Info  - 8:33:14 pm] No pyproject.toml file found.
+[Info  - 8:33:14 pm] Setting pythonPath for service "Plates_OpenCV_Inference": "/home/fenris/Apps/anaconda3/envs/arima/bin/python"
+[Warn  - 8:33:14 pm] stubPath /home/fenris/work/IN - Arima/Plates_OpenCV_Inference/typings is not a valid directory.
+[Info  - 8:33:14 pm] Assuming Python version 3.7
+[Info  - 8:33:14 pm] Assuming Python platform Linux
+[Warn  - 8:33:14 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 8:33:14 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 8:33:14 pm] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 8:33:14 pm] Searching for source files
+[Info  - 8:33:14 pm] Found 1 source file
+[Info  - 8:33:14 pm] Background analysis(1) root directory: /home/fenris/.vscode/extensions/ms-python.vscode-pylance-2021.11.2/dist
+[Info  - 8:33:14 pm] Background analysis(1) started

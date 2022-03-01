@@ -1,0 +1,1090 @@
+[12:42:29] Initializing LaTeX Workshop.
+[12:42:29] Extension root: /home/fenris/.vscode/extensions/james-yu.latex-workshop-8.22.0
+[12:42:29] $PATH: /home/fenris/Apps/anaconda3/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin
+[12:42:29] $SHELL: /usr/bin/zsh
+[12:42:29] vscode.env.appName: Visual Studio Code
+[12:42:29] vscode.env.remoteName: undefined
+[12:42:29] vscode.env.uiKind: 1
+[12:42:29] latex-workshop.bind.enter.key: true
+[12:42:29] latex-workshop.docker.enabled: false
+[12:42:29] latex-workshop.docker.image.latex: ""
+[12:42:29] latex-workshop.intellisense.package.enabled: true
+[12:42:29] latex-workshop.intellisense.update.aggressive.enabled: false
+[12:42:29] latex-workshop.intellisense.update.delay: 1000
+[12:42:29] latex-workshop.latex.autoBuild.run: "onFileChange"
+[12:42:29] latex-workshop.latex.outDir: "%DIR%"
+[12:42:29] latex-workshop.latex.recipes: [
+ {
+  "name": "latexmk 🔃",
+  "tools": [
+   "latexmk"
+  ]
+ },
+ {
+  "name": "latexmk (latexmkrc)",
+  "tools": [
+   "latexmk_rconly"
+  ]
+ },
+ {
+  "name": "latexmk (lualatex)",
+  "tools": [
+   "lualatexmk"
+  ]
+ },
+ {
+  "name": "pdflatex ➞ bibtex ➞ pdflatex × 2",
+  "tools": [
+   "pdflatex",
+   "bibtex",
+   "pdflatex",
+   "pdflatex"
+  ]
+ },
+ {
+  "name": "Compile Rnw files",
+  "tools": [
+   "rnw2tex",
+   "latexmk"
+  ]
+ },
+ {
+  "name": "Compile Jnw files",
+  "tools": [
+   "jnw2tex",
+   "latexmk"
+  ]
+ },
+ {
+  "name": "tectonic",
+  "tools": [
+   "tectonic"
+  ]
+ }
+]
+[12:42:29] latex-workshop.latex.tools: [
+ {
+  "name": "latexmk",
+  "command": "latexmk",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "-pdf",
+   "-outdir=%OUTDIR%",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "lualatexmk",
+  "command": "latexmk",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "-lualatex",
+   "-outdir=%OUTDIR%",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "latexmk_rconly",
+  "command": "latexmk",
+  "args": [
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "pdflatex",
+  "command": "pdflatex",
+  "args": [
+   "-synctex=1",
+   "-interaction=nonstopmode",
+   "-file-line-error",
+   "%DOC%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "bibtex",
+  "command": "bibtex",
+  "args": [
+   "%DOCFILE%"
+  ],
+  "env": {}
+ },
+ {
+  "name": "rnw2tex",
+  "command": "Rscript",
+  "args": [
+   "-e",
+   "knitr::opts_knit$set(concordance = TRUE); knitr::knit('%DOCFILE_EXT%')"
+  ],
+  "env": {}
+ },
+ {
+  "name": "jnw2tex",
+  "command": "julia",
+  "args": [
+   "-e",
+   "using Weave; weave(\"%DOC_EXT%\", doctype=\"tex\")"
+  ],
+  "env": {}
+ },
+ {
+  "name": "jnw2texmintex",
+  "command": "julia",
+  "args": [
+   "-e",
+   "using Weave; weave(\"%DOC_EXT%\", doctype=\"texminted\")"
+  ],
+  "env": {}
+ },
+ {
+  "name": "tectonic",
+  "command": "tectonic",
+  "args": [
+   "--synctex",
+   "--keep-logs",
+   "%DOC%.tex"
+  ],
+  "env": {}
+ }
+]
+[12:42:29] latex-workshop.viewer.pdf.internal.keyboardEvent: "auto"
+[12:42:29] Creating a new file watcher.
+[12:42:29] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{"stabilityThreshold":250}}
+[12:42:29] Creating PDF file watcher.
+[12:42:29] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{}}
+[12:42:29] Creating Bib file watcher.
+[12:42:29] watcherOptions: {"useFsEvents":false,"usePolling":false,"interval":300,"binaryInterval":1000,"awaitWriteFinish":{"stabilityThreshold":250}}
+[12:42:29] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[12:42:29] [Server] Creating LaTeX Workshop http and websocket server.
+[12:42:30] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[12:42:30] LaTeX Workshop initialized.
+[12:42:30] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[12:42:30] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[12:42:30] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[12:42:30] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:42:30] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:42:30] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:30] Root file changed: from undefined to /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:30] Start to find all dependencies.
+[12:42:30] Root file languageId: latex
+[12:42:30] [Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":44705}
+[12:42:30] Reset file watcher.
+[12:42:30] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:30] Parse fls file.
+[12:42:30] Cannot find fls file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:42:30] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:30] Snippet data loaded.
+[12:42:31] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:32] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["report.tex"]}
+[12:42:32] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/report.tex"]
+[12:42:32] BibWatcher.bibWatcher.getWatched: {}
+[12:42:32] BibWatcher.bibsWatched: []
+[12:42:32] PdfWatcher.pdfWatcher.getWatched: {}
+[12:42:32] PdfWatcher.pdfsWatched: []
+[12:42:34] Start formatting with latexindent.
+[12:42:34] Checking latexindent: which latexindent
+[12:42:34] Checking latexindent is ok: /usr/bin/latexindent
+
+[12:42:34] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:42:34] Formatting failed with exit code 2
+[12:42:34] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:42:34] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:34] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:34] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:35] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:35] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:35] BUILD command invoked.
+[12:42:35] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:35] The languageId of the document: latex
+[12:42:35] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:35] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:35] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:42:35] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:42:35] Recipe step env: {}
+[12:42:35] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:42:35] LaTeX build process spawned. PID: 2536.
+[12:42:40] LaTeX log parsed with 3 messages.
+[12:42:40] Recipe of length 1 finished. PID: 2536.
+[12:42:40] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:40] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:42:40] Not found PDF viewers to refresh: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:42:40] Parse fls file.
+[12:42:40] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:42:40] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:42:40] Auto Clean invoked.
+[12:42:40] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:42:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:42:40] VIEW command invoked with mode: file:///home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:40] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:42:40] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:42:40] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:40] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:40] Serving PDF file at http://127.0.0.1:44705/viewer.html?file=pdf..JTJGaG9tZSUyRmZlbnJpcyUyRndvcmslMkZTZW1lc3RlcjUlMkZNaW5vcl9Qcm9qJTJGcmVwb3J0LnBkZg
+[12:42:40] The encoded path is /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:42:40] The internal PDF viewer url: http://127.0.0.1:44705/viewer.html?incode=1&file=pdf..JTJGaG9tZSUyRmZlbnJpcyUyRndvcmslMkZTZW1lc3RlcjUlMkZNaW5vcl9Qcm9qJTJGcmVwb3J0LnBkZg
+[12:42:40] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/seal.png
+[12:42:40] Open PDF tab for /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:42:41] Handle data type: open
+[12:42:41] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:42:41] Handle data type: request_params
+[12:42:41] Sending the settings of the PDF viewer for initialization: {"type":"params","scale":"auto","trim":0,"scrollMode":0,"spreadMode":0,"hand":false,"invertMode":{"enabled":false,"brightness":1,"grayscale":0.6,"hueRotate":180,"invert":0,"sepia":0},"bgColor":"#ffffff","keybindings":{"synctex":"ctrl-click"}}
+[12:42:41] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:42:41] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:42:41] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:41] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:42] Handle data type: loaded
+[12:42:42] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["report.tex"],"/home/fenris/work/Semester5/Minor_Proj/private":["seal.png"]}
+[12:42:42] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/report.tex","/home/fenris/work/Semester5/Minor_Proj/private/seal.png"]
+[12:42:42] BibWatcher.bibWatcher.getWatched: {}
+[12:42:42] BibWatcher.bibsWatched: []
+[12:42:42] PdfWatcher.pdfWatcher.getWatched: {}
+[12:42:42] PdfWatcher.pdfsWatched: []
+[12:42:43] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["report.tex"],"/home/fenris/work/Semester5/Minor_Proj/private":["seal.png"]}
+[12:42:43] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/report.tex","/home/fenris/work/Semester5/Minor_Proj/private/seal.png"]
+[12:42:43] BibWatcher.bibWatcher.getWatched: {}
+[12:42:43] BibWatcher.bibsWatched: []
+[12:42:43] PdfWatcher.pdfWatcher.getWatched: {}
+[12:42:43] PdfWatcher.pdfsWatched: []
+[12:42:55] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:56] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] BUILD command invoked.
+[12:42:56] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] The languageId of the document: latex
+[12:42:56] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Start formatting with latexindent.
+[12:42:56] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:42:56] Formatting failed with exit code 2
+[12:42:56] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:42:56] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:42:56] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:42:56] Recipe step env: {}
+[12:42:56] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:42:56] LaTeX build process spawned. PID: 2596.
+[12:42:56] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:56] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:56] Auto Build Run is temporarily disabled during a second.
+[12:42:58] LaTeX log parsed with 5 messages.
+[12:42:58] Recipe returns with error: 12/null. PID: 2596. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 29 September 2020, version: 4.70b.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/fenris/work/Semester5/Minor_Proj"  "/home/fenris/work/Semester5/Minor_Proj/report.tex"'
+------------
+Latexmk: References changed.
+Latexmk: Log file says output to '/home/fenris/work/Semester5/Minor_Proj/report.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/fenris/work/Semester5/Minor_Proj/report.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[12:42:58] The environment variable $PATH: /home/fenris/Apps/anaconda3/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin
+[12:42:58] The environment variable $Path: undefined
+[12:42:58] The environment variable $SHELL: /usr/bin/zsh
+[12:42:58] Cleaning auxiliary files and retrying build after toolchain error.
+[12:42:58] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:42:58] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:42:58] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:42:58] Recipe step env: {}
+[12:42:58] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:42:58] LaTeX build process spawned. PID: 2611.
+[12:42:58] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:58] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:58] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:58] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:42:58] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:58] BUILD command invoked.
+[12:42:58] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:42:58] The languageId of the document: latex
+[12:42:58] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:00] LaTeX log parsed with 5 messages.
+[12:43:00] Recipe returns with error: 12/null. PID: 2611. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 29 September 2020, version: 4.70b.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/fenris/work/Semester5/Minor_Proj"  "/home/fenris/work/Semester5/Minor_Proj/report.tex"'
+------------
+Latexmk: References changed.
+Latexmk: Log file says output to '/home/fenris/work/Semester5/Minor_Proj/report.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/fenris/work/Semester5/Minor_Proj/report.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[12:43:00] The environment variable $PATH: /home/fenris/Apps/anaconda3/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin
+[12:43:00] The environment variable $Path: undefined
+[12:43:00] The environment variable $SHELL: /usr/bin/zsh
+[12:43:00] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:00] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:00] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:00] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:00] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:00] Recipe step env: {}
+[12:43:00] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:00] LaTeX build process spawned. PID: 2615.
+[12:43:02] LaTeX log parsed with 5 messages.
+[12:43:02] Recipe returns with error: 12/null. PID: 2615. message: Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 29 September 2020, version: 4.70b.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/fenris/work/Semester5/Minor_Proj"  "/home/fenris/work/Semester5/Minor_Proj/report.tex"'
+------------
+Latexmk: References changed.
+Latexmk: Log file says output to '/home/fenris/work/Semester5/Minor_Proj/report.pdf'
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/fenris/work/Semester5/Minor_Proj/report.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+.
+[12:43:02] The environment variable $PATH: /home/fenris/Apps/anaconda3/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin
+[12:43:02] The environment variable $Path: undefined
+[12:43:02] The environment variable $SHELL: /usr/bin/zsh
+[12:43:02] Cleaning auxiliary files and retrying build after toolchain error.
+[12:43:02] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:02] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:02] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:02] Recipe step env: {}
+[12:43:02] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:02] LaTeX build process spawned. PID: 2626.
+[12:43:02] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:02] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:02] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:02] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:02] BUILD command invoked.
+[12:43:02] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:02] The languageId of the document: latex
+[12:43:02] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:02] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:09] LaTeX log parsed with 3 messages.
+[12:43:09] Recipe of length 1 finished. PID: 2626.
+[12:43:09] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:09] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:09] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:09] Parse fls file.
+[12:43:09] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:09] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:09] Auto Clean invoked.
+[12:43:09] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:09] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:09] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:09] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:09] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:09] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:09] Recipe step env: {}
+[12:43:09] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:09] LaTeX build process spawned. PID: 2665.
+[12:43:09] Handle data type: loaded
+[12:43:12] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:12] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] BUILD command invoked.
+[12:43:12] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] The languageId of the document: latex
+[12:43:12] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:12] Start formatting with latexindent.
+[12:43:12] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:43:13] Formatting failed with exit code 2
+[12:43:13] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:43:13] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:13] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:13] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:13] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:13] Auto Build Run is temporarily disabled during a second.
+[12:43:14] Start formatting with latexindent.
+[12:43:14] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:43:14] Formatting failed with exit code 2
+[12:43:14] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:43:15] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:15] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:15] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:15] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:15] BUILD command invoked.
+[12:43:15] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:15] The languageId of the document: latex
+[12:43:15] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:15] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[12:43:15] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:16] LaTeX log parsed with 3 messages.
+[12:43:16] Recipe of length 1 finished. PID: 2665.
+[12:43:16] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:16] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:16] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:16] Parse fls file.
+[12:43:16] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:16] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:16] Auto Clean invoked.
+[12:43:16] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:16] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:16] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:16] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:16] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:16] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:16] Recipe step env: {}
+[12:43:16] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:16] LaTeX build process spawned. PID: 2690.
+[12:43:16] Handle data type: loaded
+[12:43:22] LaTeX log parsed with 3 messages.
+[12:43:22] Recipe of length 1 finished. PID: 2690.
+[12:43:22] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:22] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:22] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:22] Parse fls file.
+[12:43:22] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:22] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:22] Auto Clean invoked.
+[12:43:22] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:22] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:22] Handle data type: loaded
+[12:43:33] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:33] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:33] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:33] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:34] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:34] BUILD command invoked.
+[12:43:34] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:34] The languageId of the document: latex
+[12:43:34] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:34] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:34] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:34] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:34] Recipe step env: {}
+[12:43:34] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:34] LaTeX build process spawned. PID: 2712.
+[12:43:38] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:38] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:38] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:38] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:38] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:38] BUILD command invoked.
+[12:43:38] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:38] The languageId of the document: latex
+[12:43:38] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] Start formatting with latexindent.
+[12:43:39] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:43:39] Formatting failed with exit code 2
+[12:43:39] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:43:39] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:39] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] BUILD command invoked.
+[12:43:39] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] The languageId of the document: latex
+[12:43:39] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:39] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[12:43:39] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:40] LaTeX log parsed with 2 messages.
+[12:43:40] Recipe of length 1 finished. PID: 2712.
+[12:43:40] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:40] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:40] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:40] Parse fls file.
+[12:43:40] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:40] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:40] Auto Clean invoked.
+[12:43:40] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:40] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:40] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:40] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:40] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:40] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:40] Recipe step env: {}
+[12:43:40] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:40] LaTeX build process spawned. PID: 2734.
+[12:43:40] Handle data type: loaded
+[12:43:43] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:43] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:43] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:43] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:43] BUILD command invoked.
+[12:43:43] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:43] The languageId of the document: latex
+[12:43:43] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:43] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:44] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:45] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] BUILD command invoked.
+[12:43:45] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] The languageId of the document: latex
+[12:43:45] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:45] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[12:43:45] Start formatting with latexindent.
+[12:43:45] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:43:45] Formatting failed with exit code 2
+[12:43:45] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:43:45] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:46] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] BUILD command invoked.
+[12:43:46] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] The languageId of the document: latex
+[12:43:46] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:46] Another LaTeX build processing is already waiting for the current LaTeX build to finish. Exit.
+[12:43:48] LaTeX log parsed with 2 messages.
+[12:43:48] Recipe of length 1 finished. PID: 2734.
+[12:43:48] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:48] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:48] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:48] Parse fls file.
+[12:43:48] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:48] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:48] Auto Clean invoked.
+[12:43:48] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:48] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:48] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:48] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:43:48] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:43:48] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:43:48] Recipe step env: {}
+[12:43:48] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:43:48] LaTeX build process spawned. PID: 2759.
+[12:43:48] Handle data type: loaded
+[12:43:54] LaTeX log parsed with 2 messages.
+[12:43:54] Recipe of length 1 finished. PID: 2759.
+[12:43:54] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:43:54] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:43:54] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:54] Parse fls file.
+[12:43:54] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:54] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:54] Auto Clean invoked.
+[12:43:54] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:43:54] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:43:54] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:43:54] Handle data type: loaded
+[12:44:04] Start formatting with latexindent.
+[12:44:04] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:44:04] Formatting failed with exit code 2
+[12:44:04] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:44:04] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:04] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] BUILD command invoked.
+[12:44:04] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] The languageId of the document: latex
+[12:44:04] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:04] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:44:04] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:44:04] Recipe step env: {}
+[12:44:04] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:44:04] LaTeX build process spawned. PID: 2788.
+[12:44:09] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:10] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:10] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:10] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:10] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:10] BUILD command invoked.
+[12:44:10] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:10] The languageId of the document: latex
+[12:44:10] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:12] LaTeX log parsed with 2 messages.
+[12:44:12] Recipe of length 1 finished. PID: 2788.
+[12:44:12] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:12] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:44:12] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:12] Parse fls file.
+[12:44:12] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:12] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:12] Auto Clean invoked.
+[12:44:12] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:44:12] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:44:12] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:44:12] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:12] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:44:12] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:44:12] Recipe step env: {}
+[12:44:12] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:44:12] LaTeX build process spawned. PID: 2819.
+[12:44:12] Handle data type: loaded
+[12:44:15] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:15] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:15] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:15] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:15] BUILD command invoked.
+[12:44:15] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:15] The languageId of the document: latex
+[12:44:15] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:15] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:19] LaTeX log parsed with 2 messages.
+[12:44:19] Recipe of length 1 finished. PID: 2819.
+[12:44:19] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:19] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:44:19] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:19] Parse fls file.
+[12:44:19] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:19] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:19] Auto Clean invoked.
+[12:44:19] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:44:19] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:44:19] Handle data type: loaded
+[12:44:19] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:44:19] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:44:19] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:44:19] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:44:19] Recipe step env: {}
+[12:44:19] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:44:19] LaTeX build process spawned. PID: 2847.
+[12:44:25] LaTeX log parsed with 2 messages.
+[12:44:25] Recipe of length 1 finished. PID: 2847.
+[12:44:25] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:44:25] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:44:25] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:25] Parse fls file.
+[12:44:25] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:25] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:25] Auto Clean invoked.
+[12:44:25] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:44:25] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:44:25] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:44:25] Handle data type: loaded
+[12:44:50] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:44:50] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:44:50] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:44:50] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:44:50] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:50] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:50] Root file changed: from /home/fenris/work/Semester5/Minor_Proj/report.tex to /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:50] Start to find all dependencies.
+[12:44:50] Root file languageId: latex
+[12:44:50] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:50] Reset file watcher.
+[12:44:50] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:50] Parse fls file.
+[12:44:50] Cannot find fls file: /home/fenris/work/Semester5/Minor_Proj/synopsis.fls
+[12:44:50] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:51] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex.
+[12:44:52] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:44:52] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:44:52] BibWatcher.bibWatcher.getWatched: {}
+[12:44:52] BibWatcher.bibsWatched: []
+[12:44:52] PdfWatcher.pdfWatcher.getWatched: {}
+[12:44:52] PdfWatcher.pdfsWatched: []
+[12:44:52] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:44:52] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:44:52] BibWatcher.bibWatcher.getWatched: {}
+[12:44:52] BibWatcher.bibsWatched: []
+[12:44:52] PdfWatcher.pdfWatcher.getWatched: {}
+[12:44:52] PdfWatcher.pdfsWatched: []
+[12:44:54] VIEW command invoked with mode: file:///home/fenris/work/Semester5/Minor_Proj/synopsis.tex.
+[12:44:54] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:44:54] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:44:54] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:54] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:54] Cannot find PDF file /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:44:56] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:44:56] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:44:56] BibWatcher.bibWatcher.getWatched: {}
+[12:44:56] BibWatcher.bibsWatched: []
+[12:44:56] PdfWatcher.pdfWatcher.getWatched: {}
+[12:44:56] PdfWatcher.pdfsWatched: []
+[12:44:57] BUILD command invoked.
+[12:44:57] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:57] The languageId of the document: latex
+[12:44:57] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:44:57] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:44:57] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:57] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:57] Building root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:57] Build root file /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:44:57] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:44:57] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/synopsis
+[12:44:57] Recipe step env: {}
+[12:44:57] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:44:57] LaTeX build process spawned. PID: 2887.
+[12:44:59] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:44:59] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:44:59] BibWatcher.bibWatcher.getWatched: {}
+[12:44:59] BibWatcher.bibsWatched: []
+[12:44:59] PdfWatcher.pdfWatcher.getWatched: {}
+[12:44:59] PdfWatcher.pdfsWatched: []
+[12:45:00] VIEW command invoked with mode: file:///home/fenris/work/Semester5/Minor_Proj/synopsis.tex.
+[12:45:00] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:45:00] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:45:00] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:00] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:00] Serving PDF file at http://127.0.0.1:44705/viewer.html?file=pdf..JTJGaG9tZSUyRmZlbnJpcyUyRndvcmslMkZTZW1lc3RlcjUlMkZNaW5vcl9Qcm9qJTJGc3lub3BzaXMucGRm
+[12:45:00] The encoded path is /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:45:00] The internal PDF viewer url: http://127.0.0.1:44705/viewer.html?incode=1&file=pdf..JTJGaG9tZSUyRmZlbnJpcyUyRndvcmslMkZTZW1lc3RlcjUlMkZNaW5vcl9Qcm9qJTJGc3lub3BzaXMucGRm
+[12:45:00] Open PDF tab for /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:45:01] Handle data type: open
+[12:45:01] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:45:01] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:45:01] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:01] Keep using the same root file: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:01] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:45:01] Handle data type: request_params
+[12:45:01] Sending the settings of the PDF viewer for initialization: {"type":"params","scale":"auto","trim":0,"scrollMode":0,"spreadMode":0,"hand":false,"invertMode":{"enabled":false,"brightness":1,"grayscale":0.6,"hueRotate":180,"invert":0,"sepia":0},"bgColor":"#ffffff","keybindings":{"synctex":"ctrl-click"}}
+[12:45:02] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:45:02] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:45:02] BibWatcher.bibWatcher.getWatched: {}
+[12:45:02] BibWatcher.bibsWatched: []
+[12:45:02] PdfWatcher.pdfWatcher.getWatched: {}
+[12:45:02] PdfWatcher.pdfsWatched: []
+[12:45:02] Handle data type: loaded
+[12:45:03] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:45:03] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:45:03] BibWatcher.bibWatcher.getWatched: {}
+[12:45:03] BibWatcher.bibsWatched: []
+[12:45:03] PdfWatcher.pdfWatcher.getWatched: {}
+[12:45:03] PdfWatcher.pdfsWatched: []
+[12:45:05] LaTeX log parsed with 2 messages.
+[12:45:05] Recipe of length 1 finished. PID: 2887.
+[12:45:05] Successfully built /home/fenris/work/Semester5/Minor_Proj/synopsis.tex.
+[12:45:05] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"}
+[12:45:05] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:45:05] Parse fls file.
+[12:45:05] Fls file found: /home/fenris/work/Semester5/Minor_Proj/synopsis.fls
+[12:45:05] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/synopsis.aux
+[12:45:05] Auto Clean invoked.
+[12:45:05] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/seal.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/gantt.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/gantt2.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/esp.jpg
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/max.jpg
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/Diff.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/Chart1.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/Chart2.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/1.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/2.png
+[12:45:05] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/3.png
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.aux
+[12:45:05] Preview PDF file: /home/fenris/work/Semester5/Minor_Proj/synopsis.pdf
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.lof
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.lot
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.out
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.toc
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.fls
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.log
+[12:45:05] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/synopsis.fdb_latexmk
+[12:45:05] Handle data type: loaded
+[12:45:31] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:45:31] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:45:31] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:31] Root file changed: from /home/fenris/work/Semester5/Minor_Proj/synopsis.tex to /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:31] Start to find all dependencies.
+[12:45:31] Root file languageId: latex
+[12:45:31] Reset file watcher.
+[12:45:31] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:31] Parse fls file.
+[12:45:31] Cannot find fls file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:45:31] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:31] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:45:33] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["report.tex"]}
+[12:45:33] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/report.tex"]
+[12:45:33] BibWatcher.bibWatcher.getWatched: {}
+[12:45:33] BibWatcher.bibsWatched: []
+[12:45:33] PdfWatcher.pdfWatcher.getWatched: {}
+[12:45:33] PdfWatcher.pdfsWatched: []
+[12:45:37] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:45:37] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] BUILD command invoked.
+[12:45:37] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] The languageId of the document: latex
+[12:45:37] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:45:37] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:45:37] Recipe step env: {}
+[12:45:37] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:45:37] LaTeX build process spawned. PID: 2953.
+[12:45:37] Start formatting with latexindent.
+[12:45:37] Formatting with command latexindent -c,/home/fenris/work/Semester5/Minor_Proj/,/home/fenris/work/Semester5/Minor_Proj/__latexindent_temp.tex,-y=defaultIndent: '    '
+[12:45:37] Formatting failed with exit code 2
+[12:45:37] stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module) (@INC contains: /usr/share/texmf-dist/scripts/latexindent /usr/lib/perl5/5.34/site_perl /usr/share/perl5/site_perl /usr/lib/perl5/5.34/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/5.34/core_perl /usr/share/perl5/core_perl) at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm line 21.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Replacement.pm line 20.
+Compilation failed in require at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+BEGIN failed--compilation aborted at /usr/share/texmf-dist/scripts/latexindent/LatexIndent/Document.pm line 27.
+Compilation failed in require at /usr/bin/latexindent line 27.
+BEGIN failed--compilation aborted at /usr/bin/latexindent line 27.
+
+[12:45:37] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:37] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:45:37] Auto Build Run is temporarily disabled during a second.
+[12:45:37] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:45:43] LaTeX log parsed with 2 messages.
+[12:45:43] Recipe of length 1 finished. PID: 2953.
+[12:45:43] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:45:43] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:45:43] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:45:43] Parse fls file.
+[12:45:43] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:45:43] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:45:43] Auto Clean invoked.
+[12:45:43] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:45:43] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/seal.png
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lot
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:45:43] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk
+[12:45:47] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:45:47] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:45:47] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:47] Root file changed: from /home/fenris/work/Semester5/Minor_Proj/report.tex to /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:47] Start to find all dependencies.
+[12:45:47] Root file languageId: latex
+[12:45:47] Reset file watcher.
+[12:45:47] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:47] Parse fls file.
+[12:45:47] Cannot find fls file: /home/fenris/work/Semester5/Minor_Proj/synopsis.fls
+[12:45:47] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex
+[12:45:48] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/synopsis.tex.
+[12:45:49] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["synopsis.tex"]}
+[12:45:49] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/synopsis.tex"]
+[12:45:49] BibWatcher.bibWatcher.getWatched: {}
+[12:45:49] BibWatcher.bibsWatched: []
+[12:45:49] PdfWatcher.pdfWatcher.getWatched: {}
+[12:45:49] PdfWatcher.pdfsWatched: []
+[12:46:13] Current workspace folders: ["file:///home/fenris/work/Semester5/Minor_Proj"]
+[12:46:13] Current workspaceRootDir: file:///home/fenris/work/Semester5/Minor_Proj
+[12:46:13] Found root file from active editor: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:13] Root file changed: from /home/fenris/work/Semester5/Minor_Proj/synopsis.tex to /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:13] Start to find all dependencies.
+[12:46:13] Root file languageId: latex
+[12:46:13] Reset file watcher.
+[12:46:13] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:13] Parse fls file.
+[12:46:13] Cannot find fls file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:46:13] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:13] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:46:15] Manager.fileWatcher.getWatched: {"/home/fenris/work/Semester5/Minor_Proj":["report.tex"]}
+[12:46:15] Manager.filesWatched: ["/home/fenris/work/Semester5/Minor_Proj/report.tex"]
+[12:46:15] BibWatcher.bibWatcher.getWatched: {}
+[12:46:15] BibWatcher.bibsWatched: []
+[12:46:15] PdfWatcher.pdfWatcher.getWatched: {}
+[12:46:15] PdfWatcher.pdfsWatched: []
+[12:46:16] File watcher - file changed: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] Parsing a file and its subfiles: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] Checking for duplicate labels: /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:46:16] Auto build started detecting the change of a file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] BUILD command invoked.
+[12:46:16] The document of the active editor: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] The languageId of the document: latex
+[12:46:16] Building root file: /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] onDidSaveTextDocument triggered: file:///home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] Build root file /home/fenris/work/Semester5/Minor_Proj/report.tex
+[12:46:16] outDir: /home/fenris/work/Semester5/Minor_Proj
+[12:46:16] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/fenris/work/Semester5/Minor_Proj,/home/fenris/work/Semester5/Minor_Proj/report
+[12:46:16] Recipe step env: {}
+[12:46:16] cwd: /home/fenris/work/Semester5/Minor_Proj
+[12:46:16] LaTeX build process spawned. PID: 2990.
+[12:46:22] LaTeX log parsed with 2 messages.
+[12:46:22] Recipe of length 1 finished. PID: 2990.
+[12:46:22] Successfully built /home/fenris/work/Semester5/Minor_Proj/report.tex.
+[12:46:22] Call refreshExistingViewer: {"sourceFile":"/home/fenris/work/Semester5/Minor_Proj/report.tex"}
+[12:46:22] Refresh PDF viewer: /home/fenris/work/Semester5/Minor_Proj/report.pdf
+[12:46:22] Parse fls file.
+[12:46:22] Fls file found: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:46:22] Parse aux file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:46:22] Auto Clean invoked.
+[12:46:22] Clean glob matched files: {"globs":["*.aux","*.bbl","*.blg","*.idx","*.ind","*.lof","*.lot","*.out","*.toc","*.acn","*.acr","*.alg","*.glg","*.glo","*.gls","*.fls","*.log","*.fdb_latexmk","*.snm","*.synctex(busy)","*.synctex.gz(busy)","*.nav","*.vrb"],"outdir":"/home/fenris/work/Semester5/Minor_Proj"}
+[12:46:22] Added to file watcher: /home/fenris/work/Semester5/Minor_Proj/private/seal.png
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.aux
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lof
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.lot
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.out
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.toc
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fls
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.log
+[12:46:22] Cleaning file: /home/fenris/work/Semester5/Minor_Proj/report.fdb_latexmk

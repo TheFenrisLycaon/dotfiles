@@ -1,0 +1,10 @@
+2021/11/22-20:08:22.647 704 Creating DB /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tasksboard.com_0.indexeddb.leveldb since it was missing.
+2021/11/22-20:08:22.779 704 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tasksboard.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/22-20:08:23.583 704 Level-0 table #5: started
+2021/11/22-20:08:23.643 704 Level-0 table #5: 1242 bytes OK
+2021/11/22-20:08:23.709 704 Delete type=0 #3
+2021/11/22-20:08:23.710 704 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/22-20:09:21.175 d23 Level-0 table #7: started
+2021/11/22-20:09:21.220 d23 Level-0 table #7: 2317 bytes OK
+2021/11/22-20:09:21.281 d23 Delete type=0 #4
+2021/11/22-20:09:21.282 d23 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

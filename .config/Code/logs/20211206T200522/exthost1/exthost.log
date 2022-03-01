@@ -1,0 +1,32 @@
+[2021-12-06 20:05:32.332] [exthost] [info] Extension host with pid 2307 started
+[2021-12-06 20:05:32.332] [exthost] [info] Skipping acquiring lock for /home/fenris/.config/Code/User/workspaceStorage/8369253fd0ccbcbdd5c29845462fcea9.
+[2021-12-06 20:05:32.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-06 20:05:32.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-06 20:05:32.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-06 20:05:32.553] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: true, activationEvent: '*'
+[2021-12-06 20:05:32.606] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2021-12-06 20:05:33.054] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-12-06 20:05:33.247] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2021-12-06 20:05:33.354] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2021-12-06 20:05:33.570] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-06 20:05:33.735] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-06 20:05:36.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-06 20:05:36.456] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+[2021-12-06 20:05:37.137] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2021-12-06 20:05:37.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-06 20:05:37.724] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-06 20:05:38.079] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-06 20:05:38.795] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-12-06 20:05:39.109] [exthost] [info] Eager extensions activated
+[2021-12-06 20:05:39.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-06 20:05:39.155] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-06 20:05:39.281] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-06 20:05:40.597] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-12-06 20:05:57.055] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2021-12-06 20:05:57.056] [exthost] [error] Canceled: Canceled
+	at w.makeCancelError (/home/fenris/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:16:170296)
+	at w.handleFailedRequest (/home/fenris/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:16:170147)
+	at /home/fenris/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599/out/client/extension.js:102:342251
+	at async U.provideDocumentRangeSemanticTokens (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:180425)
+[2021-12-06 20:24:13.916] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-06 20:24:14.959] [exthost] [info] Extension host with pid 2307 exiting with code 0

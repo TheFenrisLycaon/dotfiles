@@ -1,0 +1,596 @@
+ÿÿBý·[2021-11-24 14:15:16.839] [window] [warning] Ignoring the error while validating workspace folder vscode-vfs://github/onkimthinh/pFedHN_LSTM - No file system provider found for resource 'vscode-vfs://github/onkimthinh/pFedHN_LSTM'
+[2021-11-24 14:21:20.867] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:21:20.939] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:21:20.991] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:21:21.051] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:21:21.111] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:21:21.169] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:21:21.226] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:21:21.286] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:21:21.342] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:21:21.400] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+[2021-11-24 14:21:21.461] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:27:01.754] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:27:01.832] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:27:01.892] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:27:01.953] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:27:02.012] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:27:02.068] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:27:02.129] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:27:02.227] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:27:02.287] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+[2021-11-24 14:27:02.351] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:27:02.409] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:32:42.785] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:32:42.857] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:32:42.914] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:32:42.966] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:32:43.026] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:32:43.085] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:32:43.149] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:32:43.209] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:32:43.270] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:32:43.327] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:32:43.387] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+[2021-11-24 14:38:23.773] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:38:23.849] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:38:23.906] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:38:23.964] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+[2021-11-24 14:38:24.026] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:38:24.081] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:38:24.142] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:38:24.201] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:38:24.243] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:38:24.361] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:38:24.444] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:43:54.793] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:43:54.887] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:43:54.945] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:43:55.033] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:43:55.105] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:43:55.265] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:43:55.472] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:43:55.684] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:43:55.869] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:43:56.081] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+[2021-11-24 14:43:56.286] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:49:35.867] [window] [error] Error: Error while fetching package.json for extension 'davidanson.vscode-markdownlint' from the location 'https://davidanson.vscode-unpkg.net/DavidAnson/vscode-markdownlint/0.45.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 0)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension davidanson.vscode-markdownlint
+[2021-11-24 14:49:36.100] [window] [error] Error: Error while fetching package.json for extension 'viktorqvarfordt.vscode-pitch-black-theme' from the location 'https://viktorqvarfordt.vscode-unpkg.net/viktorqvarfordt/vscode-pitch-black-theme/1.3.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 3)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension viktorqvarfordt.vscode-pitch-black-theme
+[2021-11-24 14:49:36.304] [window] [error] Error: Error while fetching package.json for extension 'jeff-hykin.better-cpp-syntax' from the location 'https://jeff-hykin.vscode-unpkg.net/jeff-hykin/better-cpp-syntax/1.15.10/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 5)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension jeff-hykin.better-cpp-syntax
+[2021-11-24 14:49:36.522] [window] [error] Error: Error while fetching package.json for extension 'redhat.vscode-yaml' from the location 'https://redhat.vscode-unpkg.net/redhat/vscode-yaml/1.2.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 6)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension redhat.vscode-yaml
+[2021-11-24 14:49:36.739] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-keymap' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-keymap/1.0.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 1)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-keymap
+[2021-11-24 14:49:36.948] [window] [error] Error: Error while fetching package.json for extension 'ms-toolsai.jupyter-renderers' from the location 'https://ms-toolsai.vscode-unpkg.net/ms-toolsai/jupyter-renderers/1.0.3/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 2)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-toolsai.jupyter-renderers
+[2021-11-24 14:49:37.156] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-icon-theme' from the location 'https://pkief.vscode-unpkg.net/PKief/material-icon-theme/4.10.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 4)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-icon-theme
+[2021-11-24 14:49:37.378] [window] [error] Error: Error while fetching package.json for extension 'pkief.material-product-icons' from the location 'https://pkief.vscode-unpkg.net/PKief/material-product-icons/1.1.1/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 7)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension pkief.material-product-icons
+[2021-11-24 14:49:37.589] [window] [error] Error: Error while fetching package.json for extension 'ms-python.vscode-pylance' from the location 'https://ms-python.vscode-unpkg.net/ms-python/vscode-pylance/2021.11.2/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 8)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.vscode-pylance
+[2021-11-24 14:49:37.802] [window] [error] Error: Error while fetching package.json for extension 'ms-python.python' from the location 'https://ms-python.vscode-unpkg.net/ms-python/python/2021.11.1422169775/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 9)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension ms-python.python
+[2021-11-24 14:49:38.005] [window] [error] Error: Error while fetching package.json for extension 'christian-kohler.path-intellisense' from the location 'https://christian-kohler.vscode-unpkg.net/christian-kohler/path-intellisense/2.5.0/extension/package.json'. Failed to fetch
+    at O.toScannedExtension (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:14065)
+    at async https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12192
+    at async Promise.all (index 10)
+    at async O.scanInstalledExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:12147)
+    at async O.scanUserExtensions (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:9741)
+    at async v.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2984:1785)
+    at async Promise.all (index 0)
+    at async S.getInstalled (https://vscodeweb.azureedge.net/stable/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247/out/vs/workbench/workbench.web.api.js:2983:111812) Error while scanning user extension christian-kohler.path-intellisense
+VB ý·

@@ -1,0 +1,310 @@
+{
+   "checksum": "928998091e915c13f0a20ce346e96a3c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13278516253035376",
+               "guid": "87f6f2a9-cfa2-496f-ada9-b30077634c9e",
+               "id": "6",
+               "name": "RIshabh Anand - Google Sheets",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1rQP4Sq0j3Aj2Atm8YZaLLRmVJLkQCtAtEIIzSZB5fzo/edit#gid=1204841294"
+            }, {
+               "date_added": "13278516253035535",
+               "guid": "929e63ba-25ca-49a4-8ca9-aeeedee2318d",
+               "id": "7",
+               "name": "COCO - Common Objects in Context",
+               "type": "url",
+               "url": "https://cocodataset.org/#home"
+            }, {
+               "date_added": "13278516253035624",
+               "guid": "24850195-e4f1-47ba-afe3-dad5f2b40048",
+               "id": "8",
+               "name": "Getting Started - mediapipe",
+               "type": "url",
+               "url": "https://google.github.io/mediapipe/getting_started/getting_started.html"
+            }, {
+               "date_added": "13278516253035719",
+               "guid": "8c7b2389-6551-4174-9ffe-949f7f088e94",
+               "id": "9",
+               "name": "MediaPipe in Python - mediapipe",
+               "type": "url",
+               "url": "https://google.github.io/mediapipe/getting_started/python.html"
+            }, {
+               "date_added": "13278516253035806",
+               "guid": "b0bb4902-006e-4548-946e-d65d4ee77721",
+               "id": "10",
+               "name": "minar09/awesome-virtual-try-on: A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
+               "type": "url",
+               "url": "https://github.com/minar09/awesome-virtual-try-on"
+            }, {
+               "date_added": "13278516253035916",
+               "guid": "406027b3-d4f4-496f-b803-a871f7176238",
+               "id": "11",
+               "name": "b01902041/Deep-Virtual-Try-on-with-Clothes-Transform: An image-based virtual try-on system with deep learning.",
+               "type": "url",
+               "url": "https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform"
+            }, {
+               "date_added": "13278516253036015",
+               "guid": "3bf4ca5e-4912-40b5-8b96-1a4173461eea",
+               "id": "12",
+               "name": "virtual-try-on · GitHub Topics",
+               "type": "url",
+               "url": "https://github.com/topics/virtual-try-on"
+            }, {
+               "date_added": "13278516253036114",
+               "guid": "6e2c9ee8-1a8c-4ab7-a469-63e1eda1aa4f",
+               "id": "13",
+               "name": "kishorkuttan/Deep-Virtual-Try-On: Worlds first API for Deep Virtual Try on cloths exclusively for pandemic recovery in apparel industry. Powered by powerful PyTorch deep learning model with detailed cloth warping",
+               "type": "url",
+               "url": "https://github.com/kishorkuttan/Deep-Virtual-Try-On"
+            }, {
+               "date_added": "13278516253036225",
+               "guid": "78cd6aec-df21-4b38-9ce3-beabe9e07555",
+               "id": "14",
+               "name": "Qingcsai/3DVirtualTryOn: 3D Virtual Try On by Three.js",
+               "type": "url",
+               "url": "https://github.com/Qingcsai/3DVirtualTryOn"
+            }, {
+               "date_added": "13278516253036315",
+               "guid": "14a6f175-bb79-4442-9f3d-be62248fc8d3",
+               "id": "15",
+               "name": "3d-virtual-try-on · GitHub Topics",
+               "type": "url",
+               "url": "https://github.com/topics/3d-virtual-try-on"
+            }, {
+               "children": [ {
+                  "date_added": "13278529804978957",
+                  "guid": "5d7f03e0-1c27-44ee-b3fb-b6c5d61c82ac",
+                  "id": "17",
+                  "name": "PIFuHD Demo - Colaboratory",
+                  "type": "url",
+                  "url": "https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt#scrollTo=afwL_-ROCmDf"
+               }, {
+                  "date_added": "13278529804979403",
+                  "guid": "a283184a-9fdb-4f5f-9ef2-607bbee930c7",
+                  "id": "18",
+                  "name": "python - _C.cpython-38-x86_64-linux-gnu.so: undefined symbol: _ZN6caffe28TypeMeta21_typeMetaDataInstanceIdEEPKNS_6detail12TypeMetaDataEv - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/67117097/c-cpython-38-x86-64-linux-gnu-so-undefined-symbol-zn6caffe28typemeta21-typem"
+               }, {
+                  "date_added": "13278529804979892",
+                  "guid": "2ff702b5-8d08-4cfb-b022-81efa821fc5d",
+                  "id": "19",
+                  "name": "PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization",
+                  "type": "url",
+                  "url": "https://shunsukesaito.github.io/PIFuHD/"
+               }, {
+                  "date_added": "13278529804980265",
+                  "guid": "f139e131-19e0-4539-bad0-ced7a2d7f543",
+                  "id": "20",
+                  "name": "pifuhd/apps at main · facebookresearch/pifuhd",
+                  "type": "url",
+                  "url": "https://github.com/facebookresearch/pifuhd/tree/main/apps"
+               }, {
+                  "date_added": "13278529804980637",
+                  "guid": "15f0dc8a-d7f4-4d25-9aac-96c415572ece",
+                  "id": "21",
+                  "name": "pifuhd/data at main · facebookresearch/pifuhd",
+                  "type": "url",
+                  "url": "https://github.com/facebookresearch/pifuhd/tree/main/data"
+               }, {
+                  "date_added": "13278529804981023",
+                  "guid": "8a5ae2c5-3b9b-423c-b6e2-86dd0016da5a",
+                  "id": "22",
+                  "name": "pifuhd/lib at main · facebookresearch/pifuhd",
+                  "type": "url",
+                  "url": "https://github.com/facebookresearch/pifuhd/tree/main/lib"
+               }, {
+                  "date_added": "13278529804981398",
+                  "guid": "7b6fefa2-fd5f-4837-9eb2-1ddd2037233b",
+                  "id": "23",
+                  "name": "pifuhd/demo.sh at main · facebookresearch/pifuhd",
+                  "type": "url",
+                  "url": "https://github.com/facebookresearch/pifuhd/blob/main/scripts/demo.sh"
+               }, {
+                  "date_added": "13278529804981856",
+                  "guid": "e9e75f1e-1bd2-471e-8d9c-0552f0dd1828",
+                  "id": "24",
+                  "name": "pifuhd/sample_images at main · facebookresearch/pifuhd",
+                  "type": "url",
+                  "url": "https://github.com/facebookresearch/pifuhd/tree/main/sample_images"
+               } ],
+               "date_added": "13278529804978549",
+               "date_modified": "13278529804981856",
+               "guid": "23c94ce8-e7e5-4120-8562-7441e5235259",
+               "id": "16",
+               "name": "New folder",
+               "type": "folder"
+            }, {
+               "date_added": "13279016258161864",
+               "guid": "bc92ba07-c1f0-4f43-a052-99a13a6c6376",
+               "id": "25",
+               "name": "AUR (en) - glc-player",
+               "type": "url",
+               "url": "https://aur.archlinux.org/packages/glc-player/"
+            }, {
+               "date_added": "13279104591540180",
+               "guid": "ec166a1c-be2c-4f0c-bbad-2b1869014ddd",
+               "id": "26",
+               "name": "Software Engineering - Agile Developments MCQs - EXAMRADAR",
+               "type": "url",
+               "url": "https://examradar.com/software-engineering-agile-developments-mcq-type-questions-answers/"
+            }, {
+               "date_added": "13281596085853422",
+               "guid": "3860e1a6-3517-4403-9957-4194566a11da",
+               "id": "27",
+               "name": "Wed_L1_Project_19BIT-1-(A) (Meeting) | Microsoft Teams",
+               "type": "url",
+               "url": "https://teams.microsoft.com/_#/pre-join-calling/19:NHgePwLcgsHkfq3kl9ScCN4OpbjDh6Mka-GYGFso5F41@thread.tacv2"
+            } ],
+            "date_added": "13278516253033696",
+            "date_modified": "13281596085853422",
+            "guid": "ad676537-b470-4b84-93b4-056a1fac0348",
+            "id": "5",
+            "name": "vInnovate",
+            "type": "folder"
+         }, {
+            "date_added": "13286726656943307",
+            "guid": "9de551d4-81d4-46bd-a78c-a2cae7230d92",
+            "id": "44",
+            "name": "amanchadha/coursera-deep-learning-specialization: Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Networks; (v) Sequence Models",
+            "type": "url",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization"
+         }, {
+            "date_added": "13286838786165402",
+            "guid": "240588dd-43ca-4261-94a6-3394ca491455",
+            "id": "40",
+            "name": "Convolutional Neural Networks - Grades | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/convolutional-neural-networks/home/assignments"
+         }, {
+            "date_added": "13286838789685264",
+            "guid": "a50bf0f0-ee4e-454d-a7b0-b0e0424b6c1c",
+            "id": "42",
+            "name": "Sequence Models - Grades | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/nlp-sequence-models/home/assignments"
+         }, {
+            "date_added": "13287224022124536",
+            "guid": "484a85cd-f630-4f74-b610-94bd6c32a636",
+            "id": "43",
+            "name": "Skype",
+            "type": "url",
+            "url": "https://web.skype.com/19:ea958e986c2b4a7d8882c9cfff96d7b4@thread.skype?action=joinmeetnow&correlationId=d2822f01-b7c7-4945-a97a-d78da5c865b3&source=NewJoinLinkFlow"
+         }, {
+            "date_added": "13287311631542752",
+            "guid": "2dddcf19-b307-47f9-9481-e189f8f9ae50",
+            "id": "41",
+            "name": "Meet - sun-yypu-qwf",
+            "type": "url",
+            "url": "https://meet.google.com/sun-yypu-qwf?pli=1&authuser=1"
+         } ],
+         "date_added": "13281653975971378",
+         "date_modified": "13287311631542752",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281653975971382",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13267375565455712",
+               "guid": "2d1db742-60c2-43b4-8ee8-774082bb8098",
+               "id": "29",
+               "name": "Tokyo Toshokan :: #tokyotosho @ irc.rizon.net :: Torrent Search",
+               "type": "url",
+               "url": "https://www.tokyotosho.info/search.php?searchName=true&searchComment=true&terms=uncensored"
+            }, {
+               "date_added": "13276931157029152",
+               "guid": "7b912968-c02d-47be-a53f-cd52bb47be04",
+               "id": "30",
+               "name": "MEGA",
+               "type": "url",
+               "url": "https://mega.nz/folder/c5h21QKD#MJfpId8zGG1-6nGK7mf6sg"
+            }, {
+               "date_added": "13277050479103273",
+               "guid": "56e62c3f-e5c3-473a-b531-0a937b37703e",
+               "id": "31",
+               "name": "https://www2.cs.sfu.ca/CourseCentral/125/tjd/_sources/postfix.txt",
+               "type": "url",
+               "url": "https://www2.cs.sfu.ca/CourseCentral/125/tjd/_sources/postfix.txt"
+            }, {
+               "date_added": "13287496911283656",
+               "guid": "21c1baca-78fd-4da0-9e05-67940919c450",
+               "id": "38",
+               "name": "Dat Ass 2 | JABComix | download",
+               "type": "url",
+               "url": "https://1lib.in/book/16844223/207d55?dsource=recommend"
+            }, {
+               "date_added": "13287496915125478",
+               "guid": "d004ebc3-7071-4dfc-b41f-4e97256b54af",
+               "id": "36",
+               "name": "Housewives at Play: Where's Your Mother? | Rebecca | download",
+               "type": "url",
+               "url": "https://1lib.in/book/5597290/9325e9?dsource=recommend"
+            }, {
+               "date_added": "13287496918180641",
+               "guid": "525b61c5-f9df-4586-a885-6a9864c1337a",
+               "id": "35",
+               "name": "[YAKIYAMA LINE (カルーア鈴木)] 淫欲の棲家1 | カルーア鈴木 | download",
+               "type": "url",
+               "url": "https://1lib.in/book/5794248/44a547"
+            }, {
+               "date_added": "13287496920614619",
+               "guid": "9ef22b60-dd35-427f-9645-013d5d914f88",
+               "id": "34",
+               "name": "Download books Erotica - Arts & Photography Ebook library 1lib.in",
+               "type": "url",
+               "url": "https://1lib.in/category/713/Arts--Photography"
+            }, {
+               "date_added": "13287496923558241",
+               "guid": "962aa4cc-2448-4054-9883-67666ac6ed9a",
+               "id": "37",
+               "name": "Download books Erotica - Comics & Manga Ebook library 1lib.in",
+               "type": "url",
+               "url": "https://1lib.in/category/714/Comics--Manga"
+            }, {
+               "date_added": "13287173692477301",
+               "guid": "de4f61fc-c8ae-4248-9ce5-4e90953bcc71",
+               "id": "33",
+               "name": "Hello Boo ♡",
+               "type": "url",
+               "url": "https://thefenrislycaon.github.io/Simplicity/"
+            } ],
+            "date_added": "13267106842601149",
+            "date_modified": "13287496923558241",
+            "guid": "fbde6bad-6500-4f9e-bc87-3a870b80c9a2",
+            "id": "28",
+            "name": "Damger",
+            "type": "folder"
+         }, {
+            "date_added": "13287509089015243",
+            "guid": "24638967-447d-407d-8fbe-d27ab460966d",
+            "id": "39",
+            "name": "Wordle - A daily word game",
+            "type": "url",
+            "url": "https://www.powerlanguage.co.uk/wordle/"
+         } ],
+         "date_added": "13281653975971386",
+         "date_modified": "13287509089015243",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqinLDs2V8AAAAAEgAaWFpha2N3bmIybi90dXM5N041TVhTa0gxQnZXZVFQWTlhcUFpd0pnQU9DNmF4ODE3TFlZSUdEVXpQZFNEdm5nYm5YMUo3Nm1QRGJGT01SM1pNOEd5YjB3PT0gASoYa2FxZklYSnZYMDZyaDQwdjJZNHJndz09EqgBCA8SowEKHG93ZnJiYjZZaTBySitxRjNzbXE2MmhoMG00dz0SJDgzZTc2ZmJkLTUzYTEtNDA2MS04OTQzLTZkMGY3NjA4NDMxMBgAIAEoATCVjZj27C847NKgpMcvQOzSoKTHL0ocSHVNdm5sc0tlNzY4c3d1VkNaVGlVeVlIYnRRPVofIh3/M0dLdnFZZHNjSERGRjAzMW50VXRubjBJR0Q0PWUIDEouEqcBCAYSogEKHEZQdmEraGtTcXF2WE1WdWVnTXhTREV1MjdoOD0SJDBiMjNjNzU0LWE5OGYtNDYwZi04YmU5LTIxNWE1MzlhMmQyNxgAIAEoATCRjpj27C8469KgpMcvQOvSoKTHL0ocb3FZZ09zVU1CMkhmUzNMWm1BU2I4RndCNlRFPVoeIhxSUjBOcnJVTWpYTVphSEcyUTZFb2tvMjhlbnM9ZaBm2+gSqAEIGBKjAQocQ0NqbG8zZlZBQWdtdG80U3JrNjUvaUZ4WkQ4PRIkOTNkMDdlMzctZTAzYi00MTA5LTg4NDgtMjRhNmI2M2QxNTBhGAAgASgBMMCNmPbsLzi25duqxy9AtuXbqscvShxzQUNJUVVJVGdxMGM3NUZseVRIUldVSHBxT289Wh8iHf1scGJXb0VpK1BiYko4VnRzbHlvS2wycmQrSjA9ZQgMSi4SqgEIIxKlAQocVEJlakI5end4UnpZbi9lOVJxRmNBSExxRllZPRIkODA4YTYxMDMtZDg0Ni00YWY0LTkwMjQtYjYyMzJkOTlkZTRjGAAgASgBMJ+NmPbsLzik+cje6C9ApPnI3ugvShxjRlRuK3NSM3ZZaGx1VXdpaWw5anV6TFozOUE9WiEiH////2JUNnhFVjdIWHVaK1RLMGZ5RmlrbTQwNXpNTT1lOdFllBKqAQgdEqUBChxhVmVPVktxaEpkM3o0bEt2dnRyWWZaTUhSQ2M9EiQ5YjA0NjAzOS0wNjkxLTQ3YzgtOWU2Yy0xYWUxOTExOGM0ODIYACABKAEw/42Y9uwvOJaF++OdL0CWhfvjnS9KHHhnL2lDT3hvWEplUERwS0dYQlBXN3RENHRwWT1aISIf///qbllFUVdsVHl0NEplVWVNQlFrWllXajRZeUhBPWXU7ZBQEqgBCAcSowEKHDVFaVcwMjlOMVBWT1A5YUVhclAvb0ZqTWhEOD0SJDA5ZDVmMzM2LTY5ZTYtNGY2Yy1iODc2LTc5MmIyOTlmZGNkMRgAIAEoATDkjZj27C8469KgpMcvQOvSoKTHL0ocVTc4d1o5VHgrd1FpN056WS90eDVZRXhZQlRNPVofIh2pMGZSdEY4Zm4rU1VNQmlieVJvMHNxK21SaFdNPWXXMGDLEqcBCCcSogEKHFE1a1AvK1FST0Q0OEp2ZXFTcnIyWWxsUGM4MD0SJDIyMmYyMDY5LWIxNzItNDM1OC1iYTU3LThiZWMyMTVmMWE3ZhgAIAEoATD5jZj27C84++Wv5OgvQPvlr+ToL0ocV0ovYUhScjNheXh3Q1Njc3AydFVrUFprUTEwPVoeIhxOMzR2WWFqa3VzUFlQcm5MWk1udVBzd2p2Y0U9Ze4FaUQSqAEIFRKjAQocaEluM3FyaVBNTld0QnZtRW8vZ0F2WXhZOFM4PRIkZTZlZjAyMTMtMDgxYS00YTZiLThmMDItMzg2MDcyZGZlZWE0GAAgASgBMNWNmPbsLzi05duqxy9AtOXbqscvShx3alhDSkd6K2hqWEE2aVh4RTZ4MlFSemJ6U3c9Wh8iHe55dXdIaTJodUk3WGVmdndrRzAzNGFiQmtNdUE9ZQgMSi4SqAEIChKjAQocRXF4emhUb1p4KzBEdzhXL3NLNEl6emJsSERJPRIkZGU5YWNlMzQtNWM1Mi00NWJlLThiZjEtZTFmZTg0ZTllMDE2GAAgASgBMLSNmPbsLzjr0qCkxy9A69KgpMcvShxjQ1BOZUk5dVZLQVU5RnB6UDVEdE4vMVFUZTA9Wh8iHfUxZHZmcjA3WS9VcWpXclBIWTFJcEU3dlBMdGM9ZQgMSi4SqAEICRKjAQocbUxXR2hDOU11TUl3Vmd3dnpSZUZWRm1BK0xJPRIkYTkxYjhiM2MtNTdhOC00Njg5LWJkNjktNWI2MTU1NDVmMzlhGAAgASgBMJqNmPbsLzjr0qCkxy9A69KgpMcvShw5Szl0RzVEOU9ZVE5yRUZrdG15VC9aWTQ0Z0E9Wh8iHepobUgzanNoOEpjdjVGbnlveU40cE5MMWNLVkk9ZQAAAAASqAEIKxKjAQocV3pvcUVaMHhyS0lRRG9nbXVqV1Yvek1GY2gwPRIkNzdhODQ5ZGQtNTk4MS00OGY3LWEyZGMtNDhkYTMxMDkzMTEzGAAgAygDMOb0l/bsLzjt2Ljc5y9AlNz28usvShxiYk8xR211QzV1RlBwT01UU3o1K1dKVmxIQmc9Wh8iHfpXYjNGemVPT3RzS0Z1T3ZBMTZXWkxJaW5HUG89ZeMPUJ4SqAEIDBKjAQoceHRTRWZvM0NJVGxRaWVOZXh1Q2JzSDRER1FFPRIkYjQ0N2U5YzktODFjOS00YWMxLThhODgtM2Q5YjMxZDFmMzAzGAAgASgBMNCNmPbsLzjs0qCkxy9A7NKgpMcvShxSN014bUpkNWl1K29aeFFURllTdC90VkM5UkU9Wh8iHf1xV2FZTHkyNzUzN0hHQzNtRmlqS0RkMHpoaVU9ZQgMSi4SpwEIEhKiAQoceWxiZ2JFaENQUWdjS0tqMHhLK3hnQmtmTVRzPRIkYWI2ZTJmODQtNDdmNC00YmI2LTg2YTQtNWUxZDVlZWQyZjBiGAAgASgBMMqNmPbsLziz5duqxy9As+XbqscvShwxeHZzVjl6Z0gyZjdiTWthVGU3Ri9yYzdPTm89Wh4iHHE4REhveU1LN2Fwa2lDWjdGY1kxZC9KTmtXdz1lD8w0FBKoAQgFEqMBChx1UFpwWjJsVUxMajE2c0VOMy9handVZ1NIZGs9EiRiMzg5MmY4Ny0wZjE5LTRjZTQtOGY4ZS1mMzYyNDQ3MjQ0NmQYACABKAEw1fSX9uwvOOvSoKTHL0Dr0qCkxy9KHFpsdHlPRjZnQ3R1VWxiYnFyb0VaY2d1Kzhudz1aHyIdpjBoWkptTGc3SzM3OG9JdS9qcnRsMzdFeFFQdz1lAAAAABKpAQgaEqQBChxQclZ4ZkEwRGUvOU5LZyttRE1wY3RFNHlCcTA9EiQ5M2RhNDkwNi1lOTBiLTRlYzMtODY3Ni01ZDNmNmE4ZmE1NDYYACABKAEwj42Y9uwvOLT95bzJL0C0/eW8yS9KHE8rRXhYU0RyT25FK1pPdXVOWDR5cmNqSE1RVT1aICIe/+pBNkRmbDJ0cXlvZHlwM1BjRkdsbmE3d3JGMEk9ZQvON2wSpwEIERKiAQocY0FMbXFBVmdIL3dLdmd6UEpLdVB4emYyUExrPRIkZWY4NDZjODktNWI5Zi00MDVjLWIxZjYtNTk3ZTQ4MmQ5ZTM4GAAgASgBMIWOmPbsLziz5duqxy9AqMW8u94vShxQeXBmakczVnpMNklEVWdsc2U1a2FrMVIxRFU9Wh4iHCtqUkQyZ0lFaE9aWmwyV20xY3VKLy9uT0E4dz1lPWKsXRKoAQgUEqMBChxWd0RjOWNLMjFPM0w4ZUJNTHJwbStWZlVraDg9EiQ2NzFiY2E5YS0wZDc3LTQ1MTQtOWJiMi0xZWRkMzQ2NWJhMjAYACABKAEwxY2Y9uwvOLTl26rHL0C05duqxy9KHDFaSE4rbWhjdUdLMmxjc1Y5UC82TThob2V0QT1aHyId3ExPdXpISHVtZWQxd0J4Mjh3bkMzaUVQNk9ZMD1lCAxKLhKoAQgXEqMBChx2cU5JczRNRll6MkYxTlNuTzE1U3E1cUY1NU09EiQzNTJiYjZiYS01OGY4LTRmNzUtYmIwZS00OWU2YmUwNTZiNzAYACABKAEw242Y9uwvOLXl26rHL0C15duqxy9KHDEvTnZiNm0xWllYR2F5RWJBVzFxRkhxbHVmVT1aHyId+3luZm1IRHUvMDU3ckpSWHNsajZNa0tGRDB5ST1lCAxKLhKoAQgWEqMBChxWc2M2UlBKWW90R1A2VnNVYzlBZU9XNjA2cDA9EiQyODQ1ODBiMi04MmRhLTQwYjItODA5Yi02ZWE4ZWNiMTUxYzgYACABKAEwuo2Y9uwvOLXl26rHL0C15duqxy9KHFJOVXRxaWRYL0I2WWN4Wmg5VmJsR3h1ejdVaz1aHyId92drc2V3QkxwbXpxT2NGYmN4dnhlZjNraElWWT1lCAxKLhKpAQgZEqQBChxzbTJOTjhsVHB0cXhST1drSmgyRkp1Q2VoNzA9EiRkMDIxOWFmYS0xYTdiLTRhZmMtOGUwOC1hZDkyMThkY2NiNDYYACABKAEwqo2Y9uwvOPLE1pLJL0DyxNaSyS9KHE9YK25IWTdPYmE2YVMwQkNSeXdSdlZacjA5Zz1aICIe/6s4Z1JaM1M1ZTQ2T0JKbUE3YXZxVzJRbytjS0E9ZUthCrsSqAEIEBKjAQocclVnUUlSVThzZlZGMWtaMW5uS1daSVJYR3lZPRIkZTQzMGVkNTMtMjVmOS00NjEyLTk4MmMtYTE4ZTU0NTk1YmFiGAAgASgBMNz0l/bsLziy5duqxy9AsuXbqscvShx5UW1QRDBXL050ZzlWMStiSFdYUHhHVUxPcEk9Wh8iHf9XdDk3djNMM2FGZ0FkeitHbVBuYXRGTkJJU009ZQAAAAASqAEICBKjAQocTERDdGlDS3dWUDcxNjZLZGREeEpxQkc4YStJPRIkMWM3ZjM1OGUtMjIyMC00ODMwLWI5ZDYtOTRlYTk0MmE2ZjcyGAAgASgBMKSNmPbsLzjr0qCkxy9A69KgpMcvShx0WWJqWWpZQytRRmhaOTVCeVFLZDRQeVA0QlE9Wh8iHdQvbDZ1MzBUVVAxSEhIWDk3SmhZVGJXZjVNL1k9ZQAAAAASqgEIJBKlAQocTy9yM3JTbkdpV3hnWDE3RlhjZzYvNTZxYXdNPRIkM2YxOWZkMjMtMGU5MS00OTY3LTg4MWEtYTY5ODU0MDg4NmJhGAAgASgBMOuNmPbsLzi14cje6C9AteHI3ugvShxNRHlLc2tuZVoxMkZ3bFVXcURjbVBCQjkvTGM9WiEiH////ldzdXEwdzA3ak5vOHcwbUlCMkhUTjlLczV3RT1lOdFllBKDAQgDEn8KHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDJiNDAyYTNhLWM4YTctNGVlNS1iOGQwLTRkMzk0ZDRhYmMxMhgAIAAoADABOPngzNedL0D54MzXnS9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqkBCBsSpAEKHC95WElueGt3djdUUHNSbWtvMnZBT0lyZTI1MD0SJGQzZWQ1ZTAyLTQ3NmQtNGEzNi1hZWMwLTg0ZWE3NGNjOGZjMxgAIAEoATCKjZj27C843dzq4NIvQN3c6uDSL0ocZHFJU3QyMzZwNTRUblk3YWsxcExueGZyUU80PVogIh7/9UFyVWh0QUNGeE9zRmpIVHJ3dkRiRXFIRFE1RT1lk6qH2RKnAQgcEqIBChw4WndKcDE1OHVkNURuazRTbUlpVkJuOXBrWW89EiQxZTJkZGNmZi1jMDM4LTRmNmUtYTc2YS1lOGFiNWE1MjE3ZWQYACABKAEw7PSX9uwvOMnyzNedL0DJ8szXnS9KHEw1YnoxT3VxQWRQNXZHd05RWXlRRG50cFlCTT1aHiIcQkJKZXdBY3VEZVliNFBNRER4Vk0zMlNKbXg4PWUAAAAAEqgBCBMSowEKHGk2WG5hVVRhc2F2QWdLbHVDemkvcWFSVHlFbz0SJGNhMjI2YzY1LTk3YzktNDgwOC1hZjg3LWEzODUyNjgwZGMyZhgAIAEoATD+jJj27C84tOXbqscvQLTl26rHL0ocZFlmRWVPMUs2cG50cUZoV2VUaFQ5eXlSV1A4PVofIh24WU1hdlRTS1lmc2ViYzJpTk1LYmluMzhPSWk4PWUAAAAAEqgBCAsSowEKHFhhMTZjeEJhYjFqNVJXOXdBOWRNMDVUeHF0ND0SJDU0Yzg5OGQwLWE3OWItNDY5ZS1hZGVkLWFkNDNiYmZkNDQ3NBgAIAEoATD5jJj27C847NKgpMcvQOzSoKTHL0ocQkVNQ1Z4YmtNdDgxUEwwcFZxd21FOG1lbURjPVofIh36c3cwb0M2SFd5dVBUSTRwSFl4M1dxSldwWnJjPWUIDEouEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMzkwZjc4YWUtM2MwZC00MDRiLThmNWMtN2IzMTE2NDJiZDAzGAAgACgAMAE4+eDM150vQPngzNedL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEILBKjAQocMmdlRXB1Nmh2ZUZPWVdaYXhXeTAwRDVJMnZ3PRIkMmNmZWYwMjItYzYwOS00M2NjLWE5MDAtYTAxMTJjZTUxNWRkGAAgAygDMM/0l/bsLziw96Pv5S9AlNz28usvShxWZTRwQzBNa3YvanROKzBUbnJqKzNCS0lGcXc9Wh8iHdNndE1SanAzOS9tZVM0QmovL3lGOWhZOWs3a289ZQgMSi4SqAEIKBKjAQoceHRMazRET2VIQkdIdmxydjJuamFDWVJuR3VNPRIkZDAwYzZmMGQtZjI1MC00OWY2LThjZTMtMTUwMmRhMGQ0MzA2GAAgAygDMMj0l/bsLzj44N+k5i9Aktz28usvShxXNlhBK1QwMjVyRVZlckFYUkZFdit4a01ONjA9Wh8iHelNY0dKdFNzRVpINFIyMnA2Q1BRNUJ2c2E5cGs9ZSabvAASqgEIHhKlAQoccytCQTRuOHBDeEJUNGs0UXRlTmdBbHd0aiswPRIkYjg1M2I3ZjgtOTZjYS00YmYyLWExZWUtMDBkZDE1ODAwZGM0GAAgASgBMOyMmPbsLziniLawwS9Ap4i2sMEvShxqaWs4L01HZjY5T29YR21MQVRTeGpHU2tKWTg9WiEiH///9TBhd3JGRGVTSktRUVlBWmZBRFdJZFppMmh0ST1l/yT/NxKoAQgNEqMBChxXTUo0NkFpVTJXM1ZjOTdYQjc5S1I1dWlRLzg9EiQzZWRkZTgwZC0xYTkzLTQzZTQtOTc1Ni1mZTQxY2FhMDFiMjQYACABKAEw5YyY9uwvOOzSoKTHL0Ds0qCkxy9KHEV1OFh4d1RhNkdzN2RlRUo5TnlsT2l6YlU3ST1aHyId/kdrM3N2Mnd4SDZIWTFUcTRWWmJqeEZUSi81az1lCAxKLhKqAQgfEqUBChx1ak53VG9NaUVPTWNpeWJoQVRLeEdaOHhoYVk9EiRmM2Q3MDhjOS0yOWQ5LTQxNzItYTZhYy1iNzk4NzdiYmZkNjgYACABKAEw24yY9uwvOIv0qOnBL0CL9KjpwS9KHDZFYWxnaWs2cnpqSHFnN0w4VDMyWjlBT2szQT1aISIf///6MXhrSTNCNUx6WHQ1dWNFd2VZSTZhRkFIM1RRPWXNEacNEqgBCA4SowEKHC9RYm4wL3JuUWZ6TTJkNlFUQkVOYzhkM2wzWT0SJDIyZWQ0ZDdkLWFjZTAtNDdiNi1iNmFkLTBiZDE2MjZmODlmNxgAIAEoATDWjJj27C847NKgpMcvQOzSoKTHL0ocYXlnczZVM2hVUTdBeTU2Mi9MQTIxcmlrR2ZRPVofIh3/MkVxVjRpdElGZmwrQVNMSHVaWWh4cGJlYW9zPWUIDEouEqgBCCkSowEKHDRsclZsSmhSZ3ZJV0QxUm1PRXR5Y3g2dUhDYz0SJGEwODc2YWQ5LTVjOWEtNGFjYi1iYjQzLTU4NWI2MzIwNmFiOBgAIAMoAzC+9Jf27C84t/mbhugvQJPc9vLrL0occml5SzVVbmZVR3l2K1VyUXFuSnN6ZFgyT0hFPVofIh39bjV1MnVSOGprK0l2WFhCb2xCMHV2cmQ3cCs4PWX0IvUbEqsBCCISpgEKHGRGSjBqRFZTOUtBRDVlckJIYStsRmNhOVNvMD0SJGQ3MjkyZjg2LTEwMWQtNDc3Ny1hZjQ0LWUyNDBjZTFiOGFjZhgAIAEoATCvjZj27C84pozJ3ugvQKaMyd7oL0ocUDlwYmlQN2tWY0dXblRONTBJYTZQcHczaURFPVoiIiD///+xWDU5VGNtUGN6Wm11Rm9rQ1NSTmpqMnl3MTZBPWU50WWUEoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkOWZkOWMwNjAtZjY0MC00YTFhLWE0ZGQtZDU4MTQ0ZDk3ZTcwGAAgACgAMAE4+eDM150vQPngzNedL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIIRKmAQocQTMrb0pjWU1kbWdiRzlQdTV3VVJzSVF3bzFvPRIkNjE1NzU2ZTYtNTdiZi00MGQ3LTk4MDEtMTMwZGJlNmM2YjcwGAAgASgBMOCMmPbsLzihnY6H6i9AoZ2Oh+ovShxkWE4zVm43WDRvS0pRR2N6L3hhTkFjV3lxckU9WiIiIP///+wyOW50S1lWZmQ1c1hFYnNTbkhaaGZpTE9icnc9ZQAAAAASqwEIJRKmAQocMUZOVmlKUXlDWTEzZ2dXeVJQcTB2RmFTY1RvPRIkOThiODZhM2EtMDRhYi00MDNmLWExNTgtNTllNDc3ZDNkMTkyGAAgASgBMISNmPbsLzimo8ne6C9ApqPJ3ugvShxlb1V3SWEwclpUYnpYQUVwcFhjVU8rcjRrekE9WiIiIP///9h2UEdIaGNTU2Q3RnlmdklFWVhodzFzZDVEcEk9ZTnRZZQSqgEIJhKlAQocQ0l1SzZOQmtHMld2clhlcDZmVkl1WkdNU0E0PRIkZGZkNTY2MGEtYjdmZS00M2Q2LWE2YjMtOTE2ZDI2YmY0N2M4GAAgASgBMMuMmPbsLzi0w8je6C9AtMPI3ugvShxVdEtpdkU1UWdvbEU0b1pEVHpENVUvY0JJOGM9WiEiH////XNMV1l4TFNFL3JTdTBjOFhHMEZzZ0ZGK0dWVT1lOdFllBKoAQgqEqMBChxMcFdPN0N0NjBBRlhBeHphbFB2RmVkQjc2UVU9EiRhZmVmOGI4Zi03MGExLTRiMDktYTM2NS1jYTcxMTU2MzJlMzcYACADKAMwtvSX9uwvOLj836TmL0CT3Pby6y9KHDh2L1o5bVRzZ3FGYjJELzZEYjUzTUZTV1pRZz1aHyId9FZnR0Nyb2poV2FPdFZJTDRmei80bzhXd3NBZz1lJpu8ACDDm5j27C8wAQ==",
+   "version": 1
+}

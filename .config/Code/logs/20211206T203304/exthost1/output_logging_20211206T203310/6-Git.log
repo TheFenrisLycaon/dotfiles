@@ -1,0 +1,37 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/fenris/work/IN - Arima
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Plates_OpenCV_Inference/infer_plate.py
+> git ls-files --stage -- /home/fenris/work/IN - Arima/Plates_OpenCV_Inference/infer_plate.py
+> git cat-file -s ef44720f1001e567a94bd37cc9567094f9cb248b
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/fenris/work/IN - Arima/Plates_OpenCV_Inference/infer_plate.py
+> git cat-file -s ef44720f1001e567a94bd37cc9567094f9cb248b
+> git show --textconv :Plates_OpenCV_Inference/infer_plate.py
+> git config --local branch.master.github-pr-owner-number
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+> git ls-files --stage -- /home/fenris/work/IN - Arima/Plates_OpenCV_Inference/infer_plate.py
+> git cat-file -s ef44720f1001e567a94bd37cc9567094f9cb248b
+> git show --textconv :Plates_OpenCV_Inference/infer_plate.py
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+> git ls-files --stage -- /home/fenris/work/IN - Arima/Plates_OpenCV_Inference/infer_plate.py
+> git cat-file -s ef44720f1001e567a94bd37cc9567094f9cb248b
+> git show --textconv :Plates_OpenCV_Inference/infer_plate.py

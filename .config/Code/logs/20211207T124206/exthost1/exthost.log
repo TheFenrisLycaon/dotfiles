@@ -1,0 +1,24 @@
+[2021-12-07 12:42:14.627] [exthost] [info] Extension host with pid 2348 started
+[2021-12-07 12:42:14.627] [exthost] [info] Skipping acquiring lock for /home/fenris/.config/Code/User/workspaceStorage/44def61e947c57e060d40473c34e4278.
+[2021-12-07 12:42:14.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-07 12:42:14.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2021-12-07 12:42:14.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-07 12:42:14.958] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: true, activationEvent: '*'
+[2021-12-07 12:42:15.045] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2021-12-07 12:42:15.602] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-12-07 12:42:15.792] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme, startup: true, activationEvent: '*'
+[2021-12-07 12:42:15.871] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: true, activationEvent: '*'
+[2021-12-07 12:42:16.056] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2021-12-07 12:42:16.194] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-12-07 12:42:18.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-07 12:42:18.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-07 12:42:18.466] [exthost] [info] Eager extensions activated
+[2021-12-07 12:42:18.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-07 12:42:18.478] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-07 12:42:18.575] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-07 12:42:27.313] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onLanguage:latex'
+[2021-12-07 12:42:27.569] [exthost] [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+[2021-12-07 12:42:30.065] [exthost] [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+[2021-12-07 12:42:30.072] [exthost] [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+[2021-12-07 12:56:38.165] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-07 12:56:39.278] [exthost] [info] Extension host with pid 2348 exiting with code 0

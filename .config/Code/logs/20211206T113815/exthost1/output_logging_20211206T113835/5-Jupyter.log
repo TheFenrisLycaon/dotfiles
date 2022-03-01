@@ -1,0 +1,330 @@
+Info 2021-12-06 11:38:35: Experimentation service retrieved: [object Object]
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-12-06 11:38:38: ZMQ install verified.
+Info 2021-12-06 11:38:39: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 2021-12-06 11:38:42: Creating controller for jupyter-notebook with interpreter /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 11:38:42: Find preferred kernel for file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}} & preferred interpreter {"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.7.10 64-bit ('arima': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.7.10 64-bit ('arima': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.7.10 64-bit ('arima': conda) is 5
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.8.11 64-bit ('webapp': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('scraper': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('base': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('gui': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('openCV': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('vin': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('xxx': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('ML': conda) is -1
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 11:38:42: findPreferredKernel score for Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 11:38:42: findKernel found Python 3.7.10 64-bit ('arima': conda)
+Info 2021-12-06 11:38:42: Find kernel spec, Class name = k, completed in 3485ms, has a truthy return value, Arg 1: <Uri:/home/fenris/work/Semester5/Minor_Proj/main.ipynb>, Arg 2: {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}}, Arg 3: {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{"next":{},"prev":{}},"_last":{"next":{},"prev":{}},"_size":1}}}, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/fenris/.local/share/jupyter/kernels/python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da/kernel.json","interpreterPath":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","name":"python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.7.10 64-bit ('arima': conda)","metadata":{"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}},"env":{}},"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"},"id":".jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher"}
+Info 2021-12-06 11:38:42: PreferredConnection: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher found for NotebookDocument: file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb
+Info 2021-12-06 11:38:42: TargetController found ID: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher for document file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb
+Info 2021-12-06 11:38:42: Setting controller affinity for file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher
+Info 2021-12-06 11:38:43: Registering dummy command feature
+Error 2021-12-06 11:38:56: Failed to get activated conda env variables for arima: /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 11:38:56: Process Execution: > ~/Apps/anaconda3/envs/arima/bin/python -m pip list
+> ~/Apps/anaconda3/envs/arima/bin/python -m pip list
+Error 2021-12-06 11:38:56: Failed to get activated conda env variables for arima: /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 11:38:56: Process Execution: > ~/Apps/anaconda3/envs/arima/bin/python -c "import jupyter"
+> ~/Apps/anaconda3/envs/arima/bin/python -c "import jupyter"
+Error 2021-12-06 11:38:56: Failed to get activated conda env variables for arima: /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 11:38:56: Process Execution: > ~/Apps/anaconda3/envs/arima/bin/python -c "import notebook"
+> ~/Apps/anaconda3/envs/arima/bin/python -c "import notebook"
+Info 2021-12-06 11:39:02: Loading kernelspec from /home/fenris/Apps/anaconda3/envs/ML/share/jupyter/kernels/python3/kernel.json for /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 11:39:02: Loading kernelspec from /home/fenris/Apps/anaconda3/envs/openCV/share/jupyter/kernels/python3/kernel.json for /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 11:39:02: Loading kernelspec from /home/fenris/Apps/anaconda3/envs/scraper/share/jupyter/kernels/python3/kernel.json for /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 11:39:02: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:02:12: Notebook Closed file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb
+Info 2021-12-06 12:02:12: Creating controller for jupyter-notebook with interpreter /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 12:02:12: Find preferred kernel for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}} & preferred interpreter {"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.7.10 64-bit ('arima': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.7.10 64-bit ('arima': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.7.10 64-bit ('arima': conda) is 5
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.8.11 64-bit ('webapp': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('ML': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('scraper': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('base': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('gui': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('openCV': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('vin': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('xxx': conda) is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:02:12: findKernel found Python 3.7.10 64-bit ('arima': conda)
+Info 2021-12-06 12:02:12: Find kernel spec, Class name = k, completed in 184ms, has a truthy return value, Arg 1: <Uri:/home/fenris/work/Semester5/Minor_Proj/main_2.ipynb>, Arg 2: {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}}, Arg 3: {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{"next":{},"prev":{}},"_last":{"next":{},"prev":{}},"_size":1}}}, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/fenris/.local/share/jupyter/kernels/python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da/kernel.json","interpreterPath":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","name":"python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.7.10 64-bit ('arima': conda)","metadata":{"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}},"env":{}},"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"},"id":".jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher"}
+Info 2021-12-06 12:02:12: PreferredConnection: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher found for NotebookDocument: file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:02:12: TargetController found ID: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher for document file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:02:12: Setting controller affinity for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher
+Info 2021-12-06 12:02:12: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:02:12: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 12:02:12: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 12:03:20: Setting setActiveController for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:03:21: Execute Cells request 1 1
+Info 2021-12-06 12:03:21: Execute Cell 1 file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:03:21: Starting Notebook in kernel.ts id = .jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher
+Info 2021-12-06 12:03:21: Creating raw notebook for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:03:21: Getting preferred kernel for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:03:21: Computing working directory file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 12:03:21: Connecting to raw session for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/fenris/.local/share/jupyter/kernels/python3812jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7/kernel.json","interpreterPath":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","name":"python3812jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.8.12 64-bit ('ML': conda)","metadata":{"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/ML","envType":"Conda","envName":"ML","envPath":"/home/fenris/Apps/anaconda3/envs/ML","path":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","architecture":3,"sysVersion":"3.8.12 (default, Oct 12 2021, 13:49:34) \n[GCC 7.5.0]","version":{"raw":"3.8.12","major":3,"minor":8,"patch":12,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.8.12 64-bit ('ML': conda)"}},"env":{}},"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/ML","envType":"Conda","envName":"ML","envPath":"/home/fenris/Apps/anaconda3/envs/ML","path":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","architecture":3,"sysVersion":"3.8.12 (default, Oct 12 2021, 13:49:34) \n[GCC 7.5.0]","version":{"raw":"3.8.12","major":3,"minor":8,"patch":12,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.8.12 64-bit ('ML': conda)"},"id":".jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher"}
+Info 2021-12-06 12:03:21: Starting raw kernel Python 3.8.12 64-bit ('ML': conda)
+Info 2021-12-06 12:03:21: installMissingDependencies /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:21: KernelProvider switched kernel to id = .jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher
+Error 2021-12-06 12:03:26: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:26: Process Execution: > ~/Apps/anaconda3/envs/ML/bin/python -m pip list
+> ~/Apps/anaconda3/envs/ML/bin/python -m pip list
+Error 2021-12-06 12:03:26: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:26: Process Execution: > ~/Apps/anaconda3/envs/ML/bin/python -c "import ipykernel"
+> ~/Apps/anaconda3/envs/ML/bin/python -c "import ipykernel"
+Info 2021-12-06 12:03:32: Install Missing Dependencies, Class name = S, completed in 10839ms, has a falsy return value, Return Value: undefined
+Info 2021-12-06 12:03:32: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 2021-12-06 12:03:32: Launching kernel daemon for Python 3.8.12 64-bit ('ML': conda) # /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Error 2021-12-06 12:03:32: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Error 2021-12-06 12:03:32: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Error 2021-12-06 12:03:32: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:32: Creating daemon process for /home/fenris/Apps/anaconda3/envs/ML/bin/python with env variables count 82
+Info 2021-12-06 12:03:32: Process Execution: > ~/Apps/anaconda3/envs/ML/bin/python -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/Apps/anaconda3/envs/ML/bin/python -m vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-12-06 12:03:33: Starting kernel from scratch with options {"env":{"ELECTRON_RUN_AS_NODE":"1","HOME":"/home/fenris","LANG":"en_US.UTF-8","LOGNAME":"fenris","MAIL":"/var/spool/mail/fenris","PATH":"/home/fenris/Apps/anaconda3/envs/ML/bin:/home/fenris/Apps/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/jvm/default/bin","SHELL":"/usr/bin/zsh","SYSTEMD_EXEC_PID":"618","USER":"fenris","XDG_RUNTIME_DIR":"/run/user/1000","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DESKTOP_SESSION":"plasma","DISPLAY":":0","GTK2_RC_FILES":"/etc/gtk-2.0/gtkrc:/home/fenris/.gtkrc-2.0:/home/fenris/.config/gtkrc-2.0","GTK_MODULES":"canberra-gtk-module:appmenu-gtk-module","GTK_RC_FILES":"/etc/gtk/gtkrc:/home/fenris/.gtkrc:/home/fenris/.config/gtkrc","KDE_APPLICATIONS_AS_SCOPE":"1","KDE_FULL_SESSION":"true","KDE_SESSION_UID":"1000","KDE_SESSION_VERSION":"5","MOTD_SHOWN":"pam","OLDPWD":"/home/fenris/work/dead/University/Semester5","PAM_KWALLET5_LOGIN":"/run/user/1000/kwallet5.socket","PWD":"/home/fenris/work/dead/University/Semester5","QT_AUTO_SCREEN_SCALE_FACTOR":"0","SHLVL":"0","UBUNTU_MENUPROXY":"1","XAUTHORITY":"/home/fenris/.Xauthority","XCURSOR_SIZE":"24","XCURSOR_THEME":"WhiteSur-cursors","XDG_CONFIG_DIRS":"/home/fenris/.config/kdedefaults:/etc/xdg","XDG_CURRENT_DESKTOP":"KDE","XDG_SEAT":"seat0","XDG_SEAT_PATH":"/org/freedesktop/DisplayManager/Seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_DESKTOP":"KDE","XDG_SESSION_ID":"2","XDG_SESSION_PATH":"/org/freedesktop/DisplayManager/Session1","XDG_SESSION_TYPE":"x11","XDG_VTNR":"1","_":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","MANAGERPID":"546","INVOCATION_ID":"2526824f118c49179784260472d617aa","JOURNAL_STREAM":"8:17276","CHROME_DESKTOP":"code-url-handler.desktop","ORIGINAL_XDG_CURRENT_DESKTOP":"KDE","VSCODE_CWD":"/home/fenris/work/dead/University/Semester5","GDK_BACKEND":"x11","NO_AT_BRIDGE":"1","VSCODE_NLS_CONFIG":"{\"locale\":\"en-us\",\"availableLanguages\":{},\"_languagePackSupport\":true}","VSCODE_CODE_CACHE_PATH":"/home/fenris/.config/Code/CachedData/ccbaa2d27e38e5afa3e5c21c1c7bef4657064247","VSCODE_IPC_HOOK":"/run/user/1000/vscode-bc2d6c08-1.62.3-main.sock","VSCODE_PID":"7557","ZSH":"/home/fenris/.oh-my-zsh","PAGER":"less","LESS":"-R","LSCOLORS":"Gxfxcxdxbxegedabagacad","LS_COLORS":"","P9K_SSH":"0","CONDA_EXE":"/home/fenris/Apps/anaconda3/bin/conda","_CE_M":"","_CE_CONDA":"","CONDA_PYTHON_EXE":"/home/fenris/Apps/anaconda3/bin/python","CONDA_SHLVL":"2","CONDA_PREFIX":"/home/fenris/Apps/anaconda3/envs/ML","CONDA_DEFAULT_ENV":"ML","CONDA_PROMPT_MODIFIER":"","LC_CTYPE":"en_US.UTF-8","LC_ALL":"en_IN.UTF-8","VSCODE_AMD_ENTRYPOINT":"vs/workbench/services/extensions/node/extensionHostProcess","VSCODE_PIPE_LOGGING":"true","VSCODE_VERBOSE_LOGGING":"true","VSCODE_LOG_NATIVE":"false","VSCODE_IPC_HOOK_EXTHOST":"/run/user/1000/vscode-ipc-6611fba7-8e75-4aa3-9232-ac23891b81d2.sock","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_LOG_STACK":"false","BREAKPAD_DUMP_LOCATION":"/home/fenris/.config/Code/exthost Crash Reports","VSCODE_CRASH_REPORTER_START_OPTIONS":"{\"companyName\":\"Microsoft\",\"productName\":\"VSCode\",\"submitURL\":\"appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=fb6c1045-8c39-4677-975b-339c8aeaf0f9&iid=fb6c1045-8c39-4677-975b-339c8aeaf0f9&sid=fb6c1045-8c39-4677-975b-339c8aeaf0f9\",\"uploadToServer\":true}","APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL":"true","PYTHONUNBUFFERED":"1","PYTHONIOENCODING":"utf-8","CONDA_PREFIX_1":"/home/fenris/Apps/anaconda3"},"cwd":"/home/fenris/work/Semester5/Minor_Proj"}
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Execute rpc method exec_module in DS Daemon
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Execute rpc method exec_module from /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Exec module in DS Kernel Launcher Daemon ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-7681ejBNzXU3veXP.json']
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Exec in DS Kernel Launcher Daemon (observable) ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-7681ejBNzXU3veXP.json']
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Exec in DS Kernel Launcher Daemon (observable) ['/home/fenris/Apps/anaconda3/envs/ML/bin/python', '-m', 'ipykernel_launcher', '--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-7681ejBNzXU3veXP.json']
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-12-06 12:03:33: Python Daemon (pid: 8737): Kernel launched, with PID 8739
+Warn 2021-12-06 12:03:33: Python Daemon (pid: 8737): Waiting for Kernel to die 8739
+Info 2021-12-06 12:03:33: Launching kernel daemon, Class name = p, completed in 1655ms, has a truthy return value, Arg 1: <Uri:/home/fenris/work/Semester5/Minor_Proj/main_2.ipynb>, Arg 2: "/home/fenris/work/Semester5/Minor_Proj", Arg 3: {"specFile":"/home/fenris/.local/share/jupyter/kernels/python3812jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7/kernel.json","interpreterPath":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","name":"python3812jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7","argv":["python","-m","ipykernel_launcher","--ip=127.0.0.1","--stdin=9003","--control=9001","--hb=9000","--Session.signature_scheme=\"hmac-sha256\"","--Session.key=b\"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9\"","--shell=9002","--transport=\"tcp\"","--iopub=9004","--f=/tmp/tmp-7681ejBNzXU3veXP.json"],"language":"python","path":"python","display_name":"Python 3.8.12 64-bit ('ML': conda)","metadata":{"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/ML","envType":"Conda","envName":"ML","envPath":"/home/fenris/Apps/anaconda3/envs/ML","path":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","architecture":3,"sysVersion":"3.8.12 (default, Oct 12 2021, 13:49:34) \n[GCC 7.5.0]","version":{"raw":"3.8.12","major":3,"minor":8,"patch":12,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.8.12 64-bit ('ML': conda)"}},"env":{}}, Arg 4: {"sysPrefix":"/home/fenris/Apps/anaconda3/envs/ML","envType":"Conda","envName":"ML","envPath":"/home/fenris/Apps/anaconda3/envs/ML","path":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","architecture":3,"sysVersion":"3.8.12 (default, Oct 12 2021, 13:49:34) \n[GCC 7.5.0]","version":{"raw":"3.8.12","major":3,"minor":8,"patch":12,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.8.12 64-bit ('ML': conda)"}, Return Value: <Return value cannot be serialized for logging>
+Info 2021-12-06 12:03:33: Launching kernel in kernelProcess.ts, Class name = y, completed in 1656ms, has a truthy return value, Arg 1: "/home/fenris/work/Semester5/Minor_Proj", Return Value: {"proc":{"_events":{},"_eventsCount":2,"_closesNeeded":3,"_closesGot":0,"connected":false,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"/home/fenris/Apps/anaconda3/envs/ML/bin/python","_handle":{"pid":8737},"spawnargs":["/home/fenris/Apps/anaconda3/envs/ML/bin/python","-m","vscode_datascience_helpers.daemon","--daemon-module=vscode_datascience_helpers.kernel_launcher_daemon","-v"],"pid":8737,"stdin":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null,"readable":false},"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdout":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"writable":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stderr":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"writable":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdio":[{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null,"readable":false},"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"writable":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":[],"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"errored":null,"closed":false,"closeEmitted":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"buffered":[],"bufferedIndex":0,"allBuffers":true,"allNoop":true,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"errored":null,"closed":false,"writable":false,"closeEmitted":false},"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null}]},"out":{"_isScalar":false,"observers":[],"closed":false,"isStopped":false,"hasError":false,"thrownError":null}}
+Info 2021-12-06 12:03:45: KernelProcess output: Content-Length: 370
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '\"hmac-sha256\"' if you require traitlets >=5.\n", "pid": 8737}}Content-Length: 346
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '\"hmac-sha256\"' if you require traitlets >=5.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 8737}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}Content-Length: 382
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'cc59d9a2-77bd-48fe-8973-ab2fc6181bb9' instead of 'b\"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9\"'.\n", "pid": 8737}}Content-Length: 358
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'cc59d9a2-77bd-48fe-8973-ab2fc6181bb9' instead of 'b\"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9\"'.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 8737}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}
+Info 2021-12-06 12:03:45: Python Daemon (pid: 8737): write to stderr: /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 2021-12-06 12:03:45: Kernel 8737 as possibly died, StdErr from Kernel Process /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Warn 2021-12-06 12:03:45: StdErr from Kernel Process /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+
+Info 2021-12-06 12:03:45: Python Daemon (pid: 8737): write to stderr:   warn(
+
+Warn 2021-12-06 12:03:45: Kernel 8737 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-12-06 12:03:45: StdErr from Kernel Process   warn(
+
+Info 2021-12-06 12:03:45: Python Daemon (pid: 8737): write to stderr: /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'cc59d9a2-77bd-48fe-8973-ab2fc6181bb9' instead of 'b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"'.
+
+Warn 2021-12-06 12:03:45: Kernel 8737 as possibly died, StdErr from Kernel Process /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'cc59d9a2-77bd-48fe-8973-ab2fc6181bb9' instead of 'b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"'.
+
+Warn 2021-12-06 12:03:45: StdErr from Kernel Process /home/fenris/Apps/anaconda3/envs/ML/lib/python3.8/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'cc59d9a2-77bd-48fe-8973-ab2fc6181bb9' instead of 'b"cc59d9a2-77bd-48fe-8973-ab2fc6181bb9"'.
+
+Info 2021-12-06 12:03:45: Python Daemon (pid: 8737): write to stderr:   warn(
+
+Warn 2021-12-06 12:03:45: Kernel 8737 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-12-06 12:03:45: StdErr from Kernel Process   warn(
+
+Warn 2021-12-06 12:03:45: Didn't get response for requestKernelInfo
+Warn 2021-12-06 12:03:45: Didn't get response for requestKernelInfo
+Warn 2021-12-06 12:03:45: Didn't get response for requestKernelInfo
+Info 2021-12-06 12:03:45: Raw session started and connected
+Started kernel Python 3.8.12 64-bit ('ML': conda)
+Info 2021-12-06 12:03:45: Finished connecting 345302d5-c3b3-4934-9571-17264695b502
+Info 2021-12-06 12:03:45: Updating preferred kernel for remote notebook 7fb7bc79-9c07-4808-b551-156f216d059c
+Info 2021-12-06 12:03:45: Preferred kernel for file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb is 7fb7bc79-9c07-4808-b551-156f216d059c
+Info 2021-12-06 12:03:45: UpdateWorkingDirectoryAndPath in Kernel
+Info 2021-12-06 12:03:45: changeDirectoryIfPossible
+Info 2021-12-06 12:03:45: Executing (status Not Started) silently Code = import os\nimport sys\n%cd "/home/fenris/work/Semester5/Minor_Proj"\nif os.getcwd() not in sys.path:
+Info 2021-12-06 12:03:45: Executing silently Code (completed) = import os\nimport sys\n%cd "/home/fenris/work/Semester5/Minor_Proj"\nif os.getcwd() not in sys.path:
+Info 2021-12-06 12:03:45: Executing (status Idle) silently Code = %config Completer.use_jedi = False
+Info 2021-12-06 12:03:45: Executing silently Code (completed) = %config Completer.use_jedi = False
+Info 2021-12-06 12:03:45: Executing (status Idle) silently Code = %config InlineBackend.figure_formats = ['png']
+Info 2021-12-06 12:03:45: Executing silently Code (completed) = %config InlineBackend.figure_formats = ['png']
+Info 2021-12-06 12:03:45: Executing (status Idle) silently Code = import sys\nprint(sys.executable)
+Info 2021-12-06 12:03:45: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 2021-12-06 12:03:45: Waiting for idle on (kernel): 7fb7bc79-9c07-4808-b551-156f216d059c -> idle
+Info 2021-12-06 12:03:45: Finished waiting for idle on (kernel): 7fb7bc79-9c07-4808-b551-156f216d059c -> idle
+Info 2021-12-06 12:03:45: IPyWidgetScriptSource.initialize
+Error 2021-12-06 12:03:45: Failed to get activated conda env variables for ML: /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:03:45: Process Execution: > ~/Apps/anaconda3/envs/ML/bin/python -m pip list
+> ~/Apps/anaconda3/envs/ML/bin/python -m pip list
+Info 2021-12-06 12:03:46: Registering dummy command feature
+Info 2021-12-06 12:08:16: Creating controller for jupyter-notebook with interpreter /home/fenris/Apps/anaconda3/envs/arima/bin/python
+Info 2021-12-06 12:08:16: Find preferred kernel for file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}} & preferred interpreter {"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 2.7.18 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.7.10 64-bit ('arima': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.7.10 64-bit ('arima': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.7.10 64-bit ('arima': conda) is 5
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.8.11 64-bit ('webapp': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.8.11 64-bit ('webapp': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('ML': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.8.12 64-bit ('ML': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.8.12 64-bit ('scraper': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.8.12 64-bit ('scraper': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('base': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.7 64-bit ('base': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('gui': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.7 64-bit ('gui': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('openCV': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.7 64-bit ('openCV': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('vin': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.7 64-bit ('vin': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.7 64-bit ('xxx': conda) is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.7 64-bit ('xxx': conda) is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for speclanguage=python, Python 3.9.9 64-bit is -1
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python3, Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findPreferredKernel score for Python 3.9.9 64-bit is 2
+Info 2021-12-06 12:08:16: findKernel found Python 3.7.10 64-bit ('arima': conda)
+Info 2021-12-06 12:08:16: Find kernel spec, Class name = k, completed in 265ms, has a truthy return value, Arg 1: <Uri:/home/fenris/work/Semester5/Minor_Proj/main.ipynb>, Arg 2: {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.7.4"}}, Arg 3: {"_isCancelled":false,"_emitter":{"_disposed":false,"_listeners":{"_first":{"next":{},"prev":{}},"_last":{"next":{},"prev":{}},"_size":1}}}, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/fenris/.local/share/jupyter/kernels/python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da/kernel.json","interpreterPath":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","name":"python3710jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.7.10 64-bit ('arima': conda)","metadata":{"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"}},"env":{}},"interpreter":{"sysPrefix":"/home/fenris/Apps/anaconda3/envs/arima","envType":"Conda","envName":"arima","envPath":"/home/fenris/Apps/anaconda3/envs/arima","path":"/home/fenris/Apps/anaconda3/envs/arima/bin/python","architecture":3,"sysVersion":"3.7.10 | packaged by conda-forge | (default, Oct 13 2021, 21:01:18) \n[GCC 9.4.0]","version":{"raw":"3.7.10","major":3,"minor":7,"patch":10,"build":[],"prerelease":["final","0"]},"companyDisplayName":"Anaconda, Inc.","displayName":"Python 3.7.10 64-bit ('arima': conda)"},"id":".jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher"}
+Info 2021-12-06 12:08:16: PreferredConnection: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher found for NotebookDocument: file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb
+Info 2021-12-06 12:08:16: TargetController found ID: .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher for document file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb
+Info 2021-12-06 12:08:16: Setting controller affinity for file:///home/fenris/work/Semester5/Minor_Proj/main.ipynb .jvsc74a57bd0ecb0b07d6a759652c7152165ec3ccd2e41369910748a0e111e9ebc01d31cf4da./home/fenris/Apps/anaconda3/envs/arima/python./home/fenris/Apps/anaconda3/envs/arima/python.-m#ipykernel_launcher
+Info 2021-12-06 12:08:16: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/ML/bin/python
+Info 2021-12-06 12:08:16: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/openCV/bin/python
+Info 2021-12-06 12:08:16: Hiding default kernel spec Python 3 (ipykernel), /home/fenris/Apps/anaconda3/envs/scraper/bin/python
+Info 2021-12-06 13:03:20: Shutting down notebooks for 345302d5-c3b3-4934-9571-17264695b502
+Info 2021-12-06 13:03:20: Disposing HostJupyterExecution d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: Disposing super HostJupyterExecution d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: Dispose kernel file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 13:03:20: Kernel got disposed as a result of notebook.onDisposed file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 13:03:20: Kernel got disposed, hence there is no longer a kernel associated with file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 13:03:20: Shutting down session file:///home/fenris/work/Semester5/Minor_Proj/main_2.ipynb
+Info 2021-12-06 13:03:20: Shutdown session - current session
+Info 2021-12-06 13:03:20: shutdownSession 7fb7bc79-9c07-4808-b551-156f216d059c, .jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher - start
+Info 2021-12-06 13:03:20: Session can be shutdown .jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher
+Info 2021-12-06 13:03:20: Dispose Kernel process
+Info 2021-12-06 13:03:20: kill daemon
+Info 2021-12-06 13:03:20: Disposing HostJupyterExecution d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: Finished disposing HostJupyterExecution  d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: Cleaning up server cache d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: Finished disposing HostJupyterExecution  d635ccce-12d7-4f8d-9458-a6011992c2fe
+Info 2021-12-06 13:03:20: KernelProcess Exit Exit - undefined 
+Info 2021-12-06 13:03:21: Dispose Kernel process
+Info 2021-12-06 13:03:21: shutdownSession 7fb7bc79-9c07-4808-b551-156f216d059c, .jvsc74a57bd07e4cf463935ec64491632b7dc4a7537c913bbdad498a6b9e5cc1f6879796f1c7./home/fenris/Apps/anaconda3/envs/ML/python./home/fenris/Apps/anaconda3/envs/ML/python.-m#ipykernel_launcher - shutdown complete
+Info 2021-12-06 13:03:21: Dispose Kernel process
+Info 2021-12-06 13:03:21: Dispose Kernel process
+Info 2021-12-06 13:03:21: Shutdown session - get restart session
+Info 2021-12-06 13:03:21: Shutdown session -- complete

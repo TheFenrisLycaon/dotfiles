@@ -1,0 +1,42 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> ~/Apps/anaconda3/envs/arima/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /bin/python2 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /sbin/python2 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: ~/Apps/anaconda3/envs/arima/bin/python
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/bin/python2 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> /usr/sbin/python2 ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate arima && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate arima && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate arima && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ~/Apps/anaconda3/envs/ML/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/gui/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/openCV/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/scraper/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/vin/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/webapp/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+> ~/Apps/anaconda3/envs/xxx/bin/python ~/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda info --json
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate ML && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate ML && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate ML && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate ML && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ". /home/fenris/Apps/anaconda3/bin/activate && conda activate ML && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/fenris/.vscode/extensions/ms-python.python-2021.11.1422169775/pythonFiles/printEnvVariables.py"
+> ~/Apps/anaconda3/envs/arima/bin/python -m autopep8 --diff --line-range 2 2 ~/work/Semester5/Minor_Proj/main_2.ipynb.5b5b4ec331bde987d045dae5dbfe70ae.tmp
+cwd: ~/work/Semester5/Minor_Proj
+> ~/Apps/anaconda3/envs/arima/bin/python -m autopep8 --diff --line-range 4 4 ~/work/Semester5/Minor_Proj/main_2.ipynb.5b5b4ec331bde987d045dae5dbfe70ae.tmp
+cwd: ~/work/Semester5/Minor_Proj
+Error 2021-12-06 13:03:20: Error while running worker[Worker 1]. undefined
+Error 2021-12-06 13:03:20: Error while running worker[Worker 2]. undefined

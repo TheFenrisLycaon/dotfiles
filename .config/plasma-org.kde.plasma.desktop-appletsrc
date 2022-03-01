@@ -29,7 +29,7 @@ immutability=1
 plugin=org.kde.plasma.kicker
 
 [Containments][2][Applets][25][Configuration]
-PreloadWeight=96
+PreloadWeight=92
 
 [Containments][2][Applets][25][Configuration][ConfigDialog]
 DialogHeight=540
@@ -149,7 +149,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][29][Applets][31][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][29][Applets][31][Shortcuts]
 global=Meta+K
@@ -171,7 +171,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][29][Applets][36][Configuration]
-PreloadWeight=48
+PreloadWeight=50
 
 [Containments][29][Applets][37][Configuration]
 PreloadWeight=42
@@ -201,7 +201,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][29][Applets][41][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][29][Applets][42]
 immutability=1
@@ -215,7 +215,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=10
+PreloadWeight=12
 
 [Containments][29][ConfigDialog]
 DialogHeight=540
@@ -258,7 +258,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0292.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen1135.jpg
 SlideInterval=60
 SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
@@ -282,7 +282,7 @@ PreloadWeight=0
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/Wallpapers/Screen0209.jpg
+Image=file:///home/fenris/Pictures/Wallpapers/Screen1055.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
 
 [Containments2Appletsts][45][Configuration][General]
