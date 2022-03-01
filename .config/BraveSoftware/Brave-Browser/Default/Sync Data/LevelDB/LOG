@@ -1,3 +1,6 @@
 2022/03/01-20:22:10.429 d3c Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
 2022/03/01-20:22:10.730 d3c Recovering log #395
 2022/03/01-20:22:10.785 d3c Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000395.log 
+2022/03/01-20:25:44.096 d40 Level-0 table #399: started
+2022/03/01-20:25:47.898 d40 Level-0 table #399: 75825 bytes OK
+2022/03/01-20:25:48.412 d40 Delete type=0 #395
