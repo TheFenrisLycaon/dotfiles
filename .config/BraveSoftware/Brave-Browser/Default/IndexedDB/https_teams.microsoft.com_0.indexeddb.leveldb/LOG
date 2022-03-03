@@ -1,27 +1,24 @@
-2021/11/27-13:57:45.170 32d Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/27-13:57:45.171 32d Recovering log #261
-2021/11/27-13:57:45.318 32d Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000261.log 
-2021/11/27-13:57:45.319 32d Delete type=2 #263
-2021/11/27-13:57:52.696 2fe Compacting 1@1 + 3@2 files
-2021/11/27-13:57:53.892 2fe Generated table #264@1: 1873 keys, 2146970 bytes
-2021/11/27-13:57:54.840 2fe Generated table #265@1: 23405 keys, 2180191 bytes
-2021/11/27-13:57:55.484 2fe Generated table #266@1: 13334 keys, 2014674 bytes
-2021/11/27-13:57:55.484 2fe Compacted 1@1 + 3@2 files => 6341835 bytes
-2021/11/27-13:57:55.678 2fe compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/11/27-15:16:14.525 b5c Level-0 table #268: started
-2021/11/27-15:16:14.631 b5c Level-0 table #268: 1478331 bytes OK
-2021/11/27-15:16:14.673 b5c Delete type=2 #259
-2021/11/27-15:16:14.673 b5c Delete type=2 #260
-2021/11/27-15:16:14.673 b5c Delete type=2 #262
-2021/11/27-15:16:14.673 b5c Delete type=2 #258
-2021/11/27-15:16:14.673 b5c Delete type=0 #261
-2021/11/27-15:18:05.728 120d Compacting 1@1 + 3@2 files
-2021/11/27-15:18:05.841 120d Generated table #269@1: 1466 keys, 2145055 bytes
-2021/11/27-15:18:05.976 120d Generated table #270@1: 23909 keys, 2182785 bytes
-2021/11/27-15:18:06.102 120d Generated table #271@1: 13006 keys, 1994542 bytes
-2021/11/27-15:18:06.102 120d Compacted 1@1 + 3@2 files => 6322382 bytes
-2021/11/27-15:18:06.128 120d compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/11/27-15:18:06.128 120d Delete type=2 #264
-2021/11/27-15:18:06.128 120d Delete type=2 #266
-2021/11/27-15:18:06.128 120d Delete type=2 #268
-2021/11/27-15:18:06.128 120d Delete type=2 #265
+2022/03/03-14:41:05.213 11c2 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/03-14:41:05.214 11c2 Recovering log #296
+2022/03/03-14:41:05.242 11c2 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000296.log 
+2022/03/03-15:51:50.712 11a8 Level-0 table #307: started
+2022/03/03-15:51:50.833 11a8 Level-0 table #307: 1949530 bytes OK
+2022/03/03-15:51:50.891 11a8 Delete type=0 #296
+2022/03/03-15:57:08.647 1290 Compacting 1@0 + 1@1 files
+2022/03/03-15:57:08.760 1290 Generated table #308@0: 11832 keys, 2158122 bytes
+2022/03/03-15:57:08.810 1290 Generated table #309@0: 910 keys, 236795 bytes
+2022/03/03-15:57:08.810 1290 Compacted 1@0 + 1@1 files => 2394917 bytes
+2022/03/03-15:57:08.935 1290 compacted to: files[ 0 2 5 0 0 0 0 ]
+2022/03/03-15:57:08.936 1290 Delete type=2 #302
+2022/03/03-15:57:08.936 1290 Delete type=2 #307
+2022/03/03-16:17:36.573 1179 Compacting 1@1 + 4@2 files
+2022/03/03-16:17:36.678 1179 Generated table #310@1: 1388 keys, 2148197 bytes
+2022/03/03-16:17:36.787 1179 Generated table #311@1: 12215 keys, 2165756 bytes
+2022/03/03-16:17:36.905 1179 Generated table #312@1: 22491 keys, 1772718 bytes
+2022/03/03-16:17:36.905 1179 Compacted 1@1 + 4@2 files => 6086671 bytes
+2022/03/03-16:17:36.939 1179 compacted to: files[ 0 1 4 0 0 0 0 ]
+2022/03/03-16:17:36.940 1179 Delete type=2 #304
+2022/03/03-16:17:36.940 1179 Delete type=2 #299
+2022/03/03-16:17:36.940 1179 Delete type=2 #303
+2022/03/03-16:17:36.940 1179 Delete type=2 #308
+2022/03/03-16:17:36.940 1179 Delete type=2 #298

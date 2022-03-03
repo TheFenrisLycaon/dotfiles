@@ -1,6 +1,19 @@
-2022/02/18-18:45:28.149 5 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2022/02/18-18:45:28.151 5 Recovering log #401
-2022/02/18-18:45:28.151 5 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000401.log 
-2022/02/18-18:46:34.382 5 Level-0 table #406: started
-2022/02/18-18:46:34.424 5 Level-0 table #406: 17398 bytes OK
-2022/02/18-18:46:34.483 5 Delete type=0 #401
+2022/03/03-19:29:28.301 3 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/03/03-19:29:28.304 3 Recovering log #496
+2022/03/03-19:29:28.305 3 Level-0 table #499: started
+2022/03/03-19:29:28.359 3 Level-0 table #499: 15645 bytes OK
+2022/03/03-19:29:28.360 3 Recovering log #498
+2022/03/03-19:29:28.381 3 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000498.log 
+2022/03/03-19:29:28.551 3 Delete type=0 #496
+2022/03/03-19:29:28.568 5 Compacting 4@0 + 4@1 files
+2022/03/03-19:29:28.824 5 Generated table #500@0: 1158 keys, 2035315 bytes
+2022/03/03-19:29:28.824 5 Compacted 4@0 + 4@1 files => 2035315 bytes
+2022/03/03-19:29:28.857 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/03/03-19:29:28.867 5 Delete type=2 #448
+2022/03/03-19:29:28.867 5 Delete type=2 #494
+2022/03/03-19:29:28.867 5 Delete type=2 #489
+2022/03/03-19:29:28.868 5 Delete type=2 #469
+2022/03/03-19:29:28.868 5 Delete type=2 #459
+2022/03/03-19:29:28.868 5 Delete type=2 #497
+2022/03/03-19:29:28.868 5 Delete type=2 #499
+2022/03/03-19:29:28.868 5 Delete type=2 #491

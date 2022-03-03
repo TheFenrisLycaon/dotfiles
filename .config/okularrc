@@ -4,28 +4,25 @@ shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
-LVDS1 Height 1366x768=743
+LVDS1 Height 1366x768=484
 LVDS1 Width 1366x768=683
+LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=683
-LVDS1 YPosition 1366x768=25
+LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAqsAAAK5AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK6AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/work/dead/University/Semester4/Report/19BCS4525_Rishabh_Anand_Report.pdf
-File2[$e]=$HOME/Apps/dotfiles/brave.phrase
-File3[$e]=$HOME/Documents/Resume_Rishabh_Anand.pdf
-File4[$e]=$HOME/.android/adb.5037
-File5[$e]=$HOME/.android/adbkey
-File6[$e]=$HOME/.asdf/README.md
-File7[$e]=$HOME/.conda/environments.txt
-File8[$e]=$HOME/Apps/dotfiles/autoUpdate.sh
-Name1[$e]=19BCS4525_Rishabh_Anand_Report.pdf
-Name2[$e]=brave.phrase
-Name3[$e]=Resume_Rishabh_Anand.pdf
-Name4[$e]=adb.5037
-Name5[$e]=adbkey
+File1[$e]=$HOME/Apps/dotfiles/brave.phrase
+File2[$e]=$HOME/.conda/environments.txt
+File3[$e]=$HOME/Apps/dotfiles/autoUpdate.sh
+File4[$e]=$HOME/Work/Sem6/Minor_Proj/proposal.pdf
+File5[$e]=$HOME/Work/Sem6/Cloud_Computing_and_IoT/Theory/Unit-I.pdf
+File6[$e]=$HOME/Apps/dotfiles/README.md
+Name1[$e]=brave.phrase
+Name2[$e]=environments.txt
+Name3[$e]=autoUpdate.sh
+Name4[$e]=proposal.pdf
+Name5[$e]=Unit-I.pdf
 Name6[$e]=README.md
-Name7[$e]=environments.txt
-Name8[$e]=autoUpdate.sh

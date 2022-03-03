@@ -4,32 +4,36 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 [General]
 LastUsedVersion=210800
 
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
 [MainWindow]
+LVDS-1 XPosition 1366x768=363
+LVDS-1 YPosition 1366x768=158
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=699
 LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAAK6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/Screenshot_001.png
-File10[$e]=$HOME/Pictures/.Udi/images_26.jpeg
-File2[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-File3[$e]=$HOME/Pictures/.Udi/Praffula/Screenshot_Photo - Google Photos - Brave__002.png
-File4[$e]=$HOME/Pictures/.Udi/Praffula/Screenshot_Photo - Google Photos - Brave__001.png
-File5[$e]=$HOME/Pictures/.Udi/252690328_1962042800621095_6060779783603838283_n.jpg
-File6[$e]=$HOME/Pictures/.Udi/IMG_20150809_155658752.jpg
-File7[$e]=$HOME/Pictures/.Udi/IMG_20150131_124216289-1.jpg
-File8[$e]=$HOME/Pictures/.Udi/IMG_20140914_154743047_e1.jpg
-File9[$e]=$HOME/Pictures/.Udi/252731893_424298299074520_5037897754621835697_n.jpg
-Name1[$e]=Screenshot_001.png
-Name10[$e]=images_26.jpeg
-Name2[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-Name3[$e]=Screenshot_Photo - Google Photos - Brave__002.png
-Name4[$e]=Screenshot_Photo - Google Photos - Brave__001.png
-Name5[$e]=252690328_1962042800621095_6060779783603838283_n.jpg
-Name6[$e]=IMG_20150809_155658752.jpg
-Name7[$e]=IMG_20150131_124216289-1.jpg
-Name8[$e]=IMG_20140914_154743047_e1.jpg
-Name9[$e]=252731893_424298299074520_5037897754621835697_n.jpg
+File1[$e]=$HOME/Pictures/wallpaper/Screen0980.jpg
+File2[$e]=$HOME/Work/Sem6/Assignment/temp/4.png
+File3[$e]=$HOME/Work/Sem6/Assignment/temp/5.png
+File4[$e]=$HOME/Work/Sem6/Assignment/temp/6.png
+File5[$e]=$HOME/Work/Sem6/Assignment/temp/7.png
+File6[$e]=$HOME/Work/Sem6/Assignment/temp/8.png
+File7[$e]=$HOME/Work/Sem6/Assignment/temp/9.png
+File8[$e]=$HOME/Work/Sem6/Assignment/temp/10.png
+File9[$e]=$HOME/Work/Sem6/Assignment/temp/out.png
+Name1[$e]=Screen0980.jpg
+Name2[$e]=4.png
+Name3[$e]=5.png
+Name4[$e]=6.png
+Name5[$e]=7.png
+Name6[$e]=8.png
+Name7[$e]=9.png
+Name8[$e]=10.png
+Name9[$e]=out.png

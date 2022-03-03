@@ -1,3 +1,10 @@
+[DiscoverUI]
+appsListPageSorting=274
+installedPageSorting=263
+
+[FlatpakSources]
+Sources=flathub
+
 [Window]
-geometry=0,25,1366,743
+geometry=0,24,1366,744
 visibility=4

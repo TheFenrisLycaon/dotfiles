@@ -27,6 +27,10 @@
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
     "git.confirmSync": false,
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
     "jupyter.sendSelectionToInteractiveWindow": true,
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook",
@@ -54,6 +58,7 @@
         "/home/fenris/work/"
     ],
     "editor.autoClosingBrackets": "always",
+    "python.defaultInterpreterPath": "/home/fenris/Apps/anaconda3/bin/python",
     "workbench.productIconTheme": "material-product-icons",
     "terminal.integrated.inheritEnv": false,
     "editor.renderControlCharacters": true,
@@ -134,6 +139,7 @@
     "notebook.showFoldingControls": "always",
     "jupyter.askForKernelRestart": false,
     "gopls": {},
+    "go.toolsGopath": "/home/fenris/Apps/go",
     "[django-html]": {
         "editor.defaultFormatter": "vscode.html-language-features",
         "editor.quickSuggestions": {
@@ -148,6 +154,7 @@
     },
     "go.buildOnSave": "workspace",
     "go.gocodeAutoBuild": true,
+    "go.gopath": "/home/fenris/Apps/go",
     "idf.adapterTargetName": "esp32",
     "idf.port": "/dev/ttyUSB0",
     "idf.flashType": "UART",
@@ -176,17 +183,14 @@
     "idf.saveScope": 1,
     "security.workspace.trust.banner": "never",
     "security.workspace.trust.enabled": false,
-    "workbench.colorTheme": "Material Theme Darker High Contrast",
     "yaml.schemas": {
         "file:///home/fenris/.vscode/extensions/atlassian.atlascode-2.9.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
     "redhat.telemetry.enabled": false,
     "atlascode.jira.explorer.fetchAllQueryResults": true,
-    "workbench.iconTheme": "material-icon-theme",
     "workbench.enableExperiments": false,
     "update.mode": "manual",
     "update.showReleaseNotes": false,
-    "extensions.autoUpdate": false,
     "editor.cursorBlinking": "phase",
     "editor.cursorSurroundingLinesStyle": "all",
     "editor.bracketPairColorization.enabled": true,
@@ -207,7 +211,7 @@
     "debug.console.fontFamily": "\"MesloLGS NF\"",
     "terminal.integrated.defaultProfile.linux": "zsh",
     "C_Cpp.addNodeAddonIncludePaths": true,
-    "python.defaultInterpreterPath": "/home/fenris/Apps/anaconda3/envs/arima/bin/python",
-    "bracketPairColorizer.depreciation-notice": false,
-    "window.zoomLevel": -1,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
 }

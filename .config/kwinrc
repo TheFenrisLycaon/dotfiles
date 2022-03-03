@@ -49,12 +49,12 @@ wobblywindowsEnabled=true
 
 [TabBox]
 BorderActivate=9
-LayoutName=MediumRoundedDark
+LayoutName=big_icons
 MinimizedMode=1
 ShowDesktopMode=1
 
 [TabBoxAlternative]
-LayoutName=present_windows
+LayoutName=big_icons
 
 [Windows]
 ElectricBorderCornerRatio=0.01
@@ -66,3 +66,5 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XIA
 ButtonsOnRight=
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Sweet-Mars-transparent

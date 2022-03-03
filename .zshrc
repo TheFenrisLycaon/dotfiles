@@ -1,21 +1,14 @@
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
-# Initialization code that may require console input (password prompts, [y/n]
-# confirmations, etc.) must go above this block; everything else may go below.
-if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
-  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
-fi
-
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/fenris/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="powerlevel10k/powerlevel10k"
+ZSH_THEME="awesomepanda"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -30,14 +23,13 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Case-sensitive completion must be off. _ and - will be interchangeable.
 # HYPHEN_INSENSITIVE="true"
 
-# Uncomment the following line to disable bi-weekly auto-update checks.
-# DISABLE_AUTO_UPDATE="true"
-
-# Uncomment the following line to automatically update without prompting.
-# DISABLE_UPDATE_PROMPT="true"
+# Uncomment one of the following lines to change the auto-update behavior
+# zstyle ':omz:update' mode disabled  # disable automatic updates
+# zstyle ':omz:update' mode auto      # update automatically without asking
+zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 # Uncomment the following line to change how often to auto-update (in days).
-# export UPDATE_ZSH_DAYS=13
+# zstyle ':omz:update' frequency 13
 
 # Uncomment the following line if pasting URLs and other text is messed up.
 # DISABLE_MAGIC_FUNCTIONS="true"
@@ -78,25 +70,15 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(
-  git
-  vscode
-  python
-  dotenv
-  docker
-  zsh-syntax-highlighting 
-  zsh-autosuggestions
-  docker-compose
-)
+plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
-# export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -114,32 +96,28 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc"
+alias ohmyzsh="vim ~/.oh-my-zsh"
 
 # >>> conda initialize >>>
-#!! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/fenris/Apps/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/fenris/.condahome/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/fenris/Apps/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/fenris/Apps/anaconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/fenris/.condahome/etc/profile.d/conda.sh" ]; then
+        . "/home/fenris/.condahome/etc/profile.d/conda.sh"
     else
-        export PATH="/home/fenris/anaconda3/bin:$PATH"
+        export PATH="/home/fenris/.condahome/bin:$PATH"
     fi
 fi
 unset __conda_setup
-
 # <<< conda initialize <<<
 
 # Conda Virtual Envs
-alias scraper='conda activate scraper;export PATH="/home/fenris/Apps/anaconda3/envs/scraper/bin/:$PATH"'
 alias ML='conda activate ML;export PATH="/home/fenris/Apps/anaconda3/envs/ML/bin/:$PATH"'
 alias web='conda activate webapp;export PATH="/home/fenris/Apps/anaconda3/envs/webapp/bin/:$PATH"'
 alias gui='conda activate gui;export PATH="/home/fenris/Apps/anaconda3/envs/gui/bin/:$PATH"'
-alias vin='conda activate vin;export PATH="/home/fenris/Apps/anaconda3/envs/vin/bin/:$PATH"; cd /home/fenris/work/IN\ -\ vInnovate/'
-alias arima='conda activate arima;export PATH="/home/fenris/Apps/anaconda3/envs/arima/bin/:$PATH"; cd /home/fenris/work/IN\ -\ Arima'
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>
@@ -202,16 +180,15 @@ alias pins='pip3 install '
 # easy edits
 alias vimrc='nvim ~/.vimrc'
 alias bashrc='nvim ~/.bashrc'
-alias zshrc='nvim ~/.zshrc'
 alias vim='nvim'
 
 # pacman shortcuts
-alias ins='sudo pacman -S --needed --color always'
-alias insy='yay -S --color always'
-alias unins='sudo pacman -Rsu --color always'
-alias uninsy='yay -Rsu --color always'
-alias update='sudo pacman -Syu --color always'
-alias updatey='yay -Sua --noconfirm --color always'              # update only AUR pkgs (yay)
+alias ins='sudo pacman -S --needed'
+alias insy='yay -S '
+alias unins='sudo pacman -Rsu '
+alias uninsy='yay -Rsu'
+alias update='sudo pacman -Syu'
+alias updatey='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 alias tlmgr='tllocalmgr install'
 
@@ -257,7 +234,7 @@ alias btimecc='systemd-analyze critical-chain'
 alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
-alias igsync='dark;cd .scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --highlights --igtv -s --login xoxo_steffany_oxox'
+alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --igtv --highlights -s --login xoxo_steffany_oxox'
 
 # timer app
 timer() {
@@ -265,19 +242,3 @@ timer() {
         (sleep $N && mpg123 -q /home/fenris/Apps/dotfiles/monkey.mp3) &&
         echo "timer set for $N"
 }
-
-# ESP-IDF for ESP32 
-alias idfBegin='idf.py set-target esp32;idf.py menuconfig --style monochrome'
-alias idfBuild='idf.py build'
-alias idfFlash='idf.py -p /dev/ttyUSB0 -b 460800 flash'
-alias idfMonitor='idf.py -p /dev/ttyUSB0 monitor'
-
-# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
-# Load Elixir Support
-
-alias loadex='. $HOME/.asdf/asdf.sh;. $HOME/.asdf/completions/asdf.bash'
-
-export LC_CTYPE=en_IN.UTF-8
-export LC_ALL=en_IN.UTF-8

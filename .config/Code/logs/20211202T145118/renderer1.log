@@ -1,6 +1,0 @@
-[2021-12-02 14:51:29.270] [renderer1] [info] Starting extension host with pid 1339.
-[2021-12-02 14:51:29.271] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 23 ms.
-[2021-12-02 14:51:31.107] [renderer1] [error] [Extension Host] (node:1339) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-12-02 14:51:35.325] [renderer1] [info] Enabling inspect port on extension host with pid 1339.
-[2021-12-02 14:51:41.297] [renderer1] [warning] UNRESPONSIVE extension host, 'GitHub.vscode-pull-request-github' took 100% of 5267.546ms, saved PROFILE here: 'file:///tmp/exthost-c0a4f1.cpuprofile' [{"id":"gc","total":19784,"percentage":0},{"id":"GitHub.vscode-pull-request-github","total":5246722,"percentage":100},{"id":"self","total":796,"percentage":0}]

@@ -31,7 +31,7 @@ IconSize=64
 UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=616
+LVDS1 Height 1366x768=532
 LVDS1 Width 1366x768=479
 
 [MainWindow]
@@ -51,7 +51,7 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=code,kchm,gwen,mkv,vim,vlc
+History=oku,code,kchm,gwen,mkv,vim,vlc
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
@@ -62,3 +62,7 @@ LVDS1 Width 1366x768=589
 
 [VersionControl]
 enabledPlugins=Git
+
+[ViewPropertiesDialog]
+LVDS1 Height 1366x768=464
+LVDS1 Width 1366x768=375

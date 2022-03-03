@@ -1,8 +1,8 @@
 [General]
-ColorScheme=Layan
+ColorScheme=BreezeDark
 
 [Icons]
-Theme=Tela
+Theme=breeze-dark
 
 [KDE]
 widgetStyle=kvantum-dark
