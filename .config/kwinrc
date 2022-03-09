@@ -11,6 +11,12 @@ Name_1=Default
 Number=1
 Rows=1
 
+[Effect-Blur]
+NoiseStrength=14
+
+[Effect-MouseMark]
+Color=116,235,227
+
 [Effect-PresentWindows]
 BorderActivateAll=9
 
@@ -27,6 +33,7 @@ desktopchangeosdEnabled=true
 diminactiveEnabled=true
 forceblurEnabled=true
 glideEnabled=true
+krohnkiteEnabled=false
 kwin4_effect_dimscreenEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_fadedesktopEnabled=true
@@ -36,16 +43,23 @@ kwin4_effect_translucencyEnabled=true
 kwin4_effect_windowapertureEnabled=false
 magiclampEnabled=true
 minimizeallEnabled=false
+mouseclickEnabled=true
+mousemarkEnabled=true
 overviewEnabled=true
 resizeEnabled=true
 screenedgeEnabled=false
 sheetEnabled=true
 slideEnabled=false
 slidebackEnabled=true
+snaphelperEnabled=true
 synchronizeskipswitcherEnabled=true
 thumbnailasideEnabled=true
 videowallEnabled=false
 wobblywindowsEnabled=true
+
+[Script-forceblur]
+blurContent=true
+patterns=yakuake\nurxvt\nkeepassxc\ncode
 
 [TabBox]
 BorderActivate=9

@@ -1,3 +1,15 @@
-2022/03/03-19:29:29.494 1865 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
-2022/03/03-19:29:29.494 1865 Recovering log #44
-2022/03/03-19:29:29.497 1865 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000044.log 
+2022/03/09-09:49:02.612 6d97 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/MANIFEST-000001
+2022/03/09-09:49:02.613 6d97 Recovering log #526
+2022/03/09-09:49:02.613 6d97 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000526.log 
+2022/03/09-09:56:05.976 95cc Compacting 1@0 + 1@1 files
+2022/03/09-09:56:06.257 95cc Generated table #529@0: 50 keys, 79302 bytes
+2022/03/09-09:56:06.257 95cc Compacted 1@0 + 1@1 files => 79302 bytes
+2022/03/09-09:56:06.633 95cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/09-09:56:06.634 95cc Delete type=2 #527
+2022/03/09-09:56:06.634 95cc Delete type=2 #525
+2022/03/09-10:12:08.624 943e Level-0 table #531: started
+2022/03/09-10:12:09.103 943e Level-0 table #531: 361159 bytes OK
+2022/03/09-10:12:09.342 943e Delete type=0 #526
+2022/03/09-10:16:40.040 952a Level-0 table #533: started
+2022/03/09-10:16:40.344 952a Level-0 table #533: 350031 bytes OK
+2022/03/09-10:16:40.673 952a Delete type=0 #530

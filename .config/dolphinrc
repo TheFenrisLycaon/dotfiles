@@ -1,3 +1,5 @@
+MenuBar=Disabled
+
 [CompactMode]
 FontWeight=50
 
@@ -28,30 +30,35 @@ ViewPropsTimestamp=2021,11,18,0,50,5.464
 FontFamily=Monospace
 FontWeight=50
 IconSize=64
+PreviewSize=80
 UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=532
+LVDS1 Height 1366x768=616
 LVDS1 Width 1366x768=479
 
 [MainWindow]
-LVDS1 Height 1366x768=768
-LVDS1 Width 1366x768=1366
+LVDS1 Height 1366x768=512
+LVDS1 Width 1366x768=910
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=0
+LVDS1 XPosition 1366x768=683
 LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
 RestorePositionForNextInstance=false
 ToolBarsMovable=Disabled
 
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
 [Notification Messages]
 ConfirmDelete=true
+ConfirmEmptyTrash=true
 ConfirmHide=true
 ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=oku,code,kchm,gwen,mkv,vim,vlc
+History=mkv,mkvt,oku,code,kchm,gwen,vim,vlc
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
@@ -59,6 +66,9 @@ Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail
 [SettingsDialog]
 LVDS1 Height 1366x768=438
 LVDS1 Width 1366x768=589
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
 
 [VersionControl]
 enabledPlugins=Git

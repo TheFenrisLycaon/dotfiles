@@ -9,4 +9,5 @@ WallpaperPlugin=org.kde.slideshow
 
 [Greeter][Wallpaper][org.kde.slideshow][General]
 SlideInterval=60
-SlidePaths=/usr/share/wallpapers,/home/fenris/Pictures/Wallpapers
+SlidePaths=/home/fenris/Pictures/wallpaper
+SlideshowMode=1

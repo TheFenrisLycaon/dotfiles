@@ -1,12 +1,12 @@
-2022/03/03-17:52:03.986 1c70 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/03-17:52:03.986 1c70 Recovering log #39
-2022/03/03-17:52:04.279 1c70 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
-2022/03/03-18:09:37.661 1dd2 Level-0 table #44: started
-2022/03/03-18:09:37.782 1dd2 Level-0 table #44: 1064064 bytes OK
-2022/03/03-18:09:37.842 1dd2 Delete type=0 #39
-2022/03/03-18:27:16.835 2045 Compacting 1@1 + 1@2 files
-2022/03/03-18:27:16.930 2045 Generated table #45@1: 414 keys, 28699 bytes
-2022/03/03-18:27:16.930 2045 Compacted 1@1 + 1@2 files => 28699 bytes
-2022/03/03-18:27:16.960 2045 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/03/03-18:27:16.960 2045 Delete type=2 #44
-2022/03/03-18:27:16.960 2045 Delete type=2 #41
+2022/03/07-10:07:25.432 18f6e Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/07-10:07:25.432 18f6e Recovering log #58
+2022/03/07-10:07:25.432 18f6e Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000058.log 
+2022/03/07-10:28:02.677 1925d Level-0 table #63: started
+2022/03/07-10:28:02.973 1925d Level-0 table #63: 1023973 bytes OK
+2022/03/07-10:28:03.168 1925d Delete type=0 #58
+2022/03/07-10:29:38.564 18f6a Compacting 1@1 + 1@2 files
+2022/03/07-10:29:38.748 18f6a Generated table #64@1: 427 keys, 38159 bytes
+2022/03/07-10:29:38.748 18f6a Compacted 1@1 + 1@2 files => 38159 bytes
+2022/03/07-10:29:38.905 18f6a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/07-10:29:38.905 18f6a Delete type=2 #60
+2022/03/07-10:29:38.905 18f6a Delete type=2 #63

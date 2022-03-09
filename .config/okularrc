@@ -10,19 +10,25 @@ LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=683
 LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAAK6AAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Apps/dotfiles/brave.phrase
-File2[$e]=$HOME/.conda/environments.txt
-File3[$e]=$HOME/Apps/dotfiles/autoUpdate.sh
-File4[$e]=$HOME/Work/Sem6/Minor_Proj/proposal.pdf
-File5[$e]=$HOME/Work/Sem6/Cloud_Computing_and_IoT/Theory/Unit-I.pdf
-File6[$e]=$HOME/Apps/dotfiles/README.md
-Name1[$e]=brave.phrase
-Name2[$e]=environments.txt
-Name3[$e]=autoUpdate.sh
-Name4[$e]=proposal.pdf
-Name5[$e]=Unit-I.pdf
-Name6[$e]=README.md
+File1[$e]=$HOME/Documents/19BCS4662_UDITA_resume.pdf
+File2[$e]=$HOME/Documents/Git.pdf
+File3[$e]=$HOME/Documents/LecturePlan_CS207_CSD-384.pdf
+File4[$e]=$HOME/Documents/Marksheet_Rishabh.pdf
+File5[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/singleCSV/Readme.md
+File6[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/csvfiles/Readme.md
+File7[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/Readme.md
+File8[$e]=$HOME/Work/Projects/forecast-aftershock-location/README.md
+File9[$e]=/run/media/fenris/Media/.Trash-1000/directorysizes
+Name1[$e]=19BCS4662_UDITA_resume.pdf
+Name2[$e]=Git.pdf
+Name3[$e]=LecturePlan_CS207_CSD-384.pdf
+Name4[$e]=Marksheet_Rishabh.pdf
+Name5[$e]=Readme.md
+Name6[$e]=Readme.md
+Name7[$e]=Readme.md
+Name8[$e]=README.md
+Name9[$e]=directorysizes

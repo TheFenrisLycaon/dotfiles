@@ -1,58 +1,62 @@
 [
 	{
-		"fullPath": "/home/fenris/work/IN - vInnovate/MonoPort",
-		"name": "MonoPort"
+		"fullPath": "/home/fenris/Work/PlacePrep",
+		"name": "PlacePrep"
 	},
 	{
-		"fullPath": "/home/fenris/work/IN - vInnovate/PIFu",
-		"name": "PIFu"
+		"fullPath": "/home/fenris/Work/3D/PIfuxZ",
+		"name": "PIfuxZ"
 	},
 	{
-		"fullPath": "/home/fenris/work/IN - vInnovate/pifuhd",
-		"name": "pifuhd"
-	},
-	{
-		"fullPath": "/home/fenris/work/Projects/Games",
+		"fullPath": "/home/fenris/Work/Projects/Games",
 		"name": "Games"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/HeartMeOut",
-		"name": "HeartMeOut"
+		"fullPath": "/home/fenris/Work/Projects/forecast-aftershock-location",
+		"name": "forecast-aftershock-location"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/RandomScripts",
-		"name": "RandomScripts"
+		"fullPath": "/home/fenris/Work/Projects/mooshell",
+		"name": "mooshell"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/Shivalika",
+		"fullPath": "/home/fenris/Work/Projects/Shivalika",
 		"name": "Shivalika"
 	},
 	{
-		"fullPath": "/home/fenris/work/dead/Music with Faces",
-		"name": "Music with Faces"
+		"fullPath": "/home/fenris/Work/Projects/rrgen",
+		"name": "rrgen"
 	},
 	{
-		"fullPath": "/home/fenris/work/dead/DSA-C--",
-		"name": "DSA-C--"
-	},
-	{
-		"fullPath": "/home/fenris/work/dead/TheFenrisLycaon",
-		"name": "TheFenrisLycaon"
-	},
-	{
-		"fullPath": "/home/fenris/work/dead/University",
+		"fullPath": "/home/fenris/Work/dead/University",
 		"name": "University"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/Leddit/Leddit",
+		"fullPath": "/home/fenris/Work/dead/Music with Faces",
+		"name": "Music with Faces"
+	},
+	{
+		"fullPath": "/home/fenris/Work/dead/TheFenrisLycaon",
+		"name": "TheFenrisLycaon"
+	},
+	{
+		"fullPath": "/home/fenris/Work/Projects/AfterShock/AfterShock",
+		"name": "AfterShock"
+	},
+	{
+		"fullPath": "/home/fenris/Work/Projects/AfterShock/AfterShock-node",
+		"name": "AfterShock-node"
+	},
+	{
+		"fullPath": "/home/fenris/Work/Projects/Leddit/Leddit",
 		"name": "Leddit"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/Leddit/lireddit",
+		"fullPath": "/home/fenris/Work/Projects/Leddit/lireddit",
 		"name": "lireddit"
 	},
 	{
-		"fullPath": "/home/fenris/work/Projects/eYrc/Task1/elixir-toy-robot-kata",
-		"name": "elixir-toy-robot-kata"
+		"fullPath": "/home/fenris/Work/Projects/AfterShock/AfterShock-react",
+		"name": "AfterShock-react"
 	}
 ]

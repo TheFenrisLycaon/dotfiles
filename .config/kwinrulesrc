@@ -1,11 +1,24 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
+[0f5592f6-db71-4d37-9fb9-e438d12c03ac]
+Description=New window settings
+noborder=true
+noborderrule=2
+opacityactive=95
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+types=65809
+wmclassmatch=2
+
 [1]
 Description=Application settings for vlc
 clientmachine=localhost
 noborder=true
 noborderrule=3
+opacityactive=100
+opacityactiverule=2
 wmclass=vlc
 wmclassmatch=1
 
@@ -22,6 +35,8 @@ Description=Application settings for brave-browser
 clientmachine=localhost
 noborder=true
 noborderrule=3
+opacityactive=100
+opacityactiverule=2
 wmclass=brave-browser
 wmclassmatch=1
 
@@ -38,6 +53,8 @@ Description=Application settings for code
 clientmachine=localhost
 noborder=true
 noborderrule=3
+opacityactive=100
+opacityactiverule=2
 wmclass=code
 wmclassmatch=1
 
@@ -49,9 +66,30 @@ noborderrule=3
 wmclass=konsole
 wmclassmatch=1
 
+[7]
+Description=Notion
+decocolor=BreezeDark
+decocolorrule=2
+maxsize=32767,32767
+maxsizerule=2
+wmclass=notion
+wmclasscomplete=true
+wmclassmatch=3
+
+[9ec4a032-6cb1-42d6-8f96-51384e89bb29]
+Description=New window settings
+noborder=true
+noborderrule=2
+opacityactive=95
+opacityactiverule=2
+opacityinactive=50
+opacityinactiverule=2
+types=65809
+wmclassmatch=2
+
 [General]
-count=5
-rules=1,2,3,4,5
+count=6
+rules=1,2,3,4,5,0f5592f6-db71-4d37-9fb9-e438d12c03ac
 
 [a6411014-1971-444e-ba35-4ae135372a04]
 Description=Application settings for dolphin

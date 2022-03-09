@@ -1,6 +1,6 @@
 {
     "explorer.confirmDelete": false,
-    "python.pythonPath": "/home/fenris/Apps/anaconda3/bin/python",
+    "python.pythonPath": "/home/fenris/.condahome/bin/python",
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
@@ -15,7 +15,7 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "python.formatting.provider": "autopep8",
+    "python.formatting.provider": "black",
     "better-comments.multilineComments": true,
     "editor.overviewRulerBorder": false,
     // "window.titleBarStyle": "custom",
@@ -44,8 +44,8 @@
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
     "workbench.list.smoothScrolling": true,
-    "workbench.preferredDarkColorTheme": "Pitch Black",
-    "workbench.preferredLightColorTheme": "Pitch Black",
+    "workbench.preferredDarkColorTheme": "Community Material Theme Darker High Contrast",
+    "workbench.preferredLightColorTheme": "Community Material Theme Darker High Contrast",
     "workbench.editor.closeOnFileDelete": true,
     "window.newWindowDimensions": "fullscreen",
     "terminal.integrated.fontFamily": "MesloLGS NF",
@@ -54,11 +54,8 @@
     "editor.cursorSmoothCaretAnimation": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
-    "projectManager.git.baseFolders": [
-        "/home/fenris/work/"
-    ],
     "editor.autoClosingBrackets": "always",
-    "python.defaultInterpreterPath": "/home/fenris/Apps/anaconda3/bin/python",
+    "python.defaultInterpreterPath": "/home/fenris/.condahome/bin/python",
     "workbench.productIconTheme": "material-product-icons",
     "terminal.integrated.inheritEnv": false,
     "editor.renderControlCharacters": true,
@@ -214,4 +211,13 @@
     "editor.inlineSuggest.enabled": true,
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "workbench.iconTheme": "material-icon-theme",
+    "projectManager.git.maxDepthRecursion": 99,
+    "editor.defaultFormatter": "ms-python.python",
+    "projectManager.git.baseFolders": [
+        "/home/fenris/Work"
+    ],
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
 }

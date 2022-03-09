@@ -1,3 +1,10 @@
+## Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -8,7 +15,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="awesomepanda"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -115,9 +122,7 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # Conda Virtual Envs
-alias ML='conda activate ML;export PATH="/home/fenris/Apps/anaconda3/envs/ML/bin/:$PATH"'
-alias web='conda activate webapp;export PATH="/home/fenris/Apps/anaconda3/envs/webapp/bin/:$PATH"'
-alias gui='conda activate gui;export PATH="/home/fenris/Apps/anaconda3/envs/gui/bin/:$PATH"'
+alias uni='conda activate Uni;export PATH="/home/fenris/.condahome/envs/Uni/bin/:$PATH"'
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>
@@ -172,23 +177,23 @@ alias dg='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris'
 alias dga='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris add'
 alias dgc='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris commit -m '
 alias dgp='/usr/bin/git --git-dir=/home/fenris/.cfg/ --work-tree=/home/fenris push'
+alias dupdate='~/Apps/dotfiles/autoUpdate.sh'
 
 # python
 alias pp='python3'
 alias pins='pip3 install '
 
 # easy edits
-alias vimrc='nvim ~/.vimrc'
-alias bashrc='nvim ~/.bashrc'
-alias vim='nvim'
+alias vimrc='vim ~/.vimrc'
+alias bashrc='vim ~/.bashrc'
 
 # pacman shortcuts
 alias ins='sudo pacman -S --needed'
-alias insy='yay -S '
+alias insy='paru -S '
 alias unins='sudo pacman -Rsu '
-alias uninsy='yay -Rsu'
+alias uninsy='paru -Rsu'
 alias update='sudo pacman -Syu'
-alias updatey='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
+alias updatey='paru -Sua --noconfirm'              # update only AUR pkgs (paru)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 alias tlmgr='tllocalmgr install'
 
@@ -219,9 +224,8 @@ alias ytv="youtube-dl -f bestvideo+bestaudio "
 alias rr='curl -s -L https://bit.ly/2VRgukx | bash'
 
 # shortcuts
-alias cleanup='sudo bash /etc/init.d/cleanup.sh'
+alias cleanup='sudo bash /home/fenris/Apps/Arch-Cleaner/cleanup.sh'
 alias r='clear;sudo -s'
-alias dark='cd ~/Apps/tools; conda activate xxx;export PATH="/home/fenris/Apps/anaconda3/envs/xxx/bin/:$PATH"'
 alias jyp='jupyter notebook'
 alias bye='shutdown now'
 alias nf='c;neofetch'
@@ -234,7 +238,6 @@ alias btimecc='systemd-analyze critical-chain'
 alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
-alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --igtv --highlights -s --login xoxo_steffany_oxox'
 
 # timer app
 timer() {
@@ -242,3 +245,6 @@ timer() {
         (sleep $N && mpg123 -q /home/fenris/Apps/dotfiles/monkey.mp3) &&
         echo "timer set for $N"
 }
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

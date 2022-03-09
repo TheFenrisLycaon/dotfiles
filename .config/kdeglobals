@@ -136,8 +136,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=811,598
-History Items[$e]=file:$HOME/Work/dead/University/Semester6,file:$HOME/Pictures/wallpaper,file:$HOME/work/dead/University/Semester6,file:$HOME/work/IN - Arima/ANPR/weights,file:$HOME/work/IN - Arima/ANPR/samples,file:$HOME/work/IN - Arima/ANPR/notebooks,file:$HOME/work/IN - Arima/ANPR/darknet,file:$HOME/work/IN - Arima/liveMain/live2/templates,file:$HOME/work/IN - Arima/liveMain/live3/templates,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
+DirSelectDialog Size=816,598
+History Items[$e]=file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Work/dead/University/Semester6,file:$HOME/Pictures/wallpaper,file:$HOME/work/dead/University/Semester6,file:$HOME/work/IN - Arima/ANPR/weights,file:$HOME/work/IN - Arima/ANPR/samples,file:$HOME/work/IN - Arima/ANPR/notebooks,file:$HOME/work/IN - Arima/ANPR/darknet,file:$HOME/work/IN - Arima/liveMain/live2/templates,file:$HOME/work/IN - Arima/liveMain/live3/templates,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
 
 [General]
 AccentColor=184,117,220

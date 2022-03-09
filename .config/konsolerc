@@ -36,4 +36,5 @@ SplitViewVisibility=AlwaysHideSplitHeader
 TabBarVisibility=AlwaysHideTabBar
 
 [UiSettings]
-ColorScheme=Default
+ColorScheme=Breeze Dark
+WindowColorScheme=Breeze Dark

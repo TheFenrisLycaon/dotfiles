@@ -24,42 +24,20 @@ PreloadWeight=0
 [Containments][2][Applets][24][Configuration][General]
 length=1181
 
-[Containments][2][Applets][25]
-immutability=1
-plugin=org.kde.plasma.kicker
-
-[Containments][2][Applets][25][Configuration]
-PreloadWeight=100
-
-[Containments][2][Applets][25][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][25][Configuration][General]
-alphaSort=true
-customButtonImage=bluegriffon
-favoritesPortedToKAstats=true
-limitDepth=true
-showRecentApps=false
-showRecentDocs=false
-useCustomButtonImage=true
-
-[Containments][2][Applets][25][Shortcuts]
-global=Alt+F1
-
 [Containments][2][Applets][27]
 immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][2][Applets][27][Configuration]
-PreloadWeight=5
+PreloadWeight=30
 
 [Containments][2][Applets][27][Configuration][Appearance]
 boldText=true
-customDateFormat=ddd dd MMM,yy
+customDateFormat=ddd, ddMM
 dateFormat=customDate
+enabledCalendarPlugins=/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so
 fixedFont=true
-fontFamily=Monospace
+fontFamily=MesloLGS NF
 fontSize=12
 use24hFormat=2
 
@@ -102,16 +80,6 @@ noWindowText=
 noWindowType=text
 textType=1
 
-[Containments][2][Applets][48]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][2][Applets][48][Configuration]
-PreloadWeight=0
-
-[Containments][2][Applets][48][Configuration][General]
-launchers=
-
 [Containments][2][Applets][49]
 immutability=1
 plugin=org.kde.plasma.panelspacer
@@ -127,7 +95,7 @@ immutability=1
 plugin=org.kde.plasma.bigSur-inlineBattery
 
 [Containments][2][Applets][54][Configuration]
-PreloadWeight=75
+PreloadWeight=100
 
 [Containments][2][Applets][54][Configuration][ConfigDialog]
 DialogHeight=540
@@ -137,6 +105,42 @@ DialogWidth=720
 fontSize=10
 showPercentage=false
 
+[Containments][2][Applets][56]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][2][Applets][56][Configuration]
+PreloadWeight=100
+
+[Containments][2][Applets][56][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][56][Configuration][General]
+alphaSort=true
+customButtonImage=thedarkmod
+favoritesPortedToKAstats=true
+limitDepth=true
+showRecentApps=false
+showRecentDocs=false
+useCustomButtonImage=true
+
+[Containments][2][Applets][56][Shortcuts]
+global=Alt+F1
+
+[Containments][2][Applets][57]
+immutability=1
+plugin=org.kde.plasma.icontasks
+
+[Containments][2][Applets][57][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][57][Configuration][General]
+groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop
+groupingLauncherUrlBlacklist=applications:brave-browser.desktop,applications:notion-app-enhanced.desktop
+launchers=preferred://filemanager,preferred://browser,applications:visual-studio-code.desktop,applications:vlc.desktop
+
 [Containments][2][ConfigDialog]
 DialogHeight=84
 DialogWidth=1366
@@ -145,7 +149,7 @@ DialogWidth=1366
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=25;44;24;48;49;54;28;27
+AppletOrder=56;57;44;24;27;49;28;54
 
 [Containments][29]
 activityId=
@@ -186,7 +190,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][29][Applets][36][Configuration]
-PreloadWeight=75
+PreloadWeight=100
 
 [Containments][29][Applets][37][Configuration]
 PreloadWeight=42
@@ -196,7 +200,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][29][Applets][38][Configuration]
-PreloadWeight=10
+PreloadWeight=20
 
 [Containments][29][Applets][38][Configuration][General]
 raiseMaximumVolume=true
@@ -230,7 +234,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=12
+PreloadWeight=22
 
 [Containments][29][Applets][50]
 immutability=1
@@ -250,8 +254,7 @@ PreloadWeight=0
 extraItems=org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement
 hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc,Plasma_microphone,org.kde.plasma.mediacontroller,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,org.kde.ktp-contactlist
 knownItems=org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement
-scaleIconsToFit=true
-shownItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement
+shownItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.notifications
 
 [Containments][47]
 ItemGeometries-1366x768=
@@ -280,12 +283,14 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen0919.jpg
-SlideInterval=60
+Image=file:///home/fenris/Pictures/wallpaper/Screen1155.jpg
+SlideInterval=15
 SlidePaths=/home/fenris/Pictures/wallpaper
 SlideshowFoldersFirst=true
 
 [Containments][51]
+ItemGeometries-1366x768=Applet-61:1152,0,192,256,0;Applet-59:1152,256,192,272,0;Applet-60:1152,528,192,240,0;
+ItemGeometriesHorizontal=Applet-61:1152,0,192,256,0;Applet-59:1152,256,192,272,0;Applet-60:1152,528,192,240,0;
 activityId=654bc312-e56a-4854-a7ce-bb376be6b56f
 formfactor=0
 immutability=1
@@ -294,19 +299,110 @@ location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.slideshow
 
+[Containments][51][Applets][58][Configuration][SensorColors]
+cpu/all/usage=64,107,89
+memory/physical/used=89,64,107
+
+[Containments][51][Applets][58][Configuration][Sensors]
+highPrioritySensorIds=["memory/physical/used","cpu/all/usage"]
+
+[Containments][51][Applets][59]
+immutability=1
+plugin=org.kde.plasma.systemmonitor
+
+[Containments][51][Applets][59][Configuration]
+UserBackgroundHints=ShadowBackground
+
+[Containments][51][Applets][59][Configuration][Appearance]
+chartFace=org.kde.ksysguard.piechart
+title=Total CPU Use
+
+[Containments][51][Applets][59][Configuration][SensorColors]
+cpu/all/usage=89,64,107
+
+[Containments][51][Applets][59][Configuration][Sensors]
+highPrioritySensorIds=["cpu/all/usage"]
+lowPrioritySensorIds=["cpu/all/cpuCount","cpu/all/coreCount"]
+totalSensors=["cpu/all/usage"]
+
+[Containments][51][Applets][60]
+immutability=1
+plugin=org.kde.plasma.systemmonitor
+
+[Containments][51][Applets][60][Configuration]
+UserBackgroundHints=ShadowBackground
+
+[Containments][51][Applets][60][Configuration][Appearance]
+chartFace=org.kde.ksysguard.linechart
+title=Network speed
+
+[Containments][51][Applets][60][Configuration][SensorColors]
+network/all/download=89,64,107
+network/all/upload=82,107,64
+
+[Containments][51][Applets][60][Configuration][Sensors]
+highPrioritySensorIds=["network/all/download","network/all/upload"]
+
+[Containments][51][Applets][61]
+immutability=1
+plugin=org.kde.plasma.systemmonitor
+
+[Containments][51][Applets][61][Configuration]
+UserBackgroundHints=ShadowBackground
+
+[Containments][51][Applets][61][Configuration][Appearance]
+chartFace=org.kde.ksysguard.piechart
+title=Memory Usage
+
+[Containments][51][Applets][61][Configuration][SensorColors]
+memory/physical/used=89,64,107
+
+[Containments][51][Applets][61][Configuration][Sensors]
+highPrioritySensorIds=["memory/physical/used"]
+lowPrioritySensorIds=["memory/physical/total"]
+totalSensors=["memory/physical/usedPercent"]
+
 [Containments][51][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
+DialogHeight=768
+DialogWidth=1366
 
 [Containments][51][Configuration]
 PreloadWeight=0
+
+[Containments][51][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=272
 
 [Containments][51][Wallpaper][org.kde.image][General]
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][51][Wallpaper][org.kde.slideshow][General]
-Image=file:///usr/share/wallpapers/Next/
-SlidePaths=/home/fenris/.local/share/wallpapers,/home/fenris/Pictures/Wallpapers
+Image=file:///home/fenris/Pictures/wallpaper/Screen0276.jpg
+SlidePaths=/home/fenris/Pictures/wallpaper
+
+[Containments][65]
+ItemGeometries-1366x768=
+ItemGeometriesHorizontal=
+activityId=cf4cfcea-0626-4a0f-9dde-8c9b6d2f1a04
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.slideshow
+
+[Containments][65][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][65][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.jpg
+SlidePaths=/usr/share/wallpapers
+
+[Containments][65][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/fenris/Pictures/wallpaper/Screen0824.jpg
+SlideInterval=60
+SlidePaths=/home/fenris/Pictures/wallpaper
 
 [Containments2Appletsts][45][Configuration][General]
 bold=true
@@ -315,5 +411,5 @@ noWindowType=text
 textType=1
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,7,desktop:/Apps,desktop:/Documents,desktop:/Music,desktop:/work,desktop:/Videos,desktop:/Downloads,desktop:/Pictures
+itemsOnDisabledScreens=0,9,desktop:/Music,desktop:/Downloads,desktop:/Videos,desktop:/Apps,desktop:/Documents,desktop:/Work,desktop:/work,desktop:/Pictures,desktop:/Misc
 screenMapping=

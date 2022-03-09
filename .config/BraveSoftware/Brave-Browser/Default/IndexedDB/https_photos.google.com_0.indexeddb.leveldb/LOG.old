@@ -1,3 +1,22 @@
-2022/02/06-16:12:41.329 abba Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/02/06-16:12:41.330 abba Recovering log #165
-2022/02/06-16:12:41.330 abba Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000165.log 
+2022/03/04-11:11:49.355 1a5c Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/04-11:11:49.356 1a5c Recovering log #214
+2022/03/04-11:11:49.370 1a5c Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000214.log 
+2022/03/04-11:11:56.565 18ba Compacting 1@1 + 6@2 files
+2022/03/04-11:11:56.686 18ba Generated table #219@1: 2975 keys, 2144263 bytes
+2022/03/04-11:11:56.778 18ba Generated table #220@1: 2781 keys, 2144712 bytes
+2022/03/04-11:11:56.862 18ba Generated table #221@1: 2784 keys, 2144465 bytes
+2022/03/04-11:11:57.016 18ba Generated table #222@1: 2781 keys, 2141372 bytes
+2022/03/04-11:11:57.163 18ba Generated table #223@1: 8782 keys, 2150648 bytes
+2022/03/04-11:11:57.407 18ba Generated table #224@1: 19598 keys, 1997831 bytes
+2022/03/04-11:11:57.407 18ba Compacted 1@1 + 6@2 files => 12723291 bytes
+2022/03/04-11:11:57.439 18ba compacted to: files[ 0 1 16 0 0 0 0 ]
+2022/03/04-11:11:57.440 18ba Delete type=2 #217
+2022/03/04-11:11:57.441 18ba Delete type=2 #213
+2022/03/04-11:11:57.441 18ba Delete type=2 #212
+2022/03/04-11:11:57.441 18ba Delete type=2 #210
+2022/03/04-11:11:57.441 18ba Delete type=2 #211
+2022/03/04-11:11:57.441 18ba Delete type=2 #208
+2022/03/04-11:11:57.441 18ba Delete type=2 #209
+2022/03/04-11:12:03.455 18ae Level-0 table #226: started
+2022/03/04-11:12:03.569 18ae Level-0 table #226: 2424217 bytes OK
+2022/03/04-11:12:03.615 18ae Delete type=0 #214

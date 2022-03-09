@@ -1,24 +1,101 @@
-2022/03/03-14:41:05.213 11c2 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/03-14:41:05.214 11c2 Recovering log #296
-2022/03/03-14:41:05.242 11c2 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000296.log 
-2022/03/03-15:51:50.712 11a8 Level-0 table #307: started
-2022/03/03-15:51:50.833 11a8 Level-0 table #307: 1949530 bytes OK
-2022/03/03-15:51:50.891 11a8 Delete type=0 #296
-2022/03/03-15:57:08.647 1290 Compacting 1@0 + 1@1 files
-2022/03/03-15:57:08.760 1290 Generated table #308@0: 11832 keys, 2158122 bytes
-2022/03/03-15:57:08.810 1290 Generated table #309@0: 910 keys, 236795 bytes
-2022/03/03-15:57:08.810 1290 Compacted 1@0 + 1@1 files => 2394917 bytes
-2022/03/03-15:57:08.935 1290 compacted to: files[ 0 2 5 0 0 0 0 ]
-2022/03/03-15:57:08.936 1290 Delete type=2 #302
-2022/03/03-15:57:08.936 1290 Delete type=2 #307
-2022/03/03-16:17:36.573 1179 Compacting 1@1 + 4@2 files
-2022/03/03-16:17:36.678 1179 Generated table #310@1: 1388 keys, 2148197 bytes
-2022/03/03-16:17:36.787 1179 Generated table #311@1: 12215 keys, 2165756 bytes
-2022/03/03-16:17:36.905 1179 Generated table #312@1: 22491 keys, 1772718 bytes
-2022/03/03-16:17:36.905 1179 Compacted 1@1 + 4@2 files => 6086671 bytes
-2022/03/03-16:17:36.939 1179 compacted to: files[ 0 1 4 0 0 0 0 ]
-2022/03/03-16:17:36.940 1179 Delete type=2 #304
-2022/03/03-16:17:36.940 1179 Delete type=2 #299
-2022/03/03-16:17:36.940 1179 Delete type=2 #303
-2022/03/03-16:17:36.940 1179 Delete type=2 #308
-2022/03/03-16:17:36.940 1179 Delete type=2 #298
+2022/03/08-13:40:28.386 43c2 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/08-13:40:28.387 43c2 Recovering log #468
+2022/03/08-13:40:29.907 43c2 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000468.log 
+2022/03/08-13:40:45.599 43bc Level-0 table #476: started
+2022/03/08-13:40:46.068 43bc Level-0 table #476: 1165772 bytes OK
+2022/03/08-13:40:46.573 43bc Delete type=0 #468
+2022/03/08-13:40:51.066 43bc Compacting 1@1 + 4@2 files
+2022/03/08-13:40:53.655 43bc Generated table #477@1: 1354 keys, 2146119 bytes
+2022/03/08-13:40:54.375 43bc Generated table #478@1: 11409 keys, 2165082 bytes
+2022/03/08-13:40:55.901 43bc Generated table #479@1: 26024 keys, 2262510 bytes
+2022/03/08-13:40:56.886 43bc Generated table #480@1: 4213 keys, 919703 bytes
+2022/03/08-13:40:56.886 43bc Compacted 1@1 + 4@2 files => 7493414 bytes
+2022/03/08-13:40:57.121 43bc compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/03/08-13:45:26.292 4360 Level-0 table #482: started
+2022/03/08-13:45:27.112 4360 Level-0 table #482: 1249137 bytes OK
+2022/03/08-13:45:27.923 4360 Delete type=2 #471
+2022/03/08-13:45:27.923 4360 Delete type=2 #476
+2022/03/08-13:45:27.923 4360 Delete type=0 #475
+2022/03/08-13:45:27.923 4360 Delete type=2 #472
+2022/03/08-13:45:27.923 4360 Delete type=2 #473
+2022/03/08-13:45:27.923 4360 Delete type=2 #470
+2022/03/08-14:02:18.560 4463 Compacting 1@1 + 4@2 files
+2022/03/08-14:02:20.480 4463 Generated table #483@1: 1356 keys, 2143682 bytes
+2022/03/08-14:02:21.519 4463 Generated table #484@1: 11421 keys, 2165923 bytes
+2022/03/08-14:02:22.000 4463 Generated table #485@1: 26066 keys, 2263230 bytes
+2022/03/08-14:02:25.526 4463 Generated table #486@1: 4254 keys, 945248 bytes
+2022/03/08-14:02:25.526 4463 Compacted 1@1 + 4@2 files => 7518083 bytes
+2022/03/08-14:02:26.515 4463 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/03/08-14:02:26.516 4463 Delete type=2 #479
+2022/03/08-14:02:26.516 4463 Delete type=2 #482
+2022/03/08-14:02:26.516 4463 Delete type=2 #477
+2022/03/08-14:02:26.516 4463 Delete type=2 #478
+2022/03/08-14:02:26.516 4463 Delete type=2 #480
+2022/03/08-14:42:26.702 4b45 Level-0 table #488: started
+2022/03/08-14:42:27.372 4b45 Level-0 table #488: 1228958 bytes OK
+2022/03/08-14:42:27.884 4b45 Delete type=0 #481
+2022/03/08-14:42:31.234 5298 Compacting 1@1 + 4@2 files
+2022/03/08-14:42:32.369 5298 Generated table #489@1: 1350 keys, 2145906 bytes
+2022/03/08-14:42:39.298 5298 Generated table #490@1: 11408 keys, 2164745 bytes
+2022/03/08-14:42:39.816 5298 Generated table #491@1: 26268 keys, 2263033 bytes
+2022/03/08-14:42:40.244 5298 Generated table #492@1: 4292 keys, 966222 bytes
+2022/03/08-14:42:40.244 5298 Compacted 1@1 + 4@2 files => 7539906 bytes
+2022/03/08-14:42:40.683 5298 compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/03/08-14:42:40.684 5298 Delete type=2 #485
+2022/03/08-14:42:40.685 5298 Delete type=2 #483
+2022/03/08-14:42:40.685 5298 Delete type=2 #488
+2022/03/08-14:42:40.685 5298 Delete type=2 #484
+2022/03/08-14:42:40.685 5298 Delete type=2 #486
+2022/03/08-14:44:42.021 51e6 Level-0 table #494: started
+2022/03/08-14:44:42.269 4b45 Current memtable full; waiting...
+2022/03/08-14:44:42.313 51e6 Level-0 table #494: 1597953 bytes OK
+2022/03/08-14:44:42.536 51e6 Delete type=0 #487
+2022/03/08-14:44:42.562 51e6 Level-0 table #496: started
+2022/03/08-14:44:42.777 51e6 Level-0 table #496: 2088155 bytes OK
+2022/03/08-14:44:42.998 51e6 Delete type=0 #493
+2022/03/08-14:44:43.001 4921 Compacting 1@1 + 4@2 files
+2022/03/08-14:44:43.088 4921 Level-0 table #498: started
+2022/03/08-14:44:43.623 4921 Level-0 table #498: 2087043 bytes OK
+2022/03/08-14:44:44.136 4921 Delete type=0 #495
+2022/03/08-14:44:44.520 4921 Generated table #499@1: 2269 keys, 2139174 bytes
+2022/03/08-14:44:44.909 4921 Generated table #500@1: 7348 keys, 2157466 bytes
+2022/03/08-14:44:45.640 4921 Generated table #501@1: 27079 keys, 2240818 bytes
+2022/03/08-14:44:46.558 4921 Generated table #502@1: 8074 keys, 1533217 bytes
+2022/03/08-14:44:46.558 4921 Compacted 1@1 + 4@2 files => 8070675 bytes
+2022/03/08-14:44:46.958 4921 compacted to: files[ 2 0 4 0 0 0 0 ]
+2022/03/08-14:44:46.959 4921 Delete type=2 #494
+2022/03/08-14:44:46.959 4921 Delete type=2 #490
+2022/03/08-14:44:46.959 4921 Delete type=2 #489
+2022/03/08-14:44:46.959 4921 Delete type=2 #492
+2022/03/08-14:44:46.959 4921 Delete type=2 #491
+2022/03/08-14:50:46.523 54d0 Level-0 table #504: started
+2022/03/08-14:50:47.253 54d0 Level-0 table #504: 1700655 bytes OK
+2022/03/08-14:50:47.691 54d0 Delete type=0 #497
+2022/03/08-14:50:48.318 54d1 Compacting 3@0 + 0@1 files
+2022/03/08-14:50:48.891 54d1 Generated table #505@0: 8889 keys, 2152499 bytes
+2022/03/08-14:50:49.184 54d1 Generated table #506@0: 4041 keys, 749938 bytes
+2022/03/08-14:50:49.184 54d1 Compacted 3@0 + 0@1 files => 2902437 bytes
+2022/03/08-14:50:49.587 54d1 compacted to: files[ 0 2 4 0 0 0 0 ]
+2022/03/08-14:50:49.587 54d1 Delete type=2 #504
+2022/03/08-14:50:49.588 54d1 Delete type=2 #498
+2022/03/08-14:50:49.588 54d1 Delete type=2 #496
+2022/03/08-14:50:49.608 4b45 Compacting 1@1 + 3@2 files
+2022/03/08-14:50:49.874 4b45 Generated table #507@1: 7373 keys, 2157944 bytes
+2022/03/08-14:50:50.387 4b45 Generated table #508@1: 26669 keys, 2243326 bytes
+2022/03/08-14:50:50.812 4b45 Generated table #509@1: 7620 keys, 1460061 bytes
+2022/03/08-14:50:50.813 4b45 Compacted 1@1 + 3@2 files => 5861331 bytes
+2022/03/08-14:50:51.166 4b45 compacted to: files[ 0 1 4 0 0 0 0 ]
+2022/03/08-14:50:51.166 4b45 Delete type=2 #502
+2022/03/08-14:50:51.166 4b45 Delete type=2 #506
+2022/03/08-14:50:51.166 4b45 Delete type=2 #500
+2022/03/08-14:50:51.166 4b45 Delete type=2 #501
+2022/03/08-15:44:49.294 63fa Level-0 table #511: started
+2022/03/08-15:44:49.893 63fa Level-0 table #511: 1086549 bytes OK
+2022/03/08-15:44:50.658 63fa Delete type=0 #503
+2022/03/08-15:51:10.042 6456 Compacting 1@0 + 1@1 files
+2022/03/08-15:51:10.382 6456 Generated table #512@0: 13995 keys, 2160212 bytes
+2022/03/08-15:51:10.490 6456 Generated table #513@0: 1239 keys, 141205 bytes
+2022/03/08-15:51:10.490 6456 Compacted 1@0 + 1@1 files => 2301417 bytes
+2022/03/08-15:51:10.634 6456 compacted to: files[ 0 2 4 0 0 0 0 ]
+2022/03/08-15:51:10.635 6456 Delete type=2 #505
+2022/03/08-15:51:10.635 6456 Delete type=2 #511

@@ -32,7 +32,7 @@
                         "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.33",
+                        "id": "submenuitem.34",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -43,6 +43,84 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/fenris/Work/PlacePrep/DailyCode/0803",
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/0803",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/0803",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/0803"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/OS",
+                                        "path": "/home/fenris/Work/PlacePrep/OS",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/OS"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep",
+                                        "path": "/home/fenris/Work/PlacePrep",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/3D/PIfuxZ",
+                                        "path": "/home/fenris/Work/3D/PIfuxZ",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/3D/PIfuxZ"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/dead/CP",
+                                        "path": "/home/fenris/Work/dead/CP",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/dead/CP"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/Sem6/Technical_Training",
+                                        "path": "/home/fenris/Work/Sem6/Technical_Training",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/Sem6/Technical_Training"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -59,103 +137,37 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/fenris/work/dead/University/Semester6",
-                                        "path": "/home/fenris/work/dead/University/Semester6",
+                                        "external": "file:///home/fenris/Work/Projects/AfterShock/AfterShock",
+                                        "path": "/home/fenris/Work/Projects/AfterShock/AfterShock",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/work/dead/University/Semester6"
+                                    "label": "~/Work/Projects/AfterShock/AfterShock"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/Plates_OpenCV_Inference",
-                                        "path": "/home/fenris/work/IN - Arima/Plates_OpenCV_Inference",
+                                        "external": "file:///home/fenris/Work/Projects/forecast-aftershock-location",
+                                        "path": "/home/fenris/Work/Projects/forecast-aftershock-location",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/work/IN - Arima/Plates_OpenCV_Inference"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/ANPR",
-                                        "path": "/home/fenris/work/IN - Arima/ANPR",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/ANPR"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/plate",
-                                        "path": "/home/fenris/work/IN - Arima/plate",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/plate"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/autoPlate",
-                                        "path": "/home/fenris/work/IN - Arima/autoPlate",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/autoPlate"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/number",
-                                        "path": "/home/fenris/work/IN - Arima/number",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/number"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/ALPR",
-                                        "path": "/home/fenris/work/IN - Arima/ALPR",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/ALPR"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima",
-                                        "path": "/home/fenris/work/IN - Arima",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/liveMain/live2",
-                                        "path": "/home/fenris/work/IN - Arima/liveMain/live2",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/liveMain/live2"
+                                    "label": "~/Work/Projects/forecast-aftershock-location"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/.p10k.zsh",
+                                        "path": "/home/fenris/.p10k.zsh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.p10k.zsh"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -269,7 +281,7 @@
                         "checked": true
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -321,6 +333,13 @@
                                 {
                                     "id": "workbench.action.selectProductIconTheme",
                                     "label": "&&Product Icon Theme"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "workbench.userDataSync.actions.manage",
+                                    "label": "Settings Sync is On"
                                 }
                             ]
                         }
@@ -335,6 +354,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -504,7 +527,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.22",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -529,7 +552,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -557,7 +581,7 @@
                                     "label": "&&Move Side Bar Right"
                                 },
                                 {
-                                    "id": "submenuitem.31",
+                                    "id": "submenuitem.32",
                                     "label": "Panel Position",
                                     "submenu": {
                                         "items": [
@@ -578,7 +602,7 @@
                                     }
                                 },
                                 {
-                                    "id": "submenuitem.30",
+                                    "id": "submenuitem.31",
                                     "label": "Align Panel",
                                     "submenu": {
                                         "items": [
@@ -621,7 +645,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.28",
+                        "id": "submenuitem.29",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -786,7 +810,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.35",
+                        "id": "submenuitem.36",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -835,7 +859,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.36",
+                        "id": "submenuitem.37",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -1037,7 +1061,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1284,6 +1308,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1670,22 +1699,24 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 241,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/fenris/.config/Code/Backups/1646313529397",
+            "folder": "file:///home/fenris/Work/PlacePrep/DailyCode/0803",
+            "backupPath": "/home/fenris/.config/Code/Backups/656633fadefa207c028b4068df608660",
             "uiState": {
                 "mode": 0,
-                "x": 171,
+                "x": 0,
                 "y": 0,
-                "width": 1024,
-                "height": 512
+                "width": 1366,
+                "height": 384
             }
         },
         "openedWindows": []
-    }
+    },
+    "pickerWorkingDir": "/home/fenris/Work/Sem6"
 }

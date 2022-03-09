@@ -1,6 +1,5 @@
-2022/03/03-19:29:55.042 5 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2022/03/03-19:29:55.043 5 Recovering log #394
-2022/03/03-19:29:55.045 5 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000394.log 
-2022/03/03-21:08:03.067 35 Level-0 table #398: started
-2022/03/03-21:08:03.114 35 Level-0 table #398: 33639 bytes OK
-2022/03/03-21:08:03.147 35 Delete type=0 #394
+2022/03/09-10:23:53.918 3 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2022/03/09-10:23:53.920 3 Recovering log #504
+2022/03/09-10:23:54.043 3 Level-0 table #507: started
+2022/03/09-10:23:54.204 3 Level-0 table #507: 19202 bytes OK
+2022/03/09-10:23:54.534 3 Delete type=0 #504

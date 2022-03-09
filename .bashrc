@@ -100,11 +100,11 @@ alias vim='nvim'
 
 # pacman shortcuts
 alias ins='sudo pacman -S --needed'
-alias insy='yay -S '
+alias insy='paru -S '
 alias unins='sudo pacman -Rsu '
-alias uninsy='yay -Rsu'
+alias uninsy='paru -Rsu'
 alias update='sudo pacman -Syu'
-alias updatey='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
+alias updatey='paru -Sua --noconfirm'              # update only AUR pkgs (paru)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 alias tlmgr='tllocalmgr install'
 
@@ -139,7 +139,6 @@ alias cleanup='sudo bash /etc/init.d/cleanup.sh'
 alias r='clear;sudo -s'
 alias dark='cd ~/Apps/tools; conda activate xxx;export PATH="/home/fenris/Apps/anaconda3/envs/xxx/bin/:$PATH"'
 alias jyp='jupyter notebook'
-alias bye='shutdown now'
 alias nf='c;neofetch'
 alias listpkg='expac -H M "%011m\t%-20n\t%10d" $(comm -23 <(pacman -Qqen | sort) <({ pacman -Qqg base-devel; expac -l '\n' '%E' base; } | sort | uniq)) | sort -n'
 alias cm='cmatrix -Bras'
@@ -150,7 +149,6 @@ alias btimecc='systemd-analyze critical-chain'
 alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
-alias igsync='dark;cd scrape;instaloader --no-captions --no-metadata-json --no-video-thumbnails --igtv --highlights -s --login xoxo_steffany_oxox'
 
 # timer app
 timer() {
