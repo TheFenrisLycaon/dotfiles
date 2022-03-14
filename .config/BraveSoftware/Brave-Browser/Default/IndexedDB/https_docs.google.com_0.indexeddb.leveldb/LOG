@@ -1,15 +1,3 @@
-2022/03/08-18:28:50.561 d6e Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/08-18:28:50.561 d6e Recovering log #19
-2022/03/08-18:28:51.314 d6e Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000019.log 
-2022/03/08-18:46:28.991 131f Level-0 table #24: started
-2022/03/08-18:46:30.246 131f Level-0 table #24: 1567926 bytes OK
-2022/03/08-18:46:30.864 131f Delete type=0 #19
-2022/03/08-18:46:31.105 131f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2022/03/08-18:46:31.105 131f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x03\x01'\x00e\x001\x003\x006\x004\x00d\x006\x004\x00c\x005\x005\x00c\x007\x003\x008\x009\x004\x00c\x006\x007\x00e\x007\x002\x002\x002\x008\x003\x00d\x004\x001\x00c\x00d\x00_\x003\x00_\x001\x00:\x000\x000' @ 5134 : 0
-2022/03/08-18:46:31.105 131f Compacting 1@1 + 1@2 files
-2022/03/08-18:46:31.840 131f Generated table #25@1: 298 keys, 113375 bytes
-2022/03/08-18:46:31.840 131f Compacted 1@1 + 1@2 files => 113375 bytes
-2022/03/08-18:46:32.222 131f compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/03/08-18:46:32.297 131f Delete type=2 #24
-2022/03/08-18:46:32.297 131f Delete type=2 #21
-2022/03/08-18:46:32.550 131f Manual compaction at level-1 from '\x00\x03\x03\x03\x01'\x00e\x001\x003\x006\x004\x00d\x006\x004\x00c\x005\x005\x00c\x007\x003\x008\x009\x004\x00c\x006\x007\x00e\x007\x002\x002\x002\x008\x003\x00d\x004\x001\x00c\x00d\x00_\x003\x00_\x001\x00:\x000\x000' @ 5134 : 0 .. (end); will stop at (end)
+2022/03/12-19:17:52.356 19bb8 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/12-19:17:52.356 19bb8 Recovering log #27
+2022/03/12-19:17:52.357 19bb8 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000027.log 

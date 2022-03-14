@@ -48,7 +48,73 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/fenris/Work/PlacePrep/DailyCode/0803",
+                                        "fsPath": "/home/fenris/Work/Sem6/Assignment",
+                                        "external": "file:///home/fenris/Work/Sem6/Assignment",
+                                        "path": "/home/fenris/Work/Sem6/Assignment",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/Sem6/Assignment"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1203",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1203",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1203"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep",
+                                        "path": "/home/fenris/Work/PlacePrep",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1003",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1003",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1003"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/0903",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/0903",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/0903"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/fenris/Work/PlacePrep/DailyCode/0803",
                                         "path": "/home/fenris/Work/PlacePrep/DailyCode/0803",
                                         "scheme": "file"
@@ -66,28 +132,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Work/PlacePrep/OS"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode",
-                                        "path": "/home/fenris/Work/PlacePrep/DailyCode",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/PlacePrep/DailyCode"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/PlacePrep",
-                                        "path": "/home/fenris/Work/PlacePrep",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/PlacePrep"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -112,51 +156,84 @@
                                     "label": "~/Work/dead/CP"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/Sem6/Technical_Training",
-                                        "path": "/home/fenris/Work/Sem6/Technical_Training",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/Sem6/Technical_Training"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/Sem6/Assignment",
-                                        "path": "/home/fenris/Work/Sem6/Assignment",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/Sem6/Assignment"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/Projects/AfterShock/AfterShock",
-                                        "path": "/home/fenris/Work/Projects/AfterShock/AfterShock",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/Projects/AfterShock/AfterShock"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Work/Projects/forecast-aftershock-location",
-                                        "path": "/home/fenris/Work/Projects/forecast-aftershock-location",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Work/Projects/forecast-aftershock-location"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/Sem6/Machine_Learning/4.ipynb",
+                                        "path": "/home/fenris/Work/Sem6/Machine_Learning/4.ipynb",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/Sem6/Machine_Learning/4.ipynb"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1303/DailyCodingProblem.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1303/DailyCodingProblem.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1303/DailyCodingProblem.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1003/DailyCodingProblem.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1003/DailyCodingProblem.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1003/DailyCodingProblem.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1303/GeeksForGeeks.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1303/GeeksForGeeks.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1303/GeeksForGeeks.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1303/LeetCode.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1303/LeetCode.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1303/LeetCode.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1203/DailyCodingProblem.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1203/DailyCodingProblem.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1203/DailyCodingProblem.py"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/fenris/Work/PlacePrep/DailyCode/1103/DailyCodingProblem.py",
+                                        "path": "/home/fenris/Work/PlacePrep/DailyCode/1103/DailyCodingProblem.py",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Work/PlacePrep/DailyCode/1103/DailyCodingProblem.py"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -190,39 +267,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/work/IN - Arima/test.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/Scripts/sms.py",
-                                        "path": "/home/fenris/work/IN - Arima/Scripts/sms.py",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/Scripts/sms.py"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/work/IN%20-%20Arima/ANPR/Indian_Number_plates.json",
-                                        "path": "/home/fenris/work/IN - Arima/ANPR/Indian_Number_plates.json",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/work/IN - Arima/ANPR/Indian_Number_plates.json"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/fenris/Downloads/microchip-mplabc18-bin/PKGBUILD",
-                                        "path": "/home/fenris/Downloads/microchip-mplabc18-bin/PKGBUILD",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/microchip-mplabc18-bin/PKGBUILD"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -269,8 +313,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -741,10 +784,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -794,8 +833,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -873,54 +911,45 @@
                                 },
                                 {
                                     "id": "workbench.action.focusThirdEditorGroup",
-                                    "label": "Group &&3",
-                                    "enabled": false
+                                    "label": "Group &&3"
                                 },
                                 {
                                     "id": "workbench.action.focusFourthEditorGroup",
-                                    "label": "Group &&4",
-                                    "enabled": false
+                                    "label": "Group &&4"
                                 },
                                 {
                                     "id": "workbench.action.focusFifthEditorGroup",
-                                    "label": "Group &&5",
-                                    "enabled": false
+                                    "label": "Group &&5"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusNextGroup",
-                                    "label": "&&Next Group",
-                                    "enabled": false
+                                    "label": "&&Next Group"
                                 },
                                 {
                                     "id": "workbench.action.focusPreviousGroup",
-                                    "label": "&&Previous Group",
-                                    "enabled": false
+                                    "label": "&&Previous Group"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.focusLeftGroup",
-                                    "label": "Group &&Left",
-                                    "enabled": false
+                                    "label": "Group &&Left"
                                 },
                                 {
                                     "id": "workbench.action.focusRightGroup",
-                                    "label": "Group &&Right",
-                                    "enabled": false
+                                    "label": "Group &&Right"
                                 },
                                 {
                                     "id": "workbench.action.focusAboveGroup",
-                                    "label": "Group &&Above",
-                                    "enabled": false
+                                    "label": "Group &&Above"
                                 },
                                 {
                                     "id": "workbench.action.focusBelowGroup",
-                                    "label": "Group &&Below",
-                                    "enabled": false
+                                    "label": "Group &&Below"
                                 }
                             ]
                         }
@@ -1706,8 +1735,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/fenris/Work/PlacePrep/DailyCode/0803",
-            "backupPath": "/home/fenris/.config/Code/Backups/656633fadefa207c028b4068df608660",
+            "folder": "file:///home/fenris/Work/Sem6/Assignment",
+            "backupPath": "/home/fenris/.config/Code/Backups/712e1b8cbb3de75c9c8ec0c930bfdc87",
             "uiState": {
                 "mode": 0,
                 "x": 0,

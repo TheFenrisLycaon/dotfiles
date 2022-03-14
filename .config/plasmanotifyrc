@@ -3,3 +3,6 @@ Seen=true
 
 [Notifications]
 PopupTimeout=3000
+
+[Services][kdeconnect]
+ShowPopups=false

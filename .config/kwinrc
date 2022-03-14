@@ -7,8 +7,12 @@ OpenGLIsUnsafe=false
 
 [Desktops]
 Id_1=3c01381c-b9e7-46d1-9b70-72a9a39277ed
+Id_2=05b0e48f-c27f-414a-b06f-907a44091de7
+Id_3=223d3ea3-751b-46f0-9c16-18fab5d3887a
 Name_1=Default
-Number=1
+Name_2=Work
+Name_3=Univesity
+Number=3
 Rows=1
 
 [Effect-Blur]
@@ -36,7 +40,6 @@ glideEnabled=true
 krohnkiteEnabled=false
 kwin4_effect_dimscreenEnabled=true
 kwin4_effect_eyeonscreenEnabled=true
-kwin4_effect_fadedesktopEnabled=true
 kwin4_effect_scaleEnabled=false
 kwin4_effect_squashEnabled=false
 kwin4_effect_translucencyEnabled=true
@@ -49,7 +52,6 @@ overviewEnabled=true
 resizeEnabled=true
 screenedgeEnabled=false
 sheetEnabled=true
-slideEnabled=false
 slidebackEnabled=true
 snaphelperEnabled=true
 synchronizeskipswitcherEnabled=true
@@ -60,6 +62,14 @@ wobblywindowsEnabled=true
 [Script-forceblur]
 blurContent=true
 patterns=yakuake\nurxvt\nkeepassxc\ncode
+
+[SubSession: 654bc312-e56a-4854-a7ce-bb376be6b56f]
+active=-1
+count=0
+
+[SubSession: cf4cfcea-0626-4a0f-9dde-8c9b6d2f1a04]
+active=-1
+count=0
 
 [TabBox]
 BorderActivate=9

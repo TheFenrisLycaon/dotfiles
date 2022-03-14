@@ -1,12 +1,10 @@
 [activities]
-654bc312-e56a-4854-a7ce-bb376be6b56f=Work
-cf4cfcea-0626-4a0f-9dde-8c9b6d2f1a04=Uni
 d1e47702-5be9-4164-92fe-145655929e77=Default
 
 [activities-icons]
-654bc312-e56a-4854-a7ce-bb376be6b56f=litenetworkshares
-cf4cfcea-0626-4a0f-9dde-8c9b6d2f1a04=gnome-books
 d1e47702-5be9-4164-92fe-145655929e77=abrt
 
 [main]
-currentActivity=cf4cfcea-0626-4a0f-9dde-8c9b6d2f1a04
+currentActivity=d1e47702-5be9-4164-92fe-145655929e77
+runningActivities=d1e47702-5be9-4164-92fe-145655929e77
+stoppedActivities=

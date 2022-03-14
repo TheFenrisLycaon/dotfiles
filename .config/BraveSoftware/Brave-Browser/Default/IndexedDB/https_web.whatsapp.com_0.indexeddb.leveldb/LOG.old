@@ -1,13 +1,25 @@
-2022/03/08-22:17:53.095 22d5 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/03/08-22:17:53.095 22d5 Recovering log #220
-2022/03/08-22:17:56.038 22d5 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000220.log 
-2022/03/08-22:19:03.484 2e99 Level-0 table #226: started
-2022/03/08-22:19:03.745 2e99 Level-0 table #226: 1209761 bytes OK
-2022/03/08-22:19:03.982 2e99 Delete type=0 #220
-2022/03/08-22:19:06.887 33f7 Compacting 1@1 + 2@2 files
-2022/03/08-22:19:08.930 33f7 Generated table #227@1: 24481 keys, 2484635 bytes
-2022/03/08-22:19:08.930 33f7 Compacted 1@1 + 2@2 files => 2484635 bytes
-2022/03/08-22:19:09.074 33f7 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/03/08-22:19:09.074 33f7 Delete type=2 #226
-2022/03/08-22:19:09.074 33f7 Delete type=2 #222
-2022/03/08-22:19:09.074 33f7 Delete type=2 #223
+2022/03/14-18:23:20.969 938b Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/14-18:23:20.969 938b Recovering log #252
+2022/03/14-18:23:21.025 938b Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000252.log 
+2022/03/14-18:27:38.446 939a Level-0 table #258: started
+2022/03/14-18:27:38.527 939a Level-0 table #258: 1633906 bytes OK
+2022/03/14-18:27:38.564 939a Delete type=0 #252
+2022/03/14-18:28:11.259 94cd Compacting 1@1 + 2@2 files
+2022/03/14-18:28:11.459 94cd Generated table #259@1: 29982 keys, 2482566 bytes
+2022/03/14-18:28:11.522 94cd Generated table #260@1: 1387 keys, 652916 bytes
+2022/03/14-18:28:11.522 94cd Compacted 1@1 + 2@2 files => 3135482 bytes
+2022/03/14-18:28:11.579 94cd compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/03/14-18:28:11.580 94cd Delete type=2 #255
+2022/03/14-18:28:11.580 94cd Delete type=2 #258
+2022/03/14-18:28:11.580 94cd Delete type=2 #254
+2022/03/14-19:23:16.699 938d Level-0 table #262: started
+2022/03/14-19:23:16.835 938d Level-0 table #262: 2110302 bytes OK
+2022/03/14-19:23:16.865 938d Delete type=0 #257
+2022/03/14-19:24:31.615 99a6 Compacting 1@1 + 2@2 files
+2022/03/14-19:24:31.819 99a6 Generated table #263@1: 31943 keys, 2463320 bytes
+2022/03/14-19:24:31.894 99a6 Generated table #264@1: 1497 keys, 944180 bytes
+2022/03/14-19:24:31.894 99a6 Compacted 1@1 + 2@2 files => 3407500 bytes
+2022/03/14-19:24:31.943 99a6 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/03/14-19:24:31.943 99a6 Delete type=2 #259
+2022/03/14-19:24:31.943 99a6 Delete type=2 #260
+2022/03/14-19:24:31.943 99a6 Delete type=2 #262

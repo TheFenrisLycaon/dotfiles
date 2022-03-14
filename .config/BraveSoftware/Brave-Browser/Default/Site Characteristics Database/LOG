@@ -1,4 +1,4 @@
-2022/03/09-10:23:49.282 a867 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/MANIFEST-000001
-2022/03/09-10:23:49.797 a867 Recovering log #3
-2022/03/09-10:23:54.376 a867 (ignoring error) /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log: dropping 65 bytes; Corruption: missing start of fragmented record(2)
-2022/03/09-10:23:54.377 a867 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log 
+2022/03/14-20:33:25.358 3aa Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/MANIFEST-000001
+2022/03/14-20:33:25.358 3aa Recovering log #3
+2022/03/14-20:33:26.366 3aa (ignoring error) /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log: dropping 65 bytes; Corruption: missing start of fragmented record(2)
+2022/03/14-20:33:26.367 3aa Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Site Characteristics Database/000003.log 

@@ -1,18 +1,15 @@
-2022/03/09-09:48:58.107 6dbe Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/03/09-09:48:58.107 6dbe Recovering log #355
-2022/03/09-09:48:58.934 6dbe Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000355.log 
-2022/03/09-09:53:18.732 943f Level-0 table #359: started
-2022/03/09-09:53:19.178 943f Level-0 table #359: 95446 bytes OK
-2022/03/09-09:53:19.455 943f Delete type=0 #355
-2022/03/09-09:53:19.456 943f Compacting 4@0 + 1@1 files
-2022/03/09-09:53:19.944 943f Generated table #360@0: 200 keys, 18337 bytes
-2022/03/09-09:53:19.944 943f Compacted 4@0 + 1@1 files => 18337 bytes
-2022/03/09-09:53:20.372 943f compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/03/09-09:53:20.373 943f Delete type=2 #354
-2022/03/09-09:53:20.373 943f Delete type=2 #349
-2022/03/09-09:53:20.373 943f Delete type=2 #359
-2022/03/09-09:53:20.373 943f Delete type=2 #356
-2022/03/09-09:53:20.373 943f Delete type=2 #351
-2022/03/09-10:15:42.723 a293 Level-0 table #362: started
-2022/03/09-10:15:43.303 a293 Level-0 table #362: 75626 bytes OK
-2022/03/09-10:15:44.047 a293 Delete type=0 #358
+2022/03/14-19:55:54.733 a654 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/03/14-19:55:54.734 a654 Recovering log #513
+2022/03/14-19:55:55.239 a654 Reusing old log /home/fenris/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000513.log 
+2022/03/14-20:06:32.875 aab1 Level-0 table #516: started
+2022/03/14-20:06:33.082 aab1 Level-0 table #516: 77175 bytes OK
+2022/03/14-20:06:33.227 aab1 Delete type=0 #513
+2022/03/14-20:06:33.228 aab1 Compacting 4@0 + 1@1 files
+2022/03/14-20:06:33.587 aab1 Generated table #517@0: 236 keys, 30311 bytes
+2022/03/14-20:06:33.587 aab1 Compacted 4@0 + 1@1 files => 30311 bytes
+2022/03/14-20:06:33.668 aab1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/14-20:06:33.669 aab1 Delete type=2 #513
+2022/03/14-20:06:33.669 aab1 Delete type=2 #507
+2022/03/14-20:06:33.669 aab1 Delete type=2 #509
+2022/03/14-20:06:33.670 aab1 Delete type=2 #511
+2022/03/14-20:06:33.670 aab1 Delete type=2 #516
