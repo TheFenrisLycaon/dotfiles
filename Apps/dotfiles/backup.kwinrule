@@ -1,0 +1,56 @@
+[Application settings for brave-browser]
+Description=Application settings for brave-browser
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=brave-browser
+wmclassmatch=1
+
+[Application settings for code]
+Description=Application settings for code
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=code
+wmclassmatch=1
+
+[Application settings for dolphin]
+Description=Application settings for dolphin
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=dolphin
+wmclassmatch=1
+
+[Application settings for konsole]
+Description=Application settings for konsole
+clientmachine=localhost
+noborder=true
+noborderrule=3
+wmclass=konsole
+wmclassmatch=1
+
+[Application settings for vlc]
+Description=Application settings for vlc
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=vlc
+wmclassmatch=1
+
+[New window settings]
+Description=New window settings
+noborder=true
+noborderrule=2
+opacityactive=95
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+types=65809
+wmclassmatch=2
