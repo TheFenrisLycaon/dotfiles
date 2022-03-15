@@ -1,6 +1,0 @@
-2021/11/18-10:41:26.664 1149 Creating DB /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
-2021/11/18-10:41:27.298 1149 Reusing MANIFEST /home/fenris/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/11/18-10:43:23.935 1501 Level-0 table #5: started
-2021/11/18-10:43:24.018 1501 Level-0 table #5: 1887 bytes OK
-2021/11/18-10:43:24.047 1501 Delete type=0 #3
-2021/11/18-10:43:24.048 1501 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
