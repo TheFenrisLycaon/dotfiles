@@ -78,7 +78,7 @@ MinimizedMode=1
 ShowDesktopMode=1
 
 [TabBoxAlternative]
-LayoutName=big_icons
+LayoutName=informative
 
 [Windows]
 ElectricBorderCornerRatio=0.01

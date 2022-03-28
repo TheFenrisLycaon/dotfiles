@@ -26,12 +26,8 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/wallpaper/Screen1317.png
-File2[$e]=$HOME/Pictures/Screenshots/Screenshot_002.png
-File3[$e]=$HOME/Pictures/Screenshots/Screenshot_001.png
-Name1[$e]=Screen1317.png
-Name2[$e]=Screenshot_002.png
-Name3[$e]=Screenshot_001.png
+File1[$e]=$HOME/Work/Projects/AfterShock/AfterShock/Docs/training.png
+Name1[$e]=training.png
 
 [SideBar]
 IsVisible ViewMode=true

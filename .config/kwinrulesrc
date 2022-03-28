@@ -66,6 +66,17 @@ noborderrule=3
 wmclass=konsole
 wmclassmatch=1
 
+[6]
+Description=New window settings
+noborder=true
+noborderrule=2
+opacityactive=95
+opacityactiverule=2
+opacityinactive=90
+opacityinactiverule=2
+types=65809
+wmclassmatch=2
+
 [7]
 Description=Notion
 decocolor=BreezeDark
@@ -89,7 +100,7 @@ wmclassmatch=2
 
 [General]
 count=6
-rules=1,2,3,4,5,0f5592f6-db71-4d37-9fb9-e438d12c03ac
+rules=1,2,3,4,5,6
 
 [a6411014-1971-444e-ba35-4ae135372a04]
 Description=Application settings for dolphin

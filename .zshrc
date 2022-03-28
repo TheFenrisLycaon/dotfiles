@@ -123,6 +123,7 @@ unset __conda_setup
 
 # Conda Virtual Envs
 alias uni='conda activate Uni;export PATH="/home/fenris/.condahome/envs/Uni/bin/:$PATH"'
+alias web='conda activate web;export PATH="/home/fenris/.condahome/envs/web/bin/:$PATH"'
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>
@@ -239,6 +240,8 @@ alias qc='cd /home/fenris/work/dead/Quicky/; code .'
 alias det='pacman -Qi'
 alias nu='vnstat -d 1'
 
+# Go
+export GOPATH='/home/fenris/Apps/go'
 # timer app
 timer() {
         local N=$1; shift

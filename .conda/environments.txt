@@ -1,2 +1,3 @@
 /home/fenris/.condahome
 /home/fenris/.condahome/envs/Uni
+/home/fenris/.condahome/envs/web

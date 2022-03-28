@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=Screen0000.jpg,file:$HOME/Apps/dotfiles/backup.kwinrule,file:$HOME/Apps/bkp.kwinrule,file:$HOME/Pictures/wallpaper/Screen0005.jpg
-Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/wallpaper/,file:$HOME/Apps/,file:$HOME/Documents/,file:$HOME/Apps/dotfiles/
+Recent Files[$e]=Screen0000.jpg,file:$HOME/Apps/VPN/nl-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/VPN/jp-free-08.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-06.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/dotfiles/backup.kwinrule,file:$HOME/Pictures/wallpaper/Screen0005.jpg
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/wallpaper/,file:$HOME/Apps/,file:$HOME/Documents/,file:$HOME/Apps/dotfiles/,file:$HOME/Apps/VPN/
 detailViewIconSize=128
 iconViewIconSize=128
 
@@ -19,5 +19,8 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAAMAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
+[Notification Messages]
+copyCertificatesDialog=true
+
 [UiSettings]
-ColorScheme=
+ColorScheme=Default

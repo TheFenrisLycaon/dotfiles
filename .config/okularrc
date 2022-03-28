@@ -4,33 +4,33 @@ shouldShowMenuBarComingFromFullScreen=false
 shouldShowToolBarComingFromFullScreen=true
 
 [MainWindow]
-LVDS1 Height 1366x768=484
+LVDS1 Height 1366x768=768
 LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
-LVDS1 XPosition 1366x768=683
-LVDS1 YPosition 1366x768=28
+LVDS1 XPosition 1366x768=0
+LVDS1 YPosition 1366x768=0
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Git.pdf
-File10[$e]=$HOME/Downloads/ML WS4.pdf
-File2[$e]=$HOME/Documents/LecturePlan_CS207_CSD-384.pdf
-File3[$e]=$HOME/Documents/Marksheet_Rishabh.pdf
-File4[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/singleCSV/Readme.md
-File5[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/csvfiles/Readme.md
-File6[$e]=$HOME/Work/Projects/forecast-aftershock-location/Data/Readme.md
-File7[$e]=$HOME/Work/Projects/forecast-aftershock-location/README.md
-File8[$e]=$HOME/Work/PlacePrep/DBMS/06-Models.md
-File9[$e]=$HOME/Work/PlacePrep/DBMS/05-Design.md
-Name1[$e]=Git.pdf
-Name10[$e]=ML WS4.pdf
-Name2[$e]=LecturePlan_CS207_CSD-384.pdf
-Name3[$e]=Marksheet_Rishabh.pdf
-Name4[$e]=Readme.md
-Name5[$e]=Readme.md
-Name6[$e]=Readme.md
-Name7[$e]=README.md
-Name8[$e]=06-Models.md
-Name9[$e]=05-Design.md
+File1[$e]=$HOME/Documents/Rishabh Anand - DCS - Offer Letter (signed).pdf
+File10[$e]=$HOME/Downloads/WorkSheet_5.pdf
+File2[$e]=$HOME/Work/Projects/VimStyleCode/test/color/theme.vader
+File3[$e]=$HOME/Work/Projects/VimStyleCode/test/config/ag.vader
+File4[$e]=$HOME/Apps/install.sh
+File5[$e]=$HOME/.SpaceVim/vimrc
+File6[$e]=$HOME/.SpaceVim.d/init.toml
+File7[$e]=$HOME/Work/Projects/Aftershock/data.json
+File8[$e]=$HOME/Work/Projects/Aftershock/web/package-lock.json
+File9[$e]=$HOME/Work/Projects/Aftershock/cal.json
+Name1[$e]=Rishabh Anand - DCS - Offer Letter (signed).pdf
+Name10[$e]=WorkSheet_5.pdf
+Name2[$e]=theme.vader
+Name3[$e]=ag.vader
+Name4[$e]=install.sh
+Name5[$e]=vimrc
+Name6[$e]=init.toml
+Name7[$e]=data.json
+Name8[$e]=package-lock.json
+Name9[$e]=cal.json

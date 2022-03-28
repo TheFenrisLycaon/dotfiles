@@ -58,7 +58,7 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vis,mkv,mkvt,oku,code,kchm,gwen,vim,vlc
+History=neo,mkvto,vlc,vis,mkv,mkvt,oku,code,kchm,gwen,vim
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs

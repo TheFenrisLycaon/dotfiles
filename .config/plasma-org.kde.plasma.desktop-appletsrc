@@ -29,7 +29,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][2][Applets][27][Configuration]
-PreloadWeight=35
+PreloadWeight=50
 
 [Containments][2][Applets][27][Configuration][Appearance]
 boldText=true
@@ -137,8 +137,8 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][57][Configuration][General]
-groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop
-groupingLauncherUrlBlacklist=applications:brave-browser.desktop,applications:notion-app-enhanced.desktop
+groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop,visual-studio-code.desktop
+groupingLauncherUrlBlacklist=applications:notion-app-enhanced.desktop,applications:brave-browser.desktop,applications:visual-studio-code.desktop
 launchers=preferred://filemanager,preferred://browser,applications:visual-studio-code.desktop,applications:vlc.desktop
 
 [Containments][2][ConfigDialog]
@@ -200,9 +200,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][29][Applets][38][Configuration]
-PreloadWeight=20
+PreloadWeight=100
 
 [Containments][29][Applets][38][Configuration][General]
+currentTab=streams
 raiseMaximumVolume=true
 
 [Containments][29][Applets][39]
@@ -234,7 +235,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=22
+PreloadWeight=62
 
 [Containments][29][Applets][50]
 immutability=1
@@ -283,7 +284,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen0670.png
+Image=file:///home/fenris/Pictures/wallpaper/Screen0574.jpg
 SlideInterval=15
 SlidePaths=/home/fenris/Pictures/wallpaper
 SlideshowFoldersFirst=true
