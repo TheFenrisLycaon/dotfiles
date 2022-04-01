@@ -5,6 +5,7 @@ DefaultProfile=Brofile.profile
 FirstRun=false
 
 [Notification Messages]
+ShowPasteHugeTextWarning=false
 hinding_title_bar=false
 
 [Window]

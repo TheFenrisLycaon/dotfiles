@@ -34,8 +34,8 @@ PreviewSize=80
 UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=588
-LVDS1 Width 1366x768=479
+LVDS1 Height 1366x768=464
+LVDS1 Width 1366x768=389
 
 [MainWindow]
 LVDS1 Height 1366x768=768
@@ -58,10 +58,10 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=neo,mkvto,vlc,vis,mkv,mkvt,oku,code,kchm,gwen,vim
+History=vis,neo,mkvto,vlc,mkv,mkvt,oku,code,kchm,gwen,vim
 
 [PreviewSettings]
-Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,mltpreview,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
+Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
 
 [SettingsDialog]
 LVDS1 Height 1366x768=438

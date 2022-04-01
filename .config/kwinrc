@@ -75,7 +75,6 @@ count=0
 BorderActivate=9
 LayoutName=big_icons
 MinimizedMode=1
-ShowDesktopMode=1
 
 [TabBoxAlternative]
 LayoutName=informative

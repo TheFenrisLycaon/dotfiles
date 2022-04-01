@@ -124,6 +124,8 @@ unset __conda_setup
 # Conda Virtual Envs
 alias uni='conda activate Uni;export PATH="/home/fenris/.condahome/envs/Uni/bin/:$PATH"'
 alias web='conda activate web;export PATH="/home/fenris/.condahome/envs/web/bin/:$PATH"'
+alias gui='conda activate gui;export PATH="/home/fenris/.condahome/envs/gui/bin/:$PATH"'
+alias vin='conda activate vin;export PATH="/home/fenris/.condahome/envs/vin/bin/:$PATH"'
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>

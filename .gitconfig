@@ -12,4 +12,7 @@
 	email = thefenrislycaon@gmail.com
 	password = Fuck/bin/zshci3ty
 [color]
-	ui = true
+	ui = always
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
