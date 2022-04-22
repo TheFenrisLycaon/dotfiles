@@ -12,39 +12,23 @@ Switch keyboard layout to English (US)=none,none,Switch keyboard layout to Engli
 Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
-[brave-agimnkijcaahngcdmfeangaknmldooml-default.desktop]
-_k_friendly_name=YouTube
-_launch=none,none,Launch YouTube
-
 [brave-browser.desktop]
 _k_friendly_name=Brave
 _launch=Meta+B,none,Brave
 new-private-window=none,none,New Incognito Window
 new-window=none,none,New Window
 
-[brave-hnpfjngllnobngcgfapefoaidbinmjnm-default.desktop]
+[brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop]
 _k_friendly_name=WhatsApp
-_launch=none,none,Launch WhatsApp
+_launch=Meta+W,none,WhatsApp
 
-[brave-pjibgclleladliembfgfagdaldikeohf-default.desktop]
+[brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop]
 _k_friendly_name=Spotify
-_launch=none,none,Launch Spotify
+_launch=Alt+S,none,Spotify
 
-[chrome-hnpfjngllnobngcgfapefoaidbinmjnm-profile_1.desktop]
-_k_friendly_name=WhatsApp
-_launch=none,none,Launch WhatsApp
-
-[chrome-pfoifhpmcaljblpdilcoagphmkgeccgd-profile_1.desktop]
-_k_friendly_name=BlackBoard
-_launch=none,none,Launch BlackBoard
-
-[chrome-pkjmikhjfekbpecnijapbekepjdoieci-profile_1.desktop]
+[brave-pkjmikhjfekbpecnijapbekepjdoieci-Default.desktop]
 _k_friendly_name=Teams
-_launch=none,none,Launch Teams
-
-[dota underlords.desktop]
-_k_friendly_name=Dota Underlords
-_launch=none,none,Launch Dota Underlords
+_launch=Meta+T,none,Teams
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
@@ -74,13 +58,6 @@ increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Increase Mi
 increase_volume=Volume Up,Volume Up,Increase Volume
 mic_mute=Microphone Mute\tMeta+Volume Mute,Microphone Mute\tMeta+Volume Mute,Mute Microphone
 mute=Volume Mute,Volume Mute,Mute
-
-[knotes]
-_k_friendly_name=KNotes
-hide_all_notes=Alt+Shift+H,Alt+Shift+H,Hide All Notes
-new_note=Alt+Shift+N,Alt+Shift+N,New Note
-new_note_clipboard=Alt+Shift+C,Alt+Shift+C,New Note From Clipboard
-show_all_notes=Alt+Shift+S,Alt+Shift+S,Show All Notes
 
 [ksmserver]
 Halt Without Confirmation=none,,Halt Without Confirmation
@@ -130,7 +107,7 @@ Krohnkite: Shrink Width=Meta+Ctrl+H,none,
 Krohnkite: Spread Layout=none,none,
 Krohnkite: Stair Layout=none,none,
 Krohnkite: Three Column Layout=none,none,
-Krohnkite: Tile Layout=Meta+T,none,
+Krohnkite: Tile Layout=none,none,
 Krohnkite: Up/Prev=none,none,
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
@@ -138,7 +115,7 @@ MoveZoomDown=none,none,Move Zoomed Area Downwards
 MoveZoomLeft=none,none,Move Zoomed Area to Left
 MoveZoomRight=none,none,Move Zoomed Area to Right
 MoveZoomUp=none,none,Move Zoomed Area Upwards
-Overview=Meta+W,Meta+W,Toggle Overview
+Overview=none,Meta+W,Toggle Overview
 Setup Window Shortcut=none,,Setup Window Shortcut
 Show Desktop=Meta+D,Meta+D,Show Desktop
 ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Show Desktop Grid

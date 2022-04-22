@@ -1,9 +1,10 @@
 [MainWindow]
 LVDS1 Height 1366x768=512
-LVDS1 Width 1366x768=506
+LVDS1 Width 1366x768=514
 LVDS1 XPosition 1366x768=430
 LVDS1 YPosition 1366x768=140
+RestorePositionForNextInstance=false
 
 [WalletEditor]
 AlwaysShowContents=false
-SplitterSize=223,256
+SplitterSize=227,260

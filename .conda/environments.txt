@@ -2,3 +2,5 @@
 /home/fenris/.condahome/envs/Uni
 /home/fenris/.condahome/envs/web
 /home/fenris/.condahome/envs/gui
+/home/fenris/.condahome/envs/credicxo
+/home/fenris/.condahome/envs/vin

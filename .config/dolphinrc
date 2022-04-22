@@ -16,6 +16,7 @@ FontWeight=50
 
 [General]
 BrowseThroughArchives=true
+ConfirmClosingTerminalRunningProgram=false
 EditableUrl=true
 GlobalViewProps=false
 RememberOpenedTabs=false
@@ -34,10 +35,11 @@ PreviewSize=80
 UseSystemFont=false
 
 [KPropertiesDialog]
-LVDS1 Height 1366x768=464
-LVDS1 Width 1366x768=389
+LVDS1 Height 1366x768=458
+LVDS1 Width 1366x768=410
 
 [MainWindow]
+LVDS-1 Window-Maximized 1366x768=true
 LVDS1 Height 1366x768=768
 LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
@@ -58,7 +60,7 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=vis,neo,mkvto,vlc,mkv,mkvt,oku,code,kchm,gwen,vim
+History=visual,vim,vis,neo,mkvto,vlc,mkv,mkvt,oku,code,kchm,gwen
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs

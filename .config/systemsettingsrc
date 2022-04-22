@@ -1,5 +1,5 @@
 [KFileDialog Settings]
-Recent Files[$e]=Screen0000.jpg,file:$HOME/Apps/VPN/nl-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/VPN/jp-free-08.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-06.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/dotfiles/backup.kwinrule,file:$HOME/Pictures/wallpaper/Screen0005.jpg
+Recent Files[$e]=Screen0000.jpg,file:$HOME/Apps/dotfiles/shortcuts.kksrc,file:$HOME/Apps/VPN/nl-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/VPN/jp-free-08.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-06.protonvpn.net.udp.ovpn,file:$HOME/Apps/VPN/jp-free-01.protonvpn.com.udp.ovpn,file:$HOME/Apps/dotfiles/backup.kwinrule,file:$HOME/Pictures/wallpaper/Screen0005.jpg
 Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/wallpaper/,file:$HOME/Apps/,file:$HOME/Documents/,file:$HOME/Apps/dotfiles/,file:$HOME/Apps/VPN/
 detailViewIconSize=128
 iconViewIconSize=128
@@ -13,6 +13,7 @@ LVDS-1 YPosition 1366x768=140
 LVDS1 Height 1366x768=768
 LVDS1 Width 1366x768=683
 LVDS1 Window-Maximized 1366x768=true
+LVDS1 Window-Maximized 768x1366=true
 LVDS1 XPosition 1366x768=0
 LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
@@ -21,6 +22,10 @@ ToolBarsMovable=Disabled
 
 [Notification Messages]
 copyCertificatesDialog=true
+
+[Open-with settings]
+CompletionMode=1
+History=whats,spo,team
 
 [UiSettings]
 ColorScheme=Default

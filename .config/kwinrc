@@ -73,7 +73,6 @@ count=0
 
 [TabBox]
 BorderActivate=9
-LayoutName=big_icons
 MinimizedMode=1
 
 [TabBoxAlternative]
@@ -89,5 +88,4 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XIA
 ButtonsOnRight=
-library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Sweet-Mars-transparent
+theme=__aurorae__svg__Sweet-Dark-transparent

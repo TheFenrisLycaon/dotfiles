@@ -26,8 +26,24 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Work/dead/UsefulScripts/OfferLetterGenerator/src/certi.png
-Name1[$e]=certi.png
+File1[$e]=$HOME/Pictures/Screenshots/Screenshot_dataGen.py - AfterShock - Visual Studio Code_001.png
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot_eps1.0_hellofriend.mov - VLC media player_001.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot_Moon Knight S01E01 - VLC media player_001.png
+File5[$e]=$HOME/Pictures/Screenshots/1.png
+File6[$e]=$HOME/Pictures/Screenshots/2022-04-01_15-41-13.avi
+File7[$e]=$HOME/Pictures/Screenshots/PC_1.png
+File8[$e]=$HOME/Pictures/Screenshots/Screenshot (258).png
+File9[$e]=$HOME/Pictures/Screenshots/Screenshot_AfterShock : zsh_001.png
+Name1[$e]=Screenshot_dataGen.py - AfterShock - Visual Studio Code_001.png
+Name2[$e]=Screenshot_eps1.0_hellofriend.mov - VLC media player_001.png
+Name3[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
+Name4[$e]=Screenshot_Moon Knight S01E01 - VLC media player_001.png
+Name5[$e]=1.png
+Name6[$e]=2022-04-01_15-41-13.avi
+Name7[$e]=PC_1.png
+Name8[$e]=Screenshot (258).png
+Name9[$e]=Screenshot_AfterShock : zsh_001.png
 
 [SideBar]
 IsVisible ViewMode=true

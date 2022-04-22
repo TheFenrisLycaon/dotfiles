@@ -23,9 +23,6 @@ State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAH
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 
-[Notification Messages]
-ShowPasteHugeTextWarning=false
-
 [SearchSettings]
 SearchRegExpression=true
 
@@ -36,5 +33,5 @@ SplitViewVisibility=AlwaysHideSplitHeader
 TabBarVisibility=AlwaysHideTabBar
 
 [UiSettings]
-ColorScheme=Breeze Dark
-WindowColorScheme=Breeze Dark
+ColorScheme=Sweet
+WindowColorScheme=Sweet

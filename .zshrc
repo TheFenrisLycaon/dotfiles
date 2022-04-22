@@ -125,7 +125,9 @@ unset __conda_setup
 alias uni='conda activate Uni;export PATH="/home/fenris/.condahome/envs/Uni/bin/:$PATH"'
 alias web='conda activate web;export PATH="/home/fenris/.condahome/envs/web/bin/:$PATH"'
 alias gui='conda activate gui;export PATH="/home/fenris/.condahome/envs/gui/bin/:$PATH"'
+alias cred='conda activate credicxo;export PATH="/home/fenris/.condahome/envs/credicxo/bin/:$PATH"'
 alias vin='conda activate vin;export PATH="/home/fenris/.condahome/envs/vin/bin/:$PATH"'
+
 
 ### ARCHIVE EXTRACTION
 # usage: ex <file>
@@ -227,7 +229,7 @@ alias ytv="youtube-dl -f bestvideo+bestaudio "
 alias rr='curl -s -L https://bit.ly/2VRgukx | bash'
 
 # shortcuts
-alias cleanup='sudo bash /home/fenris/Apps/Arch-Cleaner/cleanup.sh'
+alias cleanup='sudo bash /etc/init.d/cleanup.sh'
 alias r='clear;sudo -s'
 alias jyp='jupyter notebook'
 alias bye='shutdown now'

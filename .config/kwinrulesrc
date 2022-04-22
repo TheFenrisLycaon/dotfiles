@@ -34,7 +34,7 @@ wmclassmatch=1
 Description=Application settings for brave-browser
 clientmachine=localhost
 noborder=true
-noborderrule=3
+noborderrule=2
 opacityactive=100
 opacityactiverule=2
 wmclass=brave-browser
@@ -49,6 +49,26 @@ wmclass=vlc
 wmclassmatch=1
 
 [4]
+Description=Application settings for firefox
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=firefox
+wmclassmatch=1
+
+[40cf46d2-69c7-4c6d-805d-860c9b05933f]
+Description=Application settings for firefox
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=firefox
+wmclassmatch=1
+
+[5]
 Description=Application settings for code
 clientmachine=localhost
 noborder=true
@@ -58,16 +78,20 @@ opacityactiverule=2
 wmclass=code
 wmclassmatch=1
 
-[5]
+[6]
 Description=Application settings for konsole
 clientmachine=localhost
 noborder=true
 noborderrule=3
+opacityactive=95
+opacityinactive=90
 wmclass=konsole
 wmclassmatch=1
 
-[6]
+[7]
 Description=New window settings
+decocolor=BreezeDark
+maxsize=32767,32767
 noborder=true
 noborderrule=2
 opacityactive=95
@@ -76,16 +100,6 @@ opacityinactive=90
 opacityinactiverule=2
 types=65809
 wmclassmatch=2
-
-[7]
-Description=Notion
-decocolor=BreezeDark
-decocolorrule=2
-maxsize=32767,32767
-maxsizerule=2
-wmclass=notion
-wmclasscomplete=true
-wmclassmatch=3
 
 [9ec4a032-6cb1-42d6-8f96-51384e89bb29]
 Description=New window settings
@@ -99,8 +113,8 @@ types=65809
 wmclassmatch=2
 
 [General]
-count=6
-rules=1,2,3,4,5,6
+count=7
+rules=1,2,3,4,5,6,7
 
 [a6411014-1971-444e-ba35-4ae135372a04]
 Description=Application settings for dolphin
