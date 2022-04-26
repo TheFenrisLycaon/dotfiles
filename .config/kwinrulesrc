@@ -1,6 +1,16 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
+[02c8c661-dd93-40eb-b4c5-fec412f9bfbb]
+Description=Application settings for chrome
+clientmachine=localhost
+noborder=true
+noborderrule=2
+opacityactive=100
+opacityactiverule=2
+wmclass=chrome
+wmclassmatch=2
+
 [0f5592f6-db71-4d37-9fb9-e438d12c03ac]
 Description=New window settings
 noborder=true
@@ -49,14 +59,14 @@ wmclass=vlc
 wmclassmatch=1
 
 [4]
-Description=Application settings for firefox
+Description=Application settings for chrome
 clientmachine=localhost
 noborder=true
-noborderrule=3
+noborderrule=2
 opacityactive=100
 opacityactiverule=2
-wmclass=firefox
-wmclassmatch=1
+wmclass=chrome
+wmclassmatch=2
 
 [40cf46d2-69c7-4c6d-805d-860c9b05933f]
 Description=Application settings for firefox
@@ -69,18 +79,31 @@ wmclass=firefox
 wmclassmatch=1
 
 [5]
+Description=Application settings for firefox
+clientmachine=localhost
+noborder=true
+noborderrule=3
+opacityactive=100
+opacityactiverule=2
+wmclass=firefox
+wmclassmatch=1
+
+[6]
 Description=Application settings for code
 clientmachine=localhost
 noborder=true
 noborderrule=3
 opacityactive=100
 opacityactiverule=2
+opacityinactive=90
 wmclass=code
 wmclassmatch=1
 
-[6]
+[7]
 Description=Application settings for konsole
 clientmachine=localhost
+decocolor=BreezeDark
+maxsize=32767,32767
 noborder=true
 noborderrule=3
 opacityactive=95
@@ -88,10 +111,8 @@ opacityinactive=90
 wmclass=konsole
 wmclassmatch=1
 
-[7]
+[8]
 Description=New window settings
-decocolor=BreezeDark
-maxsize=32767,32767
 noborder=true
 noborderrule=2
 opacityactive=95
@@ -113,8 +134,8 @@ types=65809
 wmclassmatch=2
 
 [General]
-count=7
-rules=1,2,3,4,5,6,7
+count=8
+rules=1,2,3,4,5,6,7,8
 
 [a6411014-1971-444e-ba35-4ae135372a04]
 Description=Application settings for dolphin

@@ -73,9 +73,11 @@ count=0
 
 [TabBox]
 BorderActivate=9
+LayoutName=org.kde.breeze.desktop
 MinimizedMode=1
 
 [TabBoxAlternative]
+HighlightWindows=false
 LayoutName=informative
 
 [Windows]

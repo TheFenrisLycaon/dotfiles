@@ -30,6 +30,12 @@ _launch=Alt+S,none,Spotify
 _k_friendly_name=Teams
 _launch=Meta+T,none,Teams
 
+[google-chrome.desktop]
+_k_friendly_name=Google Chrome
+_launch=none,none,Google Chrome
+new-private-window=none,none,New Incognito Window
+new-window=Meta+N,none,New Window
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
@@ -46,8 +52,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=Custom Shortcuts Service
-{c251ea63-0aae-4126-b5f7-9741eb2984b2}=Ctrl+Alt+T,none,Launch Konsole
+_k_friendly_name=konsole_globalaccel
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
@@ -170,8 +175,8 @@ Walk Through Desktops=none,,Walk Through Desktops
 Walk Through Desktops (Reverse)=none,,Walk Through Desktops (Reverse)
 Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
 Walk Through Windows (Reverse)=Alt+Shift+Tab,Alt+Shift+Backtab,Walk Through Windows (Reverse)
-Walk Through Windows Alternative=Ctrl+Alt+Tab,,Walk Through Windows Alternative
-Walk Through Windows Alternative (Reverse)=Ctrl+Alt+Shift+Tab,,Walk Through Windows Alternative (Reverse)
+Walk Through Windows Alternative=Meta+Tab,,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=Meta+Shift+Tab,,Walk Through Windows Alternative (Reverse)
 Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
 Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
 Walk Through Windows of Current Application Alternative=none,,Walk Through Windows of Current Application Alternative
@@ -252,11 +257,11 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [mediacontrol]
 _k_friendly_name=Media Controller
-mediavolumedown=none,,Media volume down
-mediavolumeup=none,,Media volume up
+mediavolumedown=none,none,Media volume down
+mediavolumeup=none,none,Media volume up
 nextmedia=Media Next\tMeta+F10,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,,Play media playback
+playmedia=none,none,Play media playback
 playpausemedia=Media Play\tMeta+F8,Media Play,Play/Pause media playback
 previousmedia=Meta+F9\tMedia Previous,Media Previous,Media playback previous
 stopmedia=Media Stop\tMeta+F11,Media Stop,Stop media playback
@@ -269,7 +274,7 @@ _launch=Meta+E,Meta+E,Dolphin
 NewTab=none,none,Open a New Tab
 NewWindow=none,none,Open a New Window
 _k_friendly_name=Konsole
-_launch=Meta+Return,none,Konsole
+_launch=Ctrl+Alt+T,none,Konsole
 
 [org.kde.krunner.desktop]
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
@@ -326,7 +331,7 @@ activate widget 56=Alt+F1,none,Activate Application Menu Widget
 activate widget 59=none,none,Activate KDE Connect Widget
 activate widget 61=Meta+Alt+V,none,Activate Audio Volume Widget
 activate widget 63=Meta+Alt+N,none,Activate Notifications Widget
-activate widget 67=Meta+N,none,Activate Networks Widget
+activate widget 67=none,none,Activate Networks Widget
 activate widget 72=none,none,Activate Better inline clock Widget
 activate widget 73=none,none,Activate Media Player Widget
 activate widget 79=Meta+Alt+B,none,Activate Bluetooth Widget
@@ -338,8 +343,8 @@ cycleNextAction=none,,Next History Item
 cyclePrevAction=none,,Previous History Item
 edit_clipboard=none,,Edit Contents…
 manage activities=Meta+Q,Meta+Q,Show Activity Switcher
-next activity=Meta+Tab,Meta+Tab,Walk through activities
-previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
+next activity=none,Meta+Tab,Walk through activities
+previous activity=none,Meta+Shift+Tab,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,,Show Barcode…
@@ -351,7 +356,7 @@ toggle do not disturb=none,,Toggle do not disturb
 
 [systemsettings.desktop]
 _k_friendly_name=System Settings
-_launch=Tools,Tools,System Settings
+_launch=Tools\tMeta+Ctrl+S,Tools,System Settings
 kcm-kscreen=none,none,Display Configuration
 kcm-lookandfeel=none,none,Global Theme
 kcm-users=none,none,Users

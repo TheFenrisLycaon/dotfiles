@@ -11,4 +11,4 @@ Seen=true
 PopupTimeout=3000
 
 [Services][kdeconnect]
-ShowPopups=false
+ShowInHistory=false

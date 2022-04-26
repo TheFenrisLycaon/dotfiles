@@ -56,9 +56,9 @@ done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_op
 mtime=1648556762
 
 [gwenview.upd]
-ctime=1646322353
+ctime=1650937993
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1646132140
+mtime=1650158894
 
 [icons_remove_effects.upd]
 ctime=1649002554
@@ -70,8 +70,8 @@ ctime=1646199705
 mtime=1643712242
 
 [kcalcrc.upd]
-ctime=1646322354
-mtime=1646138145
+ctime=1650937994
+mtime=1650164861
 
 [kcm_rename_plasma_desktop.upd]
 ctime=1648699499
@@ -94,8 +94,8 @@ done=5.0KDE4Breeze_2
 mtime=1641290688
 
 [kgthemeprovider-migration.upd]
-ctime=1646322354
-mtime=1646125208
+ctime=1650937994
+mtime=1650152690
 
 [kleopatra.upd]
 ctime=1646199710
@@ -105,6 +105,11 @@ mtime=1644738131
 [klickety.upd]
 ctime=1646199710
 mtime=1643712857
+
+[konsole_globalaccel.upd]
+ctime=1650937994
+done=konsole_globalaccel
+mtime=1650165171
 
 [konversation.upd]
 ctime=1646199711
@@ -200,29 +205,29 @@ ctime=1646199706
 mtime=1644737592
 
 [okular.upd]
-ctime=1646322363
+ctime=1650937995
 done=annotation-toolbar,builtin-annotations
-mtime=1646132531
+mtime=1650159269
 
 [spectacle_clipboard.upd]
-ctime=1646322363
+ctime=1650937995
 done=clipboard-settings-change
-mtime=1646132711
+mtime=1650159446
 
 [spectacle_newConfig.upd]
-ctime=1646322363
+ctime=1650937995
 done=spectacle-new-config
-mtime=1646132711
+mtime=1650159446
 
 [spectacle_rememberregion.upd]
-ctime=1646322363
+ctime=1650937995
 done=spectacle-migrate-rememberregion
-mtime=1646132711
+mtime=1650159446
 
 [spectacle_shortcuts.upd]
-ctime=1646322363
+ctime=1650937995
 done=spectacle-migrate-shortcuts
-mtime=1646132711
+mtime=1650159446
 
 [style_widgetstyle_default_breeze.upd]
 ctime=1649002554

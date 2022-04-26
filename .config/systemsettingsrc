@@ -25,7 +25,7 @@ copyCertificatesDialog=true
 
 [Open-with settings]
 CompletionMode=1
-History=whats,spo,team
+History=chrom,settin,whats,spo,team
 
 [UiSettings]
 ColorScheme=Default

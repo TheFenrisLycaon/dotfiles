@@ -137,7 +137,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][57][Configuration][General]
-groupingAppIdBlacklist=visual-studio-code.desktop,notion-app-enhanced.desktop,brave-browser.desktop
+groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop,visual-studio-code.desktop
 groupingLauncherUrlBlacklist=applications:visual-studio-code.desktop,applications:notion-app-enhanced.desktop,applications:brave-browser.desktop
 groupingStrategy=0
 launchers=preferred://filemanager,preferred://browser,applications:visual-studio-code.desktop,applications:vlc.desktop
@@ -204,6 +204,7 @@ plugin=org.kde.plasma.volume
 PreloadWeight=100
 
 [Containments][29][Applets][38][Configuration][General]
+currentTab=streams
 raiseMaximumVolume=true
 
 [Containments][29][Applets][39]
@@ -253,7 +254,7 @@ PreloadWeight=0
 
 [Containments][29][General]
 extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.bluetooth,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.kdeconnect
-hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc,Plasma_microphone,org.kde.plasma.mediacontroller,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,org.kde.ktp-contactlist,KTorrent
+hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc,Plasma_microphone,org.kde.plasma.mediacontroller,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,org.kde.ktp-contactlist,KTorrent,WorkComposer1,remmina-icon
 knownItems=org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.kdeconnect
 shownItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.notifications
 
@@ -284,7 +285,7 @@ Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen0566.jpg
+Image=file:///home/fenris/Pictures/wallpaper/Screen0112.jpg
 SlideInterval=15
 SlidePaths=/home/fenris/Pictures/wallpaper
 SlideshowFoldersFirst=true
