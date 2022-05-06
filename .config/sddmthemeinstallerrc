@@ -1,4 +1,6 @@
 [DownloadedThemes]
+/tmp/ChromeOS.tar.xz=/usr/share/sddm/themes/ChromeOS
+/tmp/Nordic.tar.xz=/usr/share/sddm/themes/Nordic
 /tmp/Relax-SDDM.tar.gz=/usr/share/sddm/themes/Relax-SDDM
 /tmp/Sweet-Mars.tar.xz=/usr/share/sddm/themes/Sweet-Mars
 /tmp/Sweet.tar.xz=/usr/share/sddm/themes/Sweet

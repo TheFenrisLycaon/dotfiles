@@ -16,35 +16,39 @@ Recent URLs[$e]=file:$HOME/Work/Sem6/Assignment/temp/,file:$HOME/Work/dead/Unive
 iconViewIconSize=64
 
 [MainWindow]
+LVDS-1 Height 1366x768=683
+LVDS-1 Width 1366x768=649
+LVDS-1 Window-Maximized 1366x768=true
 LVDS-1 XPosition 1366x768=363
 LVDS-1 YPosition 1366x768=158
 LVDS1 Window-Maximized 1366x768=true
 LVDS1 XPosition 1366x768=699
 LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAALSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/Screenshot_dataGen.py - AfterShock - Visual Studio Code_001.png
-File2[$e]=$HOME/Pictures/Screenshots/Screenshot_eps1.0_hellofriend.mov - VLC media player_001.png
-File3[$e]=$HOME/Pictures/Screenshots/Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-File4[$e]=$HOME/Pictures/Screenshots/Screenshot_Moon Knight S01E01 - VLC media player_001.png
-File5[$e]=$HOME/Pictures/Screenshots/1.png
-File6[$e]=$HOME/Pictures/Screenshots/2022-04-01_15-41-13.avi
-File7[$e]=$HOME/Pictures/Screenshots/PC_1.png
-File8[$e]=$HOME/Pictures/Screenshots/Screenshot (258).png
-File9[$e]=$HOME/Pictures/Screenshots/Screenshot_AfterShock : zsh_001.png
-Name1[$e]=Screenshot_dataGen.py - AfterShock - Visual Studio Code_001.png
-Name2[$e]=Screenshot_eps1.0_hellofriend.mov - VLC media player_001.png
-Name3[$e]=Screenshot_Meet - fbs-yuaj-gre - Brave__003.png
-Name4[$e]=Screenshot_Moon Knight S01E01 - VLC media player_001.png
-Name5[$e]=1.png
-Name6[$e]=2022-04-01_15-41-13.avi
-Name7[$e]=PC_1.png
-Name8[$e]=Screenshot (258).png
-Name9[$e]=Screenshot_AfterShock : zsh_001.png
+File1[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-28.png
+File10[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-37.png
+File2[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-29.png
+File3[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-30.png
+File4[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-31.png
+File5[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-32.png
+File6[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-34.png
+File7[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-33.png
+File8[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-35.png
+File9[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-36.png
+Name1[$e]=00-28.png
+Name10[$e]=00-37.png
+Name2[$e]=00-29.png
+Name3[$e]=00-30.png
+Name4[$e]=00-31.png
+Name5[$e]=00-32.png
+Name6[$e]=00-34.png
+Name7[$e]=00-33.png
+Name8[$e]=00-35.png
+Name9[$e]=00-36.png
 
 [SideBar]
-IsVisible ViewMode=true
-SideBarSplitterSizes=227,1138
+SideBarSplitterSizes=227,1135

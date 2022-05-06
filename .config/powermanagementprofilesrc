@@ -1,9 +1,6 @@
 [AC]
 icon=battery-charging
 
-[AC][BrightnessControl]
-value=20
-
 [AC][DPMSControl]
 idleTime=1500
 lockBeforeTurnOff=0

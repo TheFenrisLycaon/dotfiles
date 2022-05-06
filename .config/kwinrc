@@ -73,7 +73,6 @@ count=0
 
 [TabBox]
 BorderActivate=9
-LayoutName=org.kde.breeze.desktop
 MinimizedMode=1
 
 [TabBoxAlternative]
@@ -90,4 +89,3 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=XIA
 ButtonsOnRight=
-theme=__aurorae__svg__Sweet-Dark-transparent

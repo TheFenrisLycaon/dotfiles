@@ -127,6 +127,7 @@ alias web='conda activate web;export PATH="/home/fenris/.condahome/envs/web/bin/
 alias gui='conda activate gui;export PATH="/home/fenris/.condahome/envs/gui/bin/:$PATH"'
 alias cred='conda activate credicxo;export PATH="/home/fenris/.condahome/envs/credicxo/bin/:$PATH"'
 alias vin='conda activate vin;export PATH="/home/fenris/.condahome/envs/vin/bin/:$PATH"'
+alias pyupdate="pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U"
 
 
 ### ARCHIVE EXTRACTION

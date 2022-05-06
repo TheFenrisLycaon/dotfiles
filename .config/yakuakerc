@@ -1,3 +1,9 @@
+[Appearance]
+BackgroundColorOpacity=100
+Skin=tabsonly
+SkinInstalledWithKns=true
+Translucency=true
+
 [Desktop Entry]
 DefaultProfile=
 
@@ -9,6 +15,7 @@ ShowPasteHugeTextWarning=false
 hinding_title_bar=false
 
 [Window]
+KeepOpen=false
 ShowTabBar=false
 ShowTitleBar=false
 Width=70

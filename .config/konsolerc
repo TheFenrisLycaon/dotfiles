@@ -3,7 +3,7 @@ State=AAAA/wAAAAD9AAAAAAAABVYAAALiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG
 StatusBar=Disabled
 
 [Desktop Entry]
-DefaultProfile=Brofile.profile
+DefaultProfile=nordic.profile
 
 [KonsoleWindow]
 AllowMenuAccelerators=true
@@ -33,5 +33,5 @@ SplitViewVisibility=AlwaysHideSplitHeader
 TabBarVisibility=AlwaysHideTabBar
 
 [UiSettings]
-ColorScheme=Sweet
-WindowColorScheme=Sweet
+ColorScheme=Nordic-Darker
+WindowColorScheme=Nordic-Darker

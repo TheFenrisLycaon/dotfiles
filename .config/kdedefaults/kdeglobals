@@ -1,8 +1,8 @@
 [General]
-ColorScheme=Sweet
+ColorScheme=BreezeDark
 
 [Icons]
-Theme=candy-icons
+Theme=Nordic-Darker
 
 [KDE]
 widgetStyle=kvantum-dark
