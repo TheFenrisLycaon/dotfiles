@@ -6,6 +6,8 @@ NaturalScroll=true
 TapToClick=true
 
 [Mouse]
+XLbInptAccelProfileFlat=true
+XLbInptLeftHanded=false
 XLbInptNaturalScroll=false
 cursorTheme=Nordic-cursors
 

@@ -5,6 +5,7 @@ FontWeight=50
 
 [ContextMenu]
 ShowAddToPlaces=false
+ShowDuplicateHere=false
 ShowOpenInNewTab=false
 ShowOpenInNewWindow=false
 
@@ -22,10 +23,11 @@ GlobalViewProps=false
 RememberOpenedTabs=false
 ShowFullPath=true
 ShowFullPathInTitlebar=true
+ShowSelectionToggle=false
 ShowZoomSlider=false
 UseTabForSwitchingSplitView=true
 Version=201
-ViewPropsTimestamp=2021,11,18,0,50,5.464
+ViewPropsTimestamp=2022,5,8,8,40,59.129
 
 [IconsMode]
 FontFamily=Monospace
@@ -39,10 +41,10 @@ Places Icons Auto-resize=false
 Places Icons Static Size=22
 
 [KPropertiesDialog]
-LVDS-1 Height 1366x768=636
-LVDS-1 Width 1366x768=529
-LVDS1 Height 1366x768=478
-LVDS1 Width 1366x768=425
+LVDS-1 Height 1366x768=478
+LVDS-1 Width 1366x768=390
+LVDS1 Height 1366x768=636
+LVDS1 Width 1366x768=522
 
 [MainWindow]
 LVDS-1 Window-Maximized 1366x768=true
@@ -66,7 +68,7 @@ ShowVcsRestartInformation=false
 
 [Open-with settings]
 CompletionMode=1
-History=visual,vim,vis,neo,mkvto,vlc,mkv,mkvt,oku,code,kchm,gwen
+History=vlc,code,visual,vim,vis,neo,mkvto,mkv,mkvt,oku,kchm,gwen
 
 [PreviewSettings]
 Plugins=audiothumbnail,ebookthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,ffmpegthumbs
@@ -82,5 +84,7 @@ ToolButtonStyle=IconOnly
 enabledPlugins=Git
 
 [ViewPropertiesDialog]
-LVDS1 Height 1366x768=464
-LVDS1 Width 1366x768=375
+LVDS-1 Height 1366x768=738
+LVDS-1 Width 1366x768=356
+LVDS1 Height 1366x768=486
+LVDS1 Width 1366x768=356

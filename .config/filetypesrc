@@ -1,7 +1,10 @@
 [EmbedSettings]
 embed-application/json=false
 embed-application/x-ipynb+json=false
+embed-application/x-partial-download=false
+embed-audio/aac=false
 embed-text/x-python=false
+embed-video/mp2t=false
 embed-video/mp4=false
 embed-video/x-matroska=false
 embed-video/x-msvideo=false

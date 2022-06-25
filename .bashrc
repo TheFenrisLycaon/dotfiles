@@ -105,7 +105,7 @@ alias unins='sudo pacman -Rsu '
 alias uninsy='paru -Rsu'
 alias update='sudo pacman -Syu'
 alias updatey='paru -Sua --noconfirm'              # update only AUR pkgs (paru)
-alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
+alias unlock='sudo rm /var/lib/pacman/db.lck'      # remove pacman lock
 alias tlmgr='tllocalmgr install'
 
 # Colorize grep output (good for log files)

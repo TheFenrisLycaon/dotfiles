@@ -88,11 +88,11 @@ source $ZSH/oh-my-zsh.sh
 export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+  export EDITOR='vim'
+else
+  export EDITOR='mvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -101,7 +101,7 @@ export LANG=en_US.UTF-8
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
+
 # Example aliases
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
@@ -162,9 +162,9 @@ alias ls='exa -al --color=always --group-directories-first' # my preferred listi
 alias la='exa -a --color=always --group-directories-first'  # all files and dirs
 alias ll='exa -l --color=always --group-directories-first'  # long format
 alias lt='exa -aT --color=always --group-directories-first' # tree listing
-alias l.='exa -a | egrep "^\."'
+alias l.='exa -a | egrep "^\."'				    # dotfiles only
 
-# random
+# frequents
 alias q='exit'
 alias c='clear'
 alias h='history'
@@ -187,7 +187,7 @@ alias dupdate='~/Apps/dotfiles/autoUpdate.sh'
 
 # python
 alias pp='python3'
-alias pins='pip3 install '
+alias insp='pip3 install '
 
 # easy edits
 alias vimrc='vim ~/.vimrc'
@@ -199,7 +199,7 @@ alias insy='paru -S '
 alias unins='sudo pacman -Rsu '
 alias uninsy='paru -Rsu'
 alias update='sudo pacman -Syu'
-alias updatey='paru -Sua --noconfirm'              # update only AUR pkgs (paru)
+alias updatey='paru -Sua --noconfirm'            # update only AUR pkgs (paru)
 alias unlock='sudo rm /var/lib/pacman/db.lck'    # remove pacman lock
 alias tlmgr='tllocalmgr install'
 
@@ -237,7 +237,6 @@ alias bye='shutdown now'
 alias nf='c;neofetch'
 alias listpkg='expac -H M "%011m\t%-20n\t%10d" $(comm -23 <(pacman -Qqen | sort) <({ pacman -Qqg base-devel; expac -l '\n' '%E' base; } | sort | uniq)) | sort -n'
 alias cm='cmatrix -Bras'
-alias sys='bpytop'
 alias btime='systemd-analyze'
 alias btimeb='systemd-analyze blame'
 alias btimecc='systemd-analyze critical-chain'
@@ -247,6 +246,7 @@ alias nu='vnstat -d 1'
 
 # Go
 export GOPATH='/home/fenris/Apps/go'
+
 # timer app
 timer() {
         local N=$1; shift

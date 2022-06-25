@@ -80,8 +80,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=87,102,103
-BackgroundNormal=87,102,103
+BackgroundAlternate=132,156,156
+BackgroundNormal=132,156,156
 DecorationFocus=178,210,210
 DecorationHover=178,210,210
 ForegroundActive=178,210,210
@@ -136,8 +136,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=814,590
-History Items[$e]=file:$HOME/Apps/Kvantum/Nordic-Darker,file:$HOME/Apps/Kvantum/Sweet,file:$HOME/Apps/Sweet-Mars-transparent-toolbar,file:$HOME/Work/Projects/University/Semester6,file:$HOME/Work/Projects/University/Semester6,file:$HOME/Downloads,file:$HOME/Work/Learning/Go/go-library,file:$HOME/Work/Projects/GoShit/go-library,file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Work/dead/University/Semester6,file:$HOME/Pictures/wallpaper,file:$HOME/work/dead/University/Semester6,file:$HOME/work/IN - Arima/ANPR/weights,file:$HOME/work/IN - Arima/ANPR/samples,file:$HOME/work/IN - Arima/ANPR/notebooks,file:$HOME/work/IN - Arima/ANPR/darknet,file:$HOME/work/IN - Arima/liveMain/live2/templates,file:$HOME/work/IN - Arima/liveMain/live3/templates,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
+DirSelectDialog Size=812,590
+History Items[$e]=file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Apps/Kvantum/Nordic-Darker,file:$HOME/Apps/Kvantum/Sweet,file:$HOME/Apps/Sweet-Mars-transparent-toolbar,file:$HOME/Work/Projects/University/Semester6,file:$HOME/Work/Projects/University/Semester6,file:$HOME/Downloads,file:$HOME/Work/Learning/Go/go-library,file:$HOME/Work/Projects/GoShit/go-library,file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Pictures/wallpaper,file:$HOME/Work/dead/University/Semester6,file:$HOME/Pictures/wallpaper,file:$HOME/work/dead/University/Semester6,file:$HOME/work/IN - Arima/ANPR/weights,file:$HOME/work/IN - Arima/ANPR/samples,file:$HOME/work/IN - Arima/ANPR/notebooks,file:$HOME/work/IN - Arima/ANPR/darknet,file:$HOME/work/IN - Arima/liveMain/live2/templates,file:$HOME/work/IN - Arima/liveMain/live3/templates,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers,file:$HOME/Pictures/Wallpapers
 
 [General]
 AccentColor=178,210,210
@@ -148,6 +148,9 @@ XftHintStyle=hintfull
 XftSubPixel=rgb
 shadeSortColumn=true
 widgetStyle=Breeze
+
+[Icons]
+Theme=Tela-dark
 
 [KDE]
 AnimationDurationFactor=0.125
@@ -173,9 +176,14 @@ Show Speedbar=true
 Show hidden files=false
 Sort by=Name
 Sort directories first=true
+Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=110
 View Style=Simple
+
+[KScreen]
+ScaleFactor=1
+ScreenScaleFactors=LVDS1=1;DP1=1;DP2=1;DP3=1;HDMI1=1;HDMI2=1;HDMI3=1;VGA1=1;VIRTUAL1=1;
 
 [PreviewSettings]
 MaximumRemoteSize=0

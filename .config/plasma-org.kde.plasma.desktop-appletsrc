@@ -118,7 +118,7 @@ DialogWidth=720
 
 [Containments][2][Applets][56][Configuration][General]
 alphaSort=true
-customButtonImage=zsnes
+customButtonImage=AppImageLauncher
 favoritesPortedToKAstats=true
 limitDepth=true
 showRecentApps=false
@@ -132,18 +132,21 @@ global=Alt+F1
 immutability=1
 plugin=org.kde.plasma.icontasks
 
+[Containments][2][Applets][57][Configuration]
+PreloadWeight=42
+
 [Containments][2][Applets][57][Configuration][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][57][Configuration][General]
-groupingAppIdBlacklist=visual-studio-code.desktop,notion-app-enhanced.desktop,brave-browser.desktop
-groupingLauncherUrlBlacklist=applications:visual-studio-code.desktop,applications:notion-app-enhanced.desktop,applications:brave-browser.desktop
+groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop,visual-studio-code.desktop
+groupingLauncherUrlBlacklist=applications:notion-app-enhanced.desktop,applications:brave-browser.desktop,applications:visual-studio-code.desktop
 groupingStrategy=0
 launchers=applications:WorkComposer.desktop,applications:org.remmina.Remmina.desktop
 
 [Containments][2][ConfigDialog]
-DialogHeight=84
+DialogHeight=74
 DialogWidth=1366
 
 [Containments][2][Configuration]
@@ -169,7 +172,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][29][Applets][31][Configuration]
-PreloadWeight=10
+PreloadWeight=17
 
 [Containments][29][Applets][31][Shortcuts]
 global=Meta+K
@@ -257,7 +260,41 @@ hiddenItems=Yakuake,org.kde.kdeconnect,org.kde.plasma.clipboard,vlc,Plasma_micro
 knownItems=org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.plasma.manage-inputmethod,org.kde.plasma.vault,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.networkmanagement,org.kde.kdeconnect
 shownItems=org.kde.plasma.volume,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.notifications
 
-[Containments][47]
+[Containments][59]
+activityId=d1e47702-5be9-4164-92fe-145655929e77
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.slideshow
+
+[Containments][59][ConfigDialog]
+DialogHeight=768
+DialogWidth=1366
+
+[Containments][59][Wallpaper][org.kde.image][General]
+Image=file:///home/fenris/.local/share/wallpapers/Nordish/contents/images/1920x1080.jpg
+
+[Containments][59][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/fenris/Pictures/wallpaper/Screen1433.jpg
+SlidePaths=/home/fenris/Pictures/wallpaper
+
+[Containments][60]
+ItemGeometries-1366x768=
+ItemGeometriesHorizontal=
+activityId=d1e47702-5be9-4164-92fe-145655929e77
+formfactor=0
+immutability=1
+lastScreen=2
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][60][Wallpaper][org.kde.image][General]
+Image=file:///home/fenris/.local/share/wallpapers/Nordish/contents/images/1920x1080.jpg
+
+[Containments][62]
 ItemGeometries-1366x768=
 ItemGeometriesHorizontal=
 activityId=d1e47702-5be9-4164-92fe-145655929e77
@@ -268,26 +305,21 @@ location=0
 plugin=org.kde.desktopcontainment
 wallpaperplugin=org.kde.slideshow
 
-[Containments][47][ConfigDialog]
-DialogHeight=768
-DialogWidth=1366
+[Containments][62][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
 
-[Containments][47][Configuration]
-PreloadWeight=0
-
-[Containments][47][General]
+[Containments][62][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=272
+ToolBoxButtonX=298
 
-[Containments][47][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Next/contents/images/1366x768.png
-SlidePaths=/usr/share/wallpapers
+[Containments][62][Wallpaper][org.kde.image][General]
+Image=file:///home/fenris/.local/share/wallpapers/Nordish/contents/images/1920x1080.jpg
+SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
-[Containments][47][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen0186.jpg
-SlideInterval=15
-SlidePaths=/home/fenris/Pictures/wallpaper
-SlideshowFoldersFirst=true
+[Containments][62][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/fenris/Pictures/wallpaper/Screen0859.jpg
+SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers,/home/fenris/Pictures/wallpaper
 
 [Containments2Appletsts][45][Configuration][General]
 bold=true
@@ -296,5 +328,5 @@ noWindowType=text
 textType=1
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,9,desktop:/Music,desktop:/Downloads,desktop:/Videos,desktop:/Apps,desktop:/Documents,desktop:/Work,desktop:/work,desktop:/Pictures,desktop:/Misc
-screenMapping=
+itemsOnDisabledScreens=2,8,desktop:/Videos,desktop:/Documents,desktop:/Misc,desktop:/Music,desktop:/Apps,desktop:/Pictures,desktop:/Work,desktop:/Downloads,1,2,desktop:/tofix.txt,desktop:/Credicxo
+screenMapping=desktop:/work,0

@@ -27,28 +27,23 @@ LVDS1 YPosition 1366x768=28
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAABVYAAALWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+VGA-1 Window-Maximized 1366x768=true
 
 [Recent Files]
-File1[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-28.png
-File10[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-37.png
-File2[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-29.png
-File3[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-30.png
-File4[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-31.png
-File5[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-32.png
-File6[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-34.png
-File7[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-33.png
-File8[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-35.png
-File9[$e]=$HOME/Work/Semester6/Minor_Proj/private/00-36.png
-Name1[$e]=00-28.png
-Name10[$e]=00-37.png
-Name2[$e]=00-29.png
-Name3[$e]=00-30.png
-Name4[$e]=00-31.png
-Name5[$e]=00-32.png
-Name6[$e]=00-34.png
-Name7[$e]=00-33.png
-Name8[$e]=00-35.png
-Name9[$e]=00-36.png
+File1[$e]=$HOME/Pictures/Screenshots/Screenshot__031.png
+File2[$e]=$HOME/Pictures/Screenshots/Screenshot__030.png
+File3[$e]=$HOME/Pictures/Screenshots/Screenshot__029.png
+File4[$e]=$HOME/Pictures/Screenshots/Screenshot__035.png
+File5[$e]=$HOME/Pictures/Screenshots/Screenshot__036.png
+File6[$e]=$HOME/Pictures/Screenshots/Screenshot__033.png
+File7[$e]=$HOME/Pictures/Screenshots/Screenshot__034.png
+Name1[$e]=Screenshot__031.png
+Name2[$e]=Screenshot__030.png
+Name3[$e]=Screenshot__029.png
+Name4[$e]=Screenshot__035.png
+Name5[$e]=Screenshot__036.png
+Name6[$e]=Screenshot__033.png
+Name7[$e]=Screenshot__034.png
 
 [SideBar]
 SideBarSplitterSizes=227,1135

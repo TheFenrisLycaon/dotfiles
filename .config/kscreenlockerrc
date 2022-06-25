@@ -2,7 +2,9 @@
 update_info=kscreenlocker.upd:0.1-autolock
 
 [Daemon]
-LockGrace=15
+Autolock=false
+LockGrace=1
+Timeout=10
 
 [Greeter]
 WallpaperPlugin=org.kde.slideshow
