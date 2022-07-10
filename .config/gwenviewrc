@@ -30,20 +30,26 @@ ToolBarsMovable=Disabled
 VGA-1 Window-Maximized 1366x768=true
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Screenshots/Screenshot__031.png
-File2[$e]=$HOME/Pictures/Screenshots/Screenshot__030.png
-File3[$e]=$HOME/Pictures/Screenshots/Screenshot__029.png
-File4[$e]=$HOME/Pictures/Screenshots/Screenshot__035.png
-File5[$e]=$HOME/Pictures/Screenshots/Screenshot__036.png
-File6[$e]=$HOME/Pictures/Screenshots/Screenshot__033.png
-File7[$e]=$HOME/Pictures/Screenshots/Screenshot__034.png
-Name1[$e]=Screenshot__031.png
-Name2[$e]=Screenshot__030.png
-Name3[$e]=Screenshot__029.png
-Name4[$e]=Screenshot__035.png
-Name5[$e]=Screenshot__036.png
-Name6[$e]=Screenshot__033.png
-Name7[$e]=Screenshot__034.png
+File1[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot_20200324-200337.png
+File10[$e]=$HOME/Downloads/Screenshot_20220707-140624-01-removebg-preview.png
+File2[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot_20200326-000133.png
+File3[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot_20200326-000143.png
+File4[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot_20200326-000225.png
+File5[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot (119).png
+File6[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot (120).png
+File7[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot (207).png
+File8[$e]=$HOME/Documents/Bakcup/Pictures/Screenshot/Screenshot (210).png
+File9[$e]=$HOME/Documents/Bakcup/Pictures/WhatsApp/IMG-20200321-WA0031.jpg
+Name1[$e]=Screenshot_20200324-200337.png
+Name10[$e]=Screenshot_20220707-140624-01-removebg-preview.png
+Name2[$e]=Screenshot_20200326-000133.png
+Name3[$e]=Screenshot_20200326-000143.png
+Name4[$e]=Screenshot_20200326-000225.png
+Name5[$e]=Screenshot (119).png
+Name6[$e]=Screenshot (120).png
+Name7[$e]=Screenshot (207).png
+Name8[$e]=Screenshot (210).png
+Name9[$e]=IMG-20200321-WA0031.jpg
 
 [SideBar]
 SideBarSplitterSizes=227,1135

@@ -191,6 +191,7 @@ alias insp='pip3 install '
 
 # easy edits
 alias vimrc='vim ~/.vimrc'
+alias spacerc='nvim ~/.SpaceVim.d/init.toml'
 alias bashrc='vim ~/.bashrc'
 
 # pacman shortcuts

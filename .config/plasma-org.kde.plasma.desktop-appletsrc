@@ -105,29 +105,6 @@ DialogWidth=720
 fontSize=10
 showPercentage=false
 
-[Containments][2][Applets][56]
-immutability=1
-plugin=org.kde.plasma.kicker
-
-[Containments][2][Applets][56][Configuration]
-PreloadWeight=100
-
-[Containments][2][Applets][56][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][56][Configuration][General]
-alphaSort=true
-customButtonImage=AppImageLauncher
-favoritesPortedToKAstats=true
-limitDepth=true
-showRecentApps=false
-showRecentDocs=false
-useCustomButtonImage=true
-
-[Containments][2][Applets][56][Shortcuts]
-global=Alt+F1
-
 [Containments][2][Applets][57]
 immutability=1
 plugin=org.kde.plasma.icontasks
@@ -140,10 +117,29 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][57][Configuration][General]
-groupingAppIdBlacklist=notion-app-enhanced.desktop,brave-browser.desktop,visual-studio-code.desktop
-groupingLauncherUrlBlacklist=applications:notion-app-enhanced.desktop,applications:brave-browser.desktop,applications:visual-studio-code.desktop
+groupingAppIdBlacklist=notion-app-enhanced.desktop,visual-studio-code.desktop,brave-browser.desktop
+groupingLauncherUrlBlacklist=applications:brave-browser.desktop,applications:visual-studio-code.desktop,applications:notion-app-enhanced.desktop
 groupingStrategy=0
 launchers=applications:WorkComposer.desktop,applications:org.remmina.Remmina.desktop
+
+[Containments][2][Applets][65]
+immutability=1
+plugin=org.kde.plasma.kicker
+
+[Containments][2][Applets][65][Configuration]
+PreloadWeight=100
+
+[Containments][2][Applets][65][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][2][Applets][65][Configuration][General]
+customButtonImage=/home/fenris/Apps/wolf.png
+favoritesPortedToKAstats=true
+useCustomButtonImage=true
+
+[Containments][2][Applets][65][Shortcuts]
+global=Alt+F1
 
 [Containments][2][ConfigDialog]
 DialogHeight=74
@@ -153,7 +149,7 @@ DialogWidth=1366
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=56;57;44;24;27;49;28;54
+AppletOrder=65;44;57;24;27;49;28;54
 
 [Containments][29]
 activityId=
@@ -172,7 +168,7 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][29][Applets][31][Configuration]
-PreloadWeight=17
+PreloadWeight=22
 
 [Containments][29][Applets][31][Shortcuts]
 global=Meta+K
@@ -214,7 +210,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][29][Applets][39][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][29][Applets][40][Configuration]
 PreloadWeight=42
@@ -238,7 +234,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][29][Applets][50]
 immutability=1
@@ -311,14 +307,14 @@ DialogWidth=720
 
 [Containments][62][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=298
+ToolBoxButtonX=188
 
 [Containments][62][Wallpaper][org.kde.image][General]
 Image=file:///home/fenris/.local/share/wallpapers/Nordish/contents/images/1920x1080.jpg
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][62][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen0859.jpg
+Image=file:///home/fenris/Pictures/wallpaper/Screen1508.png
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers,/home/fenris/Pictures/wallpaper
 
 [Containments2Appletsts][45][Configuration][General]
@@ -326,6 +322,12 @@ bold=true
 noWindowText=
 noWindowType=text
 textType=1
+
+[Containments2Appletsts][64][Configuration][General]
+alphaSort=true
+icon=/home/fenris/Apps/wolf.png
+primaryActions=3
+systemFavorites=lock-screen\\,logout\\,save-session\\,switch-user\\,suspend\\,hibernate\\,reboot\\,shutdown
 
 [ScreenMapping]
 itemsOnDisabledScreens=2,8,desktop:/Videos,desktop:/Documents,desktop:/Misc,desktop:/Music,desktop:/Apps,desktop:/Pictures,desktop:/Work,desktop:/Downloads,1,2,desktop:/tofix.txt,desktop:/Credicxo

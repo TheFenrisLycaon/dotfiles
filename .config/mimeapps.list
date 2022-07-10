@@ -2,6 +2,7 @@
 application/json=visual-studio-code.desktop;
 application/x-ipynb+json=visual-studio-code.desktop;
 application/x-partial-download=vlc.desktop;
+application/x-shellscript=visual-studio-code.desktop;
 audio/aac=vlc.desktop;
 inode/directory=org.kde.dolphin.desktop;
 text/x-python=visual-studio-code.desktop;
@@ -17,6 +18,7 @@ x-scheme-handler/https=brave-browser.desktop;
 application/json=visual-studio-code.desktop;
 application/x-ipynb+json=visual-studio-code.desktop;
 application/x-partial-download=vlc.desktop;
+application/x-shellscript=visual-studio-code.desktop;
 audio/aac=vlc.desktop;
 inode/directory=org.kde.dolphin.desktop;
 text/html=brave-browser.desktop

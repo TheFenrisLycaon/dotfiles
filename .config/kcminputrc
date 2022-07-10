@@ -6,6 +6,7 @@ NaturalScroll=true
 TapToClick=true
 
 [Mouse]
+X11LibInputXAccelProfileFlat=false
 XLbInptAccelProfileFlat=true
 XLbInptLeftHanded=false
 XLbInptNaturalScroll=false

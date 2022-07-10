@@ -2,6 +2,7 @@
 embed-application/json=false
 embed-application/x-ipynb+json=false
 embed-application/x-partial-download=false
+embed-application/x-shellscript=false
 embed-audio/aac=false
 embed-text/x-python=false
 embed-video/mp2t=false

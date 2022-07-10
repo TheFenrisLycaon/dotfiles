@@ -9,3 +9,9 @@ ordering=applications:visual-studio-code.desktop,applications:org.kde.dolphin.de
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-56-global]
 ordering=applications:visual-studio-code.desktop,applications:org.kde.dolphin.desktop,preferred://browser,applications:vlc.desktop,applications:systemsettings.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-65-d1e47702-5be9-4164-92fe-145655929e77]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-65-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover
