@@ -150,7 +150,7 @@ shadeSortColumn=true
 widgetStyle=Breeze
 
 [Icons]
-Theme=Tela-dark
+Theme=WhiteSur-purple-dark
 
 [KDE]
 AnimationDurationFactor=0.125
@@ -184,6 +184,9 @@ View Style=Simple
 [KScreen]
 ScaleFactor=1
 ScreenScaleFactors=LVDS1=1;DP1=1;DP2=1;DP3=1;HDMI1=1;HDMI2=1;HDMI3=1;VGA1=1;VIRTUAL1=1;
+
+[PanelIcons]
+Size=32
 
 [PreviewSettings]
 MaximumRemoteSize=0

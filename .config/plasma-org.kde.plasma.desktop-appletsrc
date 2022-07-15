@@ -117,8 +117,8 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][57][Configuration][General]
-groupingAppIdBlacklist=notion-app-enhanced.desktop,visual-studio-code.desktop,brave-browser.desktop
-groupingLauncherUrlBlacklist=applications:brave-browser.desktop,applications:visual-studio-code.desktop,applications:notion-app-enhanced.desktop
+groupingAppIdBlacklist=brave-browser.desktop,visual-studio-code.desktop,notion-app-enhanced.desktop
+groupingLauncherUrlBlacklist=applications:notion-app-enhanced.desktop,applications:visual-studio-code.desktop,applications:brave-browser.desktop
 groupingStrategy=0
 launchers=applications:WorkComposer.desktop,applications:org.remmina.Remmina.desktop
 
@@ -149,7 +149,7 @@ DialogWidth=1366
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=65;44;57;24;27;49;28;54
+AppletOrder=65;57;44;24;27;49;28;54
 
 [Containments][29]
 activityId=
@@ -234,7 +234,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][29][Applets][43][Configuration]
-PreloadWeight=92
+PreloadWeight=97
 
 [Containments][29][Applets][50]
 immutability=1
@@ -314,7 +314,7 @@ Image=file:///home/fenris/.local/share/wallpapers/Nordish/contents/images/1920x1
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][62][Wallpaper][org.kde.slideshow][General]
-Image=file:///home/fenris/Pictures/wallpaper/Screen1508.png
+Image=file:///home/fenris/Pictures/wallpaper/Screen0000.png
 SlidePaths=/home/fenris/.local/share/wallpapers,/usr/share/wallpapers,/home/fenris/Pictures/wallpaper
 
 [Containments2Appletsts][45][Configuration][General]

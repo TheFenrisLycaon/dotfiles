@@ -1058,6 +1058,9 @@ AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321,konsole
 Disabled=false
 Version=2
 
+[PanelIcons]
+Size[$d]
+
 [PreviewSettings]
 MaximumRemoteSize[$d]
 
